@@ -1,0 +1,1026 @@
+[
+  {
+    "_message": "Read the Sana After Story?",
+    "message": "[TL] Читать историю Саны после?"
+  },
+  {
+    "_message": "Yes",
+    "message": "[TL] Да"
+  },
+  {
+    "_message": "No",
+    "message": "[TL] Нет"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Ah!”",
+    "message": "[TL] Ах!"
+  },
+  {
+    "_message": "I wonder what she’s like.",
+    "message": "[TL] Интересно, какая она."
+  },
+  {
+    "_message": "I can’t help myself.",
+    "message": "[TL] Я ничего не могу с собой поделать."
+  },
+  {
+    "_message": "She’s right there.",
+    "message": "[TL] Она здесь."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Sena?”",
+    "message": "[TL] ...Сена?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“That’s right. You’re Sakuno’s brother, correct?”",
+    "message": "[TL] Это верно. Ты брат Сакуно, верно?"
+  },
+  {
+    "_message": "It’s the same voice I’ve been listening to on the phone.",
+    "message": "[TL] Это тот же голос, который я слушал по телефону."
+  },
+  {
+    "_message": "Her face breaks into a smile.",
+    "message": "[TL] Ее лицо расплывается в улыбке."
+  },
+  {
+    "_message": "And yet she maintains a stunning air of elegance.",
+    "message": "[TL] И все же она сохраняет потрясающую элегантность."
+  },
+  {
+    "name": "Airi",
+    "_message": "“You were easy to spot. You look just like I pictured you.”",
+    "message": "[TL] Вас было легко заметить. Ты выглядишь именно так, как я тебя представлял."
+  },
+  {
+    "_message": "—As for me? She looks even better than anything I’d pictured.",
+    "message": "[TL] -Что касается меня? Она выглядит даже лучше, чем все, что я себе представлял."
+  },
+  {
+    "_message": "I’m stuck, just looking up at her.",
+    "message": "[TL] Я застрял, просто смотрю на нее."
+  },
+  {
+    "_message": "I don’t even remember to breathe.",
+    "message": "[TL] Я даже не помню, как дышу."
+  },
+  {
+    "name": "Airi",
+    "_message": "“We made it, Sakuno. Our ordeal is over!”",
+    "message": "[TL] Мы сделали это, Сакуно. Наше испытание окончено!"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...Shingy.”",
+    "message": "[TL] ...Шинги."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ah... yeah.”",
+    "message": "[TL] Ах... да."
+  },
+  {
+    "_message": "I feel my sister’s eyes on me.",
+    "message": "[TL] Я чувствую на себе взгляд сестры."
+  },
+  {
+    "_message": "I slowly draw in a breath—",
+    "message": "[TL] Я медленно вдыхаю —"
+  },
+  {
+    "_message": "And remember how I got here.",
+    "message": "[TL] И вспомни, как я сюда попал."
+  },
+  {
+    "_message": "The sweet fragrance of olive trees fills the night.",
+    "message": "[TL] Сладкий аромат оливковых деревьев наполняет ночь."
+  },
+  {
+    "_message": "I do love the fall.",
+    "message": "[TL] Я люблю осень."
+  },
+  {
+    "_message": "I breathe more deeply for a moment, appreciating the aroma.",
+    "message": "[TL] На мгновение я дышу глубже, оценивая аромат."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Okay. You left Mirror Mall and then got lost? Is that right, Sakuno?”",
+    "message": "[TL] Хорошо. Вы вышли из торгового центра Mirror Mall, а потом заблудились? Верно, Сакуно?"
+  },
+  {
+    "_message": "The tone of my question is gentle.",
+    "message": "[TL] Тон моего вопроса мягкий."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Sure did. It’s been a while since I got lost... quite this badly.”",
+    "message": "[TL] Конечно, сделал. Давненько я не заблудился... так сильно."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I don’t have a clue where I am.”",
+    "message": "[TL] Я понятия не имею, где я нахожусь."
+  },
+  {
+    "_message": "The voice from the phone belongs to my kid sister and—for once—actually sounds apologetic.",
+    "message": "[TL] Голос в телефоне принадлежит моей младшей сестре и — на этот раз — действительно звучит извиняющимся."
+  },
+  {
+    "_message": "When she didn’t return promptly from a trip to the shops, I had my suspicions. Yep, she got lost again.",
+    "message": "[TL] Когда она не вернулась вовремя из поездки по магазинам, у меня возникли подозрения. Да, она снова заблудилась."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Okay. Glad I gave you a call.”",
+    "message": "[TL] Хорошо. Рад, что позвонил тебе."
+  },
+  {
+    "_message": "She’s generally a calm, smart girl, but her DNA is missing the strand for a sense of direction.",
+    "message": "[TL] В целом она спокойная и умная девушка, но в ее ДНК отсутствует чувство направления."
+  },
+  {
+    "_message": "She keeps the condition under control most of the time, but when it does flare up, she goes totally off the map.",
+    "message": "[TL] Большую часть времени она держит свое состояние под контролем, но когда оно все-таки обостряется, она полностью сходит с ума."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I’m sorry.”",
+    "message": "[TL] Мне жаль."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“No, it’s fine. I’m glad this is nothing worse. With your cute face, I was worried about all sorts of stuff.”",
+    "message": "[TL] Нет, все в порядке. Я рад, что это не хуже. С твоим милым личиком я беспокоился о самых разных вещах."
+  },
+  {
+    "_message": "I often do this—use humor to hide my embarrassment.",
+    "message": "[TL] Я часто так делаю — использую юмор, чтобы скрыть свое смущение."
+  },
+  {
+    "_message": "I’m not good at people being apologetic around me. Even my sister—hell, especially my sister.",
+    "message": "[TL] Я не умею извиняться рядом со мной. Даже моя сестра – черт возьми, особенно моя сестра."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Nothing to worry about. I’m just lost.”",
+    "message": "[TL] Не о чем беспокоиться. Я просто потерялся."
+  },
+  {
+    "_message": "My trick works, anyway, because she’s quickly back to her normal self.",
+    "message": "[TL] В любом случае мой трюк сработал, потому что она быстро вернулась к своему нормальному состоянию."
+  },
+  {
+    "_message": "—But we still need to resolve this issue.",
+    "message": "[TL] — Но нам еще предстоит решить этот вопрос."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“That’s right. Nothing to worry about. I just have to find you.”",
+    "message": "[TL] Это верно. Не о чем беспокоиться. Мне просто нужно найти тебя."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Right. If I’m lost, you come find me.”",
+    "message": "[TL] Верно. Если я потеряюсь, ты найдешь меня."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Just like always. You know the drill.”",
+    "message": "[TL] Как всегда. Ты знаешь правила."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I’ll give you a call if I spot a landmark.”",
+    "message": "[TL] Я позвоню тебе, если увижу ориентир."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ahaha, roger that. Keep in touch.”",
+    "message": "[TL] Ахаха, вот это да. Поддерживать связь."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Bye.”",
+    "message": "[TL] Пока."
+  },
+  {
+    "_message": "I laugh as I end the call.",
+    "message": "[TL] Я смеюсь, завершая разговор."
+  },
+  {
+    "_message": "That really is just how we roll. Sakuno always trusts and relies on me.",
+    "message": "[TL] Именно так мы и катимся. Сакуно всегда доверяет мне и полагается на меня."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I had a feeling she might have gotten herself lost. It’s a good thing I left the house already.”",
+    "message": "[TL] У меня было ощущение, что она могла заблудиться. Хорошо, что я уже вышел из дома."
+  },
+  {
+    "_message": "As her brother, now I need to find my cute kid sister and prove that her trust in me is founded.",
+    "message": "[TL] Теперь мне, как ее брату, нужно найти свою милую сестренку и доказать, что ее доверие ко мне обосновано."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Okay! Hang in there, Sakuno!”",
+    "message": "[TL] Хорошо! Держись, Сакуно!"
+  },
+  {
+    "_message": "I set out.",
+    "message": "[TL] Я отправился в путь."
+  },
+  {
+    "_message": "The big shopping mall she went to today is on the other side of the station.",
+    "message": "[TL] Большой торговый центр, в который она сегодня пошла, находится на другой стороне станции."
+  },
+  {
+    "_message": "Those who live on this side, including us, rarely cross to the other.",
+    "message": "[TL] Те, кто живет по эту сторону, в том числе и мы, редко переходят на другую."
+  },
+  {
+    "_message": "Sakuno normally does her shopping at a supermarket that’s much closer to the house.",
+    "message": "[TL] Сакуно обычно делает покупки в супермаркете, который находится гораздо ближе к дому."
+  },
+  {
+    "_message": "It makes me wonder why she would do this today. But I do have some idea.",
+    "message": "[TL] Это заставляет меня задуматься, почему она сделала это сегодня. Но у меня есть кое-какая идея."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...She’s getting ready for tomorrow.”",
+    "message": "[TL] ...Она готовится к завтрашнему дню."
+  },
+  {
+    "_message": "I look up at the sky again.",
+    "message": "[TL] Я снова смотрю на небо."
+  },
+  {
+    "_message": "After all, tomorrow will bring us into the month of October.",
+    "message": "[TL] Ведь завтрашний день принесет нам октябрь."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Okay. Have you spotted any landmarks? Can you see anything in front of you?”",
+    "message": "[TL] Хорошо. Вы заметили какие-нибудь достопримечательности? Ты видишь что-нибудь перед собой?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“A hill...”",
+    "message": "[TL] Холм..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Haah, haah... phew...”",
+    "message": "[TL] Хаа, хаа... уф..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Are you okay?”",
+    "message": "[TL] ...Ты в порядке?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I don’t know...”",
+    "message": "[TL] Я не знаю..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I’m exhausted...”",
+    "message": "[TL] Я изможден..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Hmmm.”",
+    "message": "[TL] ...Хм."
+  },
+  {
+    "_message": "I’ve been walking for about another twenty minutes after crossing the tracks.",
+    "message": "[TL] Я шел еще около двадцати минут после того, как перешел рельсы."
+  },
+  {
+    "_message": "I get in touch with her again, to find Sakuno sounding completely exhausted on the other end of the line.",
+    "message": "[TL] Я снова связываюсь с ней и обнаруживаю, что Сакуно на другом конце линии говорит совершенно изнуренным голосом."
+  },
+  {
+    "_message": "She’s a calm, smart girl—with a terrible sense of direction and limited stamina. That’s Sakuno.",
+    "message": "[TL] Она спокойная, умная девочка с ужасным чувством направления и ограниченной выносливостью. Это Сакуно."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I’m sorry. ‘Hill’ isn’t really descriptive enough to help me out here.”",
+    "message": "[TL] Мне жаль. «Хилл» на самом деле недостаточно описателен, чтобы помочь мне здесь."
+  },
+  {
+    "_message": "I hate to say it, but there’s no way for me to find her based on such limited information.",
+    "message": "[TL] Ненавижу это говорить, но у меня нет возможности найти ее, основываясь на такой ограниченной информации."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“If you could just look around yourself a little more—”",
+    "message": "[TL] Если бы ты мог еще немного осмотреться вокруг..."
+  },
+  {
+    "name": "???",
+    "_message": "“Come on, Sakuno, get with it! Here, I’ll hold your hand!”",
+    "message": "[TL] Давай, Сакуно, действуй! Вот, я буду держать тебя за руку!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Huh?”",
+    "message": "[TL] ...Хм?"
+  },
+  {
+    "_message": "I press the phone closer to my ear.",
+    "message": "[TL] Я прижимаю телефон ближе к уху."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Okay... thanks, Airi...”",
+    "message": "[TL] Хорошо... спасибо, Айри..."
+  },
+  {
+    "name": "???",
+    "_message": "“No worries. You’re helping me out here too, Sakuno. Come on, explain what you can see to your brother.”",
+    "message": "[TL] Не беспокойся. Ты и здесь мне помогаешь, Сакуно. Давай, объясни брату, что ты видишь."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Okay... Shingy, I can see tracks on the other side of the hill. And then...”",
+    "message": "[TL] Хорошо... Шинги, я вижу следы на другой стороне холма. А потом..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Hold on.”",
+    "message": "[TL] ...Подожди."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Sakuno, is there someone there with you?”",
+    "message": "[TL] Сакуно, с тобой кто-нибудь есть?"
+  },
+  {
+    "_message": "It sounds like someone—with a voice I don’t recognize—is helping Sakuno through this on the other end of the line.",
+    "message": "[TL] Похоже, кто-то — с голосом, который я не узнаю — помогает Сакуно пройти через это на другом конце линии."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Ah, yeah... there’s someone. Haah, ooh...”",
+    "message": "[TL] Ах, да... есть кто-то. Хаа, ох..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I made friends with her after our first call. She’s pulling me along by the hand right now.”",
+    "message": "[TL] Я подружился с ней после нашего первого звонка. Она сейчас тащит меня за руку."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Huh? Are you sure she’s—”",
+    "message": "[TL] Хм? Ты уверен, что она..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Airi, take over.”",
+    "message": "[TL] Айри, возьми дело на себя."
+  },
+  {
+    "name": "???",
+    "_message": "“Huh? On the phone?”",
+    "message": "[TL] Хм? По телефону?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“It’s my brother.”",
+    "message": "[TL] Это мой брат."
+  },
+  {
+    "name": "???",
+    "_message": "“Seriously? Okay, give it here.”",
+    "message": "[TL] Серьезно? Хорошо, давай сюда."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hey, hello? Sakuno?”",
+    "message": "[TL] Эй, привет? Сакуно?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Hello? Sakuno just handed me her phone. I’m Airi Sena.”",
+    "message": "[TL] Привет? Сакуно только что дала мне свой телефон. Я Айри Сена."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Oh, um, hello. I’m Sakuno’s brother, Shingo Uryu.”",
+    "message": "[TL] О, эм, привет. Я брат Сакуно, Синго Урю."
+  },
+  {
+    "_message": "I panic a little. I also feel my back snap up straight.",
+    "message": "[TL] Я немного паникую. Я также чувствую, как моя спина выпрямляется."
+  },
+  {
+    "_message": "That’s the kind of mysterious power that resonates from the voice on the other end of the line now that I hear it clearly for the first time.",
+    "message": "[TL] Именно такая таинственная сила резонирует в голосе на другом конце линии сейчас, когда я впервые слышу его ясно."
+  },
+  {
+    "_message": "She sounds—refined, if that isn’t too hackneyed a phrase.",
+    "message": "[TL] Она звучит — изысканно, если это не слишком банальная фраза."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I’m sorry for all the trouble my sister is causing you. You really seem to be helping her out.”",
+    "message": "[TL] Мне жаль за все неприятности, которые причиняет тебе моя сестра. Кажется, ты действительно помогаешь ей."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Oh, not at all.”",
+    "message": "[TL] О, совсем нет."
+  },
+  {
+    "name": "Airi",
+    "_message": "“I’m in the same boat as her. I got lost too.”",
+    "message": "[TL] Я в той же лодке, что и она. Я тоже заблудился."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Huh?”",
+    "message": "[TL] ...Хм?"
+  },
+  {
+    "_message": "I’m not sure how to respond to that.",
+    "message": "[TL] Я не знаю, как на это ответить."
+  },
+  {
+    "_message": "She at least has the decency to sound embarrassed about it, clearly transmitted over the phone.",
+    "message": "[TL] По крайней мере, у нее хватило приличия выразить смущение по этому поводу, что явно передалось по телефону."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Getting lost is why we found each other. No need to thank me. Sakuno is helping me as much as I’m helping her.”",
+    "message": "[TL] Заблудившись, мы нашли друг друга. Не надо меня благодарить. Сакуно помогает мне так же, как я помогаю ей."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Airi...”",
+    "message": "[TL] Айри..."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Sakuno, please, don’t sound so pathetic. We’re in this together.”",
+    "message": "[TL] Сакуно, пожалуйста, не говори так жалко. Мы в этом вместе."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "_message": "She sounds a little bossy as well.",
+    "message": "[TL] Она тоже звучит немного властно."
+  },
+  {
+    "_message": "Definitely in control. Locked down and buttoned up.",
+    "message": "[TL] Определенно под контролем. Заперто и застегнуто."
+  },
+  {
+    "_message": "And yet with just as bad a sense of direction as Sakuno! Really?",
+    "message": "[TL] И все же с таким же плохим чувством направления, как и у Сакуно! Действительно?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“You there?”",
+    "message": "[TL] Вы там?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Yeah, I’m here.”",
+    "message": "[TL] Да, я здесь."
+  },
+  {
+    "_message": "I wonder what she’s like.",
+    "message": "[TL] Интересно, какая она."
+  },
+  {
+    "_message": "I can’t help but have that thought.",
+    "message": "[TL] Я не могу не думать об этом."
+  },
+  {
+    "_message": "And from that moment on—",
+    "message": "[TL] И с этого момента—"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hello? Sena?”",
+    "message": "[TL] Привет? Сена?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Yes.”",
+    "message": "[TL] Да."
+  },
+  {
+    "_message": "Sena becomes the one in charge of the phone.",
+    "message": "[TL] Сена становится ответственным за телефон."
+  },
+  {
+    "_message": "It’s a strange feeling to be spending so long on the phone with my sister’s new friend.",
+    "message": "[TL] Странное чувство – проводить так много времени по телефону с новым другом моей сестры."
+  },
+  {
+    "_message": "There’s nothing really connecting us.",
+    "message": "[TL] На самом деле нас ничего не связывает."
+  },
+  {
+    "_message": "It feels like we’re close, but we’re not. Not really.",
+    "message": "[TL] Кажется, что мы близки, но это не так. Не совсем."
+  },
+  {
+    "_message": "But I have to continue.",
+    "message": "[TL] Но я должен продолжать."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“What can you see?”",
+    "message": "[TL] Что ты видишь?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“The road starts down in front of us. We can see the lights in the distance.”",
+    "message": "[TL] Дорога начинается прямо перед нами. Мы видим огни вдалеке."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ah, okay. That sounds about right.”",
+    "message": "[TL] Ах, окей. Это звучит примерно правильно."
+  },
+  {
+    "_message": "I walk along as I listen to her description of their surroundings, trying to pin down their location.",
+    "message": "[TL] Я иду и слушаю ее описание их окружения, пытаясь определить их местонахождение."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Where are you now?”",
+    "message": "[TL] Где вы сейчас?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“The park. By the steps.”",
+    "message": "[TL] Парк. По ступенькам."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Ah, I see. That’s a big help. We should be able to find you.”",
+    "message": "[TL] Ах, я вижу. Это большая помощь. Мы должны быть в состоянии найти вас."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Okay. Good, good.”",
+    "message": "[TL] Хорошо. Хорошо, хорошо."
+  },
+  {
+    "_message": "We’re definitely getting closer together.",
+    "message": "[TL] Мы определенно становимся ближе друг к другу."
+  },
+  {
+    "_message": "I’m sure I’m close to finally being reunited with my sister.",
+    "message": "[TL] Я уверен, что близок к тому, чтобы наконец воссоединиться со своей сестрой."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Is Sakuno okay?”",
+    "message": "[TL] ...С Сакуно все в порядке?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“You really act like a big brother.”",
+    "message": "[TL] Ты действительно ведешь себя как старший брат."
+  },
+  {
+    "_message": "Sena gives a kind of giggle at my brotherly concern.",
+    "message": "[TL] Сена как бы посмеивается над моей братской заботой."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Yeah. Are you an only child?”",
+    "message": "[TL] Ага. Ты единственный ребенок?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“That’s right. So it feels... nice, doing this.”",
+    "message": "[TL] Это верно. Так что мне... приятно делать это."
+  },
+  {
+    "name": "Airi",
+    "_message": "“I’m sorry if that’s presumptive of me.”",
+    "message": "[TL] Извините, если это самонадеянно с моей стороны."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Not at all. I’m actually enjoying it too. How are we coming along?”",
+    "message": "[TL] Нисколько. На самом деле мне это тоже нравится. Как мы продвигаемся?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Give me a moment—Sakuno?”",
+    "message": "[TL] Дай мне минутку, Сакуно?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Haah, haah, Airi, I’m done for.”",
+    "message": "[TL] Хаа, хаа, Айри, мне конец."
+  },
+  {
+    "name": "Airi",
+    "_message": "“You can see your brother any moment! Hang in there, Sakuno!”",
+    "message": "[TL] Ты можешь увидеть своего брата в любой момент! Держись, Сакуно!"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I can hang. Let’s hang together.”",
+    "message": "[TL] Я могу повеситься. Давайте держаться вместе."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Good, good. If you can hang in there, so can I.”",
+    "message": "[TL] Хорошо, хорошо. Если ты можешь там держаться, то и я смогу."
+  },
+  {
+    "_message": "It sounds like each of them is helping the other to carry on.",
+    "message": "[TL] Кажется, что каждый из них помогает другому двигаться дальше."
+  },
+  {
+    "_message": "Or more like—Sena is continually providing reassurance to Sakuno.",
+    "message": "[TL] Или, скорее, Сена постоянно успокаивает Сакуно."
+  },
+  {
+    "_message": "As her brother, that makes me so happy. Sakuno has clearly made a nice new friend!",
+    "message": "[TL] Меня, как ее брата, это очень радует. Сакуно явно приобрел нового хорошего друга!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Good! Keep going! Almost there! The two of you—”",
+    "message": "[TL] Хороший! Продолжать идти! Почти там! Вы двое..."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Will just keep walking, yes.”",
+    "message": "[TL] Да, я просто продолжу идти."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“That’s right. You should be seeing the lights of the station now. Keeping going and you’ll reach the park.”",
+    "message": "[TL] Это верно. Сейчас вы должны видеть огни станции. Продолжайте идти, и вы доберетесь до парка."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I don’t want to miss you both. These steps make a good landmark, so I’ll wait here.”",
+    "message": "[TL] Я не хочу скучать по вам обоим. Эти шаги станут хорошим ориентиром, поэтому я подожду здесь."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Understood! I’ll be sure to get Sakuno to you, so just hang in there a little longer.”",
+    "message": "[TL] Понял! Я обязательно приведу к тебе Сакуно, так что подожди еще немного."
+  },
+  {
+    "_message": "—Really, what kind of person is she?",
+    "message": "[TL] — Действительно, что она за человек?"
+  },
+  {
+    "_message": "Her crisp, in-control voice makes me ask that question again.",
+    "message": "[TL] Ее четкий, контролирующий голос заставляет меня снова задать этот вопрос."
+  },
+  {
+    "_message": "The fact I still only know her as a voice makes me all the more interested.",
+    "message": "[TL] Тот факт, что я до сих пор знаю ее только как голос, делает меня еще более заинтересованным."
+  },
+  {
+    "_message": "In a short moment more, she should be arriving here with Sakuno.",
+    "message": "[TL] Еще через мгновение она должна прибыть сюда вместе с Сакуно."
+  },
+  {
+    "_message": "I actually feel pretty excited by this prospect.",
+    "message": "[TL] На самом деле я очень воодушевлен этой перспективой."
+  },
+  {
+    "_message": "And then—",
+    "message": "[TL] А потом-"
+  },
+  {
+    "_message": "For a moment or two, I forget to breathe.",
+    "message": "[TL] На мгновение или два я забываю дышать."
+  },
+  {
+    "_message": "—The two parties finally become one.",
+    "message": "[TL] — Две партии наконец становятся одной."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Sena. Thank you so much.”",
+    "message": "[TL] Сена. Большое спасибо."
+  },
+  {
+    "name": "Airi",
+    "_message": "“No, thank you. We’re fine now, and that’s all thanks to you.”",
+    "message": "[TL] Нет, спасибо. Теперь у нас все в порядке, и это все благодаря тебе."
+  },
+  {
+    "_message": "I give her a bow of my head, but that’s her immediate reply.",
+    "message": "[TL] Я кланяю ей голову, но это ее немедленный ответ."
+  },
+  {
+    "_message": "It makes me happy.",
+    "message": "[TL] Это делает меня счастливым."
+  },
+  {
+    "_message": "She’s just as nice as I imagined her to be—but also a whole heck of a lot prettier.",
+    "message": "[TL] Она такая же милая, какой я ее себе представлял, но при этом намного красивее."
+  },
+  {
+    "name": "Airi",
+    "_message": "“This is thanks to Sakuno, too. I’m happy fate put me in your path, Sakuno.”",
+    "message": "[TL] Это тоже благодаря Сакуно. Я счастлив, что судьба встретила меня на твоем пути, Сакуно."
+  },
+  {
+    "_message": "Sena’s beautiful face smiles again as she takes Sakuno’s hands.",
+    "message": "[TL] Красивое лицо Сены снова улыбается, когда она берет Сакуно за руки."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Airi, can we meet again?”",
+    "message": "[TL] Айри, мы можем встретиться снова?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Of course! We’re already best friends.”",
+    "message": "[TL] Конечно! Мы уже лучшие друзья."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“That’s right.”",
+    "message": "[TL] Это верно."
+  },
+  {
+    "_message": "The two girls laugh and smile.",
+    "message": "[TL] Две девушки смеются и улыбаются."
+  },
+  {
+    "_message": "Their shared experience does seem to have already brought them close.",
+    "message": "[TL] Их общий опыт, похоже, уже сблизил их."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“If you’re going to be spending a lot of time together, then at least the next time you get lost I can find you both at once.”",
+    "message": "[TL] Если вы собираетесь проводить много времени вместе, то, по крайней мере, в следующий раз, когда вы заблудитесь, я смогу найти вас обоих сразу."
+  },
+  {
+    "name": "Airi",
+    "_message": "“I won’t be getting lost again. I’ll stick to the streets I know from now on.”",
+    "message": "[TL] Я больше не потеряюсь. С этого момента я буду придерживаться тех улиц, которые знаю."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Please come find us again, Shingy!”",
+    "message": "[TL] Пожалуйста, найди нас снова, Шинги!"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Hey, Sakuno! You’re clearly planning on getting lost again!”",
+    "message": "[TL] Эй, Сакуно! Ты явно планируешь снова заблудиться!"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...?”",
+    "message": "[TL] ...?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Today wore me out but it was lots of fun. Let’s have Shingy find us again.”",
+    "message": "[TL] Сегодняшний день меня утомил, но было очень весело. Пусть Шинги снова нас найдет."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Oh, you little scamp! How can I refuse?”",
+    "message": "[TL] Ах ты, маленький негодяй! Как я могу отказаться?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Let’s at least try and beat our time from this little adventure, shall we?”",
+    "message": "[TL] Давайте хотя бы попробуем выиграть время в этом маленьком приключении, ладно?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I’ll work on it.”",
+    "message": "[TL] Я поработаю над этим."
+  },
+  {
+    "name": "Airi",
+    "_message": "“I think you might be the problem!”",
+    "message": "[TL] Я думаю, проблема может быть в тебе!"
+  },
+  {
+    "_message": "But Sakuno is good at commandeering a conversation, and even the intelligent Sena already seems to be under her thumb.",
+    "message": "[TL] Но Сакуно умеет вести разговор, и даже умная Сена, кажется, уже у нее под каблуком."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Okay. It’s late. Let’s get home, for today.”",
+    "message": "[TL] Хорошо. Уже поздно. Давайте на сегодня вернемся домой."
+  },
+  {
+    "_message": "It’s getting pretty late now. I tilt my head a little.",
+    "message": "[TL] Сейчас уже довольно поздно. Я слегка наклоняю голову."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Sena, we can walk you home first, if you like—”",
+    "message": "[TL] Сена, мы можем сначала проводить тебя домой, если хочешь..."
+  },
+  {
+    "name": "Airi",
+    "_message": "“No need. I’m fine from here.”",
+    "message": "[TL] Незачем. Мне здесь хорошо."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...I live really close.”",
+    "message": "[TL] ...Я живу очень близко."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Oh, okay.”",
+    "message": "[TL] Ох, ладно."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Really close. You take Sakuno and head home, like a good big brother.”",
+    "message": "[TL] Очень близко. Ты возьмешь Сакуно и отправишься домой, как хороший старший брат."
+  },
+  {
+    "name": "Airi",
+    "_message": "“She’s done all this shopping for you. Whatever she’s making, I’m sure it will be delicious.”",
+    "message": "[TL] Она сделала все эти покупки для тебя. Что бы она ни приготовила, я уверен, что это будет вкусно."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Thanks for everything. Really.”",
+    "message": "[TL] ...Спасибо за все. Действительно."
+  },
+  {
+    "_message": "I give another bow, this time low and deep.",
+    "message": "[TL] Я еще раз поклоняюсь, на этот раз низко и глубоко."
+  },
+  {
+    "_message": "I try to be considerate of others, which is why Sena’s own consideration moves me so much.",
+    "message": "[TL] Я стараюсь быть внимательным к другим, поэтому внимание Сены меня так волнует."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Bye-bye, Airi.”",
+    "message": "[TL] Пока, Айри."
+  },
+  {
+    "name": "Airi",
+    "_message": "“See you soon, Sakuno.”",
+    "message": "[TL] До скорой встречи, Сакуно."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Goodnight.”",
+    "message": "[TL] Спокойной ночи."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Yes, goodnight!”",
+    "message": "[TL] Да, спокойной ночи!"
+  },
+  {
+    "_message": "Sena laughs, gives a nod, and then turns away. Her long hair flows like the Milky Way.",
+    "message": "[TL] Сена смеется, кивает и отворачивается. Ее длинные волосы струятся, как Млечный Путь."
+  },
+  {
+    "_message": "Her back is straight as a rod, and she walks like a princess.",
+    "message": "[TL] Спина у нее прямая, как прут, и ходит она, как принцесса."
+  },
+  {
+    "_message": "The refreshing coolness of her presence lingers as she disappears up the stairs.",
+    "message": "[TL] Освежающая прохлада ее присутствия сохраняется, пока она исчезает вверх по лестнице."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Okay. Let’s head home too, Sakuno.”",
+    "message": "[TL] ...Хорошо. Давай тоже отправимся домой, Сакуно."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Okay.”",
+    "message": "[TL] Хорошо."
+  },
+  {
+    "_message": "Sakuno lifts up the shopping bags that Airi just returned to her. She’s completely back to her normal self.",
+    "message": "[TL] Сакуно поднимает сумки с покупками, которые ей только что вернула Айри. Она полностью вернулась к своему обычному состоянию."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“You aren’t too worn out? I can carry you on my back if you like.”",
+    "message": "[TL] Ты не слишком устал? Если хочешь, я могу нести тебя на своей спине."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I’m the wrong age for that now.”",
+    "message": "[TL] У меня сейчас неподходящий возраст для этого."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Does that mean you’re too old, or not decrepit enough? It could be either.”",
+    "message": "[TL] Означает ли это, что ты слишком стар или недостаточно дряхл? Это может быть и то, и другое."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“It doesn’t matter. I’m still walking home.”",
+    "message": "[TL] Это не имеет значения. Я все еще иду домой."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Okay, okay.”",
+    "message": "[TL] Хорошо, хорошо."
+  },
+  {
+    "_message": "I set out. Sakuno trots right after me.",
+    "message": "[TL] Я отправился в путь. Сакуно бежит прямо за мной."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Mirror Mall had all sorts of great stuff. You pay a lot for it, of course.”",
+    "message": "[TL] В Mirror Mall было много замечательных вещей. Конечно, за это платят много."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“You seem to have paid a lot. Are you planning a special meal tonight?”",
+    "message": "[TL] Кажется, вы много заплатили. Планируешь сегодня на вечер особенный ужин?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Maybe. Compared to normal.”",
+    "message": "[TL] Может быть. По сравнению с обычным."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“But most of this is for your lunchbox tomorrow.”",
+    "message": "[TL] Но большая часть этого пойдет тебе завтра в ланчбокс."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ah...”",
+    "message": "[TL] Ах..."
+  },
+  {
+    "_message": "I smile, understanding the reason Sakuno came all the way to Mirror Mall.",
+    "message": "[TL] Я улыбаюсь, понимая, почему Сакуно проделал весь путь до «Миррор Молл»."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I had a feeling this was about tomorrow.”",
+    "message": "[TL] У меня было ощущение, что это будет завтра."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“That’s right. I want to make a very special lunchbox for you. I can’t let you take anything substandard.”",
+    "message": "[TL] Это верно. Я хочу сделать для тебя особенный ланчбокс. Я не могу позволить тебе взять что-то некачественное."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hahaha, thanks, Sakuno. It’s appreciated.”",
+    "message": "[TL] Ха-ха-ха, спасибо, Сакуно. Это ценится."
+  },
+  {
+    "_message": "I look up at the sky again.",
+    "message": "[TL] Я снова смотрю на небо."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...October starts tomorrow.”",
+    "message": "[TL] ...Октябрь начинается завтра."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“That’s right. Starting tomorrow—”",
+    "message": "[TL] Это верно. Начиная с завтрашнего дня..."
+  }
+]

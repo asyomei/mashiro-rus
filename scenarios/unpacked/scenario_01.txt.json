@@ -1,0 +1,803 @@
+[
+  {
+    "message": "Read the Sana After Story?"
+  },
+  {
+    "message": "Yes"
+  },
+  {
+    "message": "No"
+  },
+  {
+    "name": "Airi",
+    "message": "“Ah!”"
+  },
+  {
+    "message": "I wonder what she’s like."
+  },
+  {
+    "message": "I can’t help myself."
+  },
+  {
+    "message": "She’s right there."
+  },
+  {
+    "name": "Shingo",
+    "message": "“...Sena?”"
+  },
+  {
+    "name": "Airi",
+    "message": "“That’s right. You’re Sakuno’s brother, correct?”"
+  },
+  {
+    "message": "It’s the same voice I’ve been listening to on the phone."
+  },
+  {
+    "message": "Her face breaks into a smile."
+  },
+  {
+    "message": "And yet she maintains a stunning air of elegance."
+  },
+  {
+    "name": "Airi",
+    "message": "“You were easy to spot. You look just like I pictured you.”"
+  },
+  {
+    "message": "—As for me? She looks even better than anything I’d pictured."
+  },
+  {
+    "message": "I’m stuck, just looking up at her."
+  },
+  {
+    "message": "I don’t even remember to breathe."
+  },
+  {
+    "name": "Airi",
+    "message": "“We made it, Sakuno. Our ordeal is over!”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“...Shingy.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Ah... yeah.”"
+  },
+  {
+    "message": "I feel my sister’s eyes on me."
+  },
+  {
+    "message": "I slowly draw in a breath—"
+  },
+  {
+    "message": "And remember how I got here."
+  },
+  {
+    "message": "The sweet fragrance of olive trees fills the night."
+  },
+  {
+    "message": "I do love the fall."
+  },
+  {
+    "message": "I breathe more deeply for a moment, appreciating the aroma."
+  },
+  {
+    "name": "Shingo",
+    "message": "“Okay. You left Mirror Mall and then got lost? Is that right, Sakuno?”"
+  },
+  {
+    "message": "The tone of my question is gentle."
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Sure did. It’s been a while since I got lost... quite this badly.”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“I don’t have a clue where I am.”"
+  },
+  {
+    "message": "The voice from the phone belongs to my kid sister and—for once—actually sounds apologetic."
+  },
+  {
+    "message": "When she didn’t return promptly from a trip to the shops, I had my suspicions. Yep, she got lost again."
+  },
+  {
+    "name": "Shingo",
+    "message": "“Okay. Glad I gave you a call.”"
+  },
+  {
+    "message": "She’s generally a calm, smart girl, but her DNA is missing the strand for a sense of direction."
+  },
+  {
+    "message": "She keeps the condition under control most of the time, but when it does flare up, she goes totally off the map."
+  },
+  {
+    "name": "Sakuno",
+    "message": "“I’m sorry.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“No, it’s fine. I’m glad this is nothing worse. With your cute face, I was worried about all sorts of stuff.”"
+  },
+  {
+    "message": "I often do this—use humor to hide my embarrassment."
+  },
+  {
+    "message": "I’m not good at people being apologetic around me. Even my sister—hell, especially my sister."
+  },
+  {
+    "name": "Sakuno",
+    "message": "“...”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Nothing to worry about. I’m just lost.”"
+  },
+  {
+    "message": "My trick works, anyway, because she’s quickly back to her normal self."
+  },
+  {
+    "message": "—But we still need to resolve this issue."
+  },
+  {
+    "name": "Shingo",
+    "message": "“That’s right. Nothing to worry about. I just have to find you.”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Right. If I’m lost, you come find me.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Just like always. You know the drill.”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“I’ll give you a call if I spot a landmark.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Ahaha, roger that. Keep in touch.”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Bye.”"
+  },
+  {
+    "message": "I laugh as I end the call."
+  },
+  {
+    "message": "That really is just how we roll. Sakuno always trusts and relies on me."
+  },
+  {
+    "name": "Shingo",
+    "message": "“I had a feeling she might have gotten herself lost. It’s a good thing I left the house already.”"
+  },
+  {
+    "message": "As her brother, now I need to find my cute kid sister and prove that her trust in me is founded."
+  },
+  {
+    "name": "Shingo",
+    "message": "“Okay! Hang in there, Sakuno!”"
+  },
+  {
+    "message": "I set out."
+  },
+  {
+    "message": "The big shopping mall she went to today is on the other side of the station."
+  },
+  {
+    "message": "Those who live on this side, including us, rarely cross to the other."
+  },
+  {
+    "message": "Sakuno normally does her shopping at a supermarket that’s much closer to the house."
+  },
+  {
+    "message": "It makes me wonder why she would do this today. But I do have some idea."
+  },
+  {
+    "name": "Shingo",
+    "message": "“...She’s getting ready for tomorrow.”"
+  },
+  {
+    "message": "I look up at the sky again."
+  },
+  {
+    "message": "After all, tomorrow will bring us into the month of October."
+  },
+  {
+    "name": "Shingo",
+    "message": "“Okay. Have you spotted any landmarks? Can you see anything in front of you?”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“A hill...”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Haah, haah... phew...”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“...Are you okay?”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“I don’t know...”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“I’m exhausted...”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“...Hmmm.”"
+  },
+  {
+    "message": "I’ve been walking for about another twenty minutes after crossing the tracks."
+  },
+  {
+    "message": "I get in touch with her again, to find Sakuno sounding completely exhausted on the other end of the line."
+  },
+  {
+    "message": "She’s a calm, smart girl—with a terrible sense of direction and limited stamina. That’s Sakuno."
+  },
+  {
+    "name": "Shingo",
+    "message": "“I’m sorry. ‘Hill’ isn’t really descriptive enough to help me out here.”"
+  },
+  {
+    "message": "I hate to say it, but there’s no way for me to find her based on such limited information."
+  },
+  {
+    "name": "Shingo",
+    "message": "“If you could just look around yourself a little more—”"
+  },
+  {
+    "name": "???",
+    "message": "“Come on, Sakuno, get with it! Here, I’ll hold your hand!”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“...Huh?”"
+  },
+  {
+    "message": "I press the phone closer to my ear."
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Okay... thanks, Airi...”"
+  },
+  {
+    "name": "???",
+    "message": "“No worries. You’re helping me out here too, Sakuno. Come on, explain what you can see to your brother.”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Okay... Shingy, I can see tracks on the other side of the hill. And then...”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“...Hold on.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Sakuno, is there someone there with you?”"
+  },
+  {
+    "message": "It sounds like someone—with a voice I don’t recognize—is helping Sakuno through this on the other end of the line."
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Ah, yeah... there’s someone. Haah, ooh...”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“I made friends with her after our first call. She’s pulling me along by the hand right now.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Huh? Are you sure she’s—”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“...”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Airi, take over.”"
+  },
+  {
+    "name": "???",
+    "message": "“Huh? On the phone?”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“It’s my brother.”"
+  },
+  {
+    "name": "???",
+    "message": "“Seriously? Okay, give it here.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Hey, hello? Sakuno?”"
+  },
+  {
+    "name": "Airi",
+    "message": "“Hello? Sakuno just handed me her phone. I’m Airi Sena.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Oh, um, hello. I’m Sakuno’s brother, Shingo Uryu.”"
+  },
+  {
+    "message": "I panic a little. I also feel my back snap up straight."
+  },
+  {
+    "message": "That’s the kind of mysterious power that resonates from the voice on the other end of the line now that I hear it clearly for the first time."
+  },
+  {
+    "message": "She sounds—refined, if that isn’t too hackneyed a phrase."
+  },
+  {
+    "name": "Shingo",
+    "message": "“I’m sorry for all the trouble my sister is causing you. You really seem to be helping her out.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“Oh, not at all.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“I’m in the same boat as her. I got lost too.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“...Huh?”"
+  },
+  {
+    "message": "I’m not sure how to respond to that."
+  },
+  {
+    "message": "She at least has the decency to sound embarrassed about it, clearly transmitted over the phone."
+  },
+  {
+    "name": "Airi",
+    "message": "“Getting lost is why we found each other. No need to thank me. Sakuno is helping me as much as I’m helping her.”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Airi...”"
+  },
+  {
+    "name": "Airi",
+    "message": "“Sakuno, please, don’t sound so pathetic. We’re in this together.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“...”"
+  },
+  {
+    "message": "She sounds a little bossy as well."
+  },
+  {
+    "message": "Definitely in control. Locked down and buttoned up."
+  },
+  {
+    "message": "And yet with just as bad a sense of direction as Sakuno! Really?"
+  },
+  {
+    "name": "Airi",
+    "message": "“You there?”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Yeah, I’m here.”"
+  },
+  {
+    "message": "I wonder what she’s like."
+  },
+  {
+    "message": "I can’t help but have that thought."
+  },
+  {
+    "message": "And from that moment on—"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Hello? Sena?”"
+  },
+  {
+    "name": "Airi",
+    "message": "“Yes.”"
+  },
+  {
+    "message": "Sena becomes the one in charge of the phone."
+  },
+  {
+    "message": "It’s a strange feeling to be spending so long on the phone with my sister’s new friend."
+  },
+  {
+    "message": "There’s nothing really connecting us."
+  },
+  {
+    "message": "It feels like we’re close, but we’re not. Not really."
+  },
+  {
+    "message": "But I have to continue."
+  },
+  {
+    "name": "Shingo",
+    "message": "“What can you see?”"
+  },
+  {
+    "name": "Airi",
+    "message": "“The road starts down in front of us. We can see the lights in the distance.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Ah, okay. That sounds about right.”"
+  },
+  {
+    "message": "I walk along as I listen to her description of their surroundings, trying to pin down their location."
+  },
+  {
+    "name": "Airi",
+    "message": "“Where are you now?”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“The park. By the steps.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“Ah, I see. That’s a big help. We should be able to find you.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Okay. Good, good.”"
+  },
+  {
+    "message": "We’re definitely getting closer together."
+  },
+  {
+    "message": "I’m sure I’m close to finally being reunited with my sister."
+  },
+  {
+    "name": "Shingo",
+    "message": "“...Is Sakuno okay?”"
+  },
+  {
+    "name": "Airi",
+    "message": "“You really act like a big brother.”"
+  },
+  {
+    "message": "Sena gives a kind of giggle at my brotherly concern."
+  },
+  {
+    "name": "Shingo",
+    "message": "“Yeah. Are you an only child?”"
+  },
+  {
+    "name": "Airi",
+    "message": "“That’s right. So it feels... nice, doing this.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“I’m sorry if that’s presumptive of me.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Not at all. I’m actually enjoying it too. How are we coming along?”"
+  },
+  {
+    "name": "Airi",
+    "message": "“Give me a moment—Sakuno?”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Haah, haah, Airi, I’m done for.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“You can see your brother any moment! Hang in there, Sakuno!”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“...”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“I can hang. Let’s hang together.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“Good, good. If you can hang in there, so can I.”"
+  },
+  {
+    "message": "It sounds like each of them is helping the other to carry on."
+  },
+  {
+    "message": "Or more like—Sena is continually providing reassurance to Sakuno."
+  },
+  {
+    "message": "As her brother, that makes me so happy. Sakuno has clearly made a nice new friend!"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Good! Keep going! Almost there! The two of you—”"
+  },
+  {
+    "name": "Airi",
+    "message": "“Will just keep walking, yes.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“That’s right. You should be seeing the lights of the station now. Keeping going and you’ll reach the park.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“I don’t want to miss you both. These steps make a good landmark, so I’ll wait here.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“Understood! I’ll be sure to get Sakuno to you, so just hang in there a little longer.”"
+  },
+  {
+    "message": "—Really, what kind of person is she?"
+  },
+  {
+    "message": "Her crisp, in-control voice makes me ask that question again."
+  },
+  {
+    "message": "The fact I still only know her as a voice makes me all the more interested."
+  },
+  {
+    "message": "In a short moment more, she should be arriving here with Sakuno."
+  },
+  {
+    "message": "I actually feel pretty excited by this prospect."
+  },
+  {
+    "message": "And then—"
+  },
+  {
+    "message": "For a moment or two, I forget to breathe."
+  },
+  {
+    "message": "—The two parties finally become one."
+  },
+  {
+    "name": "Shingo",
+    "message": "“Sena. Thank you so much.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“No, thank you. We’re fine now, and that’s all thanks to you.”"
+  },
+  {
+    "message": "I give her a bow of my head, but that’s her immediate reply."
+  },
+  {
+    "message": "It makes me happy."
+  },
+  {
+    "message": "She’s just as nice as I imagined her to be—but also a whole heck of a lot prettier."
+  },
+  {
+    "name": "Airi",
+    "message": "“This is thanks to Sakuno, too. I’m happy fate put me in your path, Sakuno.”"
+  },
+  {
+    "message": "Sena’s beautiful face smiles again as she takes Sakuno’s hands."
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Airi, can we meet again?”"
+  },
+  {
+    "name": "Airi",
+    "message": "“Of course! We’re already best friends.”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“That’s right.”"
+  },
+  {
+    "message": "The two girls laugh and smile."
+  },
+  {
+    "message": "Their shared experience does seem to have already brought them close."
+  },
+  {
+    "name": "Shingo",
+    "message": "“If you’re going to be spending a lot of time together, then at least the next time you get lost I can find you both at once.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“I won’t be getting lost again. I’ll stick to the streets I know from now on.”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Please come find us again, Shingy!”"
+  },
+  {
+    "name": "Airi",
+    "message": "“Hey, Sakuno! You’re clearly planning on getting lost again!”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“...?”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Today wore me out but it was lots of fun. Let’s have Shingy find us again.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“Oh, you little scamp! How can I refuse?”"
+  },
+  {
+    "name": "Airi",
+    "message": "“Let’s at least try and beat our time from this little adventure, shall we?”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“I’ll work on it.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“I think you might be the problem!”"
+  },
+  {
+    "message": "But Sakuno is good at commandeering a conversation, and even the intelligent Sena already seems to be under her thumb."
+  },
+  {
+    "name": "Shingo",
+    "message": "“Okay. It’s late. Let’s get home, for today.”"
+  },
+  {
+    "message": "It’s getting pretty late now. I tilt my head a little."
+  },
+  {
+    "name": "Shingo",
+    "message": "“Sena, we can walk you home first, if you like—”"
+  },
+  {
+    "name": "Airi",
+    "message": "“No need. I’m fine from here.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“...I live really close.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Oh, okay.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“Really close. You take Sakuno and head home, like a good big brother.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“She’s done all this shopping for you. Whatever she’s making, I’m sure it will be delicious.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“...Thanks for everything. Really.”"
+  },
+  {
+    "message": "I give another bow, this time low and deep."
+  },
+  {
+    "message": "I try to be considerate of others, which is why Sena’s own consideration moves me so much."
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Bye-bye, Airi.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“See you soon, Sakuno.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Goodnight.”"
+  },
+  {
+    "name": "Airi",
+    "message": "“Yes, goodnight!”"
+  },
+  {
+    "message": "Sena laughs, gives a nod, and then turns away. Her long hair flows like the Milky Way."
+  },
+  {
+    "message": "Her back is straight as a rod, and she walks like a princess."
+  },
+  {
+    "message": "The refreshing coolness of her presence lingers as she disappears up the stairs."
+  },
+  {
+    "name": "Shingo",
+    "message": "“...Okay. Let’s head home too, Sakuno.”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Okay.”"
+  },
+  {
+    "message": "Sakuno lifts up the shopping bags that Airi just returned to her. She’s completely back to her normal self."
+  },
+  {
+    "name": "Shingo",
+    "message": "“You aren’t too worn out? I can carry you on my back if you like.”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“I’m the wrong age for that now.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Does that mean you’re too old, or not decrepit enough? It could be either.”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“It doesn’t matter. I’m still walking home.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Okay, okay.”"
+  },
+  {
+    "message": "I set out. Sakuno trots right after me."
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Mirror Mall had all sorts of great stuff. You pay a lot for it, of course.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“You seem to have paid a lot. Are you planning a special meal tonight?”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“Maybe. Compared to normal.”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“But most of this is for your lunchbox tomorrow.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Ah...”"
+  },
+  {
+    "message": "I smile, understanding the reason Sakuno came all the way to Mirror Mall."
+  },
+  {
+    "name": "Shingo",
+    "message": "“I had a feeling this was about tomorrow.”"
+  },
+  {
+    "name": "Sakuno",
+    "message": "“That’s right. I want to make a very special lunchbox for you. I can’t let you take anything substandard.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“Hahaha, thanks, Sakuno. It’s appreciated.”"
+  },
+  {
+    "message": "I look up at the sky again."
+  },
+  {
+    "name": "Sakuno",
+    "message": "“...October starts tomorrow.”"
+  },
+  {
+    "name": "Shingo",
+    "message": "“That’s right. Starting tomorrow—”"
+  }
+]
