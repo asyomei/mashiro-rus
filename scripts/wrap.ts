@@ -18,7 +18,7 @@ export default function wrap(s: string): string {
       }
     }
 
-    buf.push(words.pop()!)
+    buf.push(words.shift()!)
   }
 
   return buf.join("\n")
