@@ -1,0 +1,2163 @@
+[
+  {
+    "_message": "—That’s right. October 1st marks more than just the change to winter uniforms.",
+    "message": "—Верно. 1 октября означает больше, чем просто переход на зимнюю форму."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Yuihime Girls’ Private Academy, huh...”",
+    "message": "Частная академия для девушек Юихимэ, хах..."
+  },
+  {
+    "_message": "I take my winter uniform from the closet while looking at the paper on my desk.",
+    "message": "Я беру свою зимнюю форму из шкафа, глядя на бумагу на своем столе."
+  },
+  {
+    "_message": "“NOTIFICATION OF PROVISIONAL MERGER.”",
+    "message": "“УВЕДОМЛЕНИЕ О ВРЕМЕННОМ СЛИЯНИИ.”"
+  },
+  {
+    "_message": "It’s from the school integration committee at my own school, Kagamidai Private Highschool.",
+    "message": "Это из школьного комитета по интеграции в моей собственной школе, высшей школы Кагамидай."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...I still can’t believe I’m going to a girls’ school.”",
+    "message": "...Я до сих пор не могу поверить, что пойду в школу для девушек."
+  },
+  {
+    "_message": "I’ve voiced my disbelief multiple times since the announcement, but today seems like a good day to do it again.",
+    "message": "С момента объявления я высказывал своё неверие несколько раз, но сегодняшний день кажется хорошей причиной сделать это снова."
+  },
+  {
+    "_message": "October 1st, with the change to winter uniforms, also sees Sakuno and I change schools completely.",
+    "message": "1 октября, с переходом на зимнюю форму, мы с Сакуно также полностью меняем школы."
+  },
+  {
+    "_message": "Yuihime Girls’ Academy.",
+    "message": "Академия для девушек Юихимэ."
+  },
+  {
+    "_message": "A famous private school for girls, located on the “other side” of the tracks in the wealthy old-town district.",
+    "message": "Знаменитая частная школа для девушек, расположенная на «другой стороне» путей в богатом старом районе города."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I know the number of kids in Japan is falling...”",
+    "message": "Я знаю, что количество детей в Японии падает..."
+  },
+  {
+    "_message": "But I didn’t expect that fact to impact my life so directly.",
+    "message": "Но я не ожидал, что этот факт повлияет на мою жизнь напрямую."
+  },
+  {
+    "_message": "The fall in the number of children being born in Japan has placed our own school, Kagamidai High, in dire financial straits.",
+    "message": "Падение числа детей в Японии поместило нашу собственную школу, Кагамидай, в ужасные финансовые проблемы."
+  },
+  {
+    "_message": "That was when the other school in Kagamidai, Yuihime Girls’, suggested a merger.",
+    "message": "И в этот момент другая школа в Кагамидае, академия Юихимэ, предложила слияние."
+  },
+  {
+    "_message": "All the students were obviously surprised.",
+    "message": "Очевидно, все студенты были удивлены."
+  },
+  {
+    "_message": "But the decision wasn’t ours to make.",
+    "message": "Но решение было не за нами."
+  },
+  {
+    "_message": "It’s better than our school shutting down and having nowhere to go.",
+    "message": "Это лучше, чем если бы наша школа закрылась и нам некуда было бы идти."
+  },
+  {
+    "_message": "The official merger will come from the start of the next school year, but from October there’s a provisional merger period.",
+    "message": "Официальное слияние состоится с начала следующего учебного года, но с октября начнётся временный период слияния."
+  },
+  {
+    "_message": "Some students from the first and second years have been selected to form test classes.",
+    "message": "Некоторые студенты первого и второго года были выбраны для формирования тестовых классов."
+  },
+  {
+    "_message": "And Sakuno and I were both selected. Hey, it’s not exactly the hunger games. We’ll be fine.",
+    "message": "И Сакуно и я были выбраны. Эй, это не совсем голодные игры. Всё будет хорошо."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Here we go.”",
+    "message": "Вот так."
+  },
+  {
+    "_message": "I wash my face, comb my hair, get my uniform on, and then a text arrives.",
+    "message": "Я умываю лицо, расчёсываю волосы, надеваю свою форму, а затем на мой телефон приходит сообщение."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Breakfast is ready.”",
+    "message": "Завтрак готов."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I’m coming now.”",
+    "message": "Иду."
+  },
+  {
+    "_message": "I’m wearing a different uniform and heading to a different school, but my morning message from Sakuno is the same as normal.",
+    "message": "Я ношу другую форму и направляюсь в другую школу, но моё утреннее сообщение от Сакуно осталось таким же."
+  },
+  {
+    "_message": "I enter the dining room to the welcoming aroma of breakfast.",
+    "message": "Я вхожу в столовую под приятный аромат завтрака."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Good morning, Sakuno.”",
+    "message": "Доброе утро, Сакуно."
+  },
+  {
+    "_message": "I call to my sister, who is still in the kitchen.",
+    "message": "Я зову мою сестру, которая все еще находится на кухне."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Morning.”",
+    "message": "Утро."
+  },
+  {
+    "_message": "Sakuno looks at me over her shoulder.",
+    "message": "Сакуно смотрит на меня через плечо."
+  },
+  {
+    "_message": "Her tall, slender figure is dressed in her winter uniform—which I’m seeing for the first time in a while—and her familiar apron.",
+    "message": "Её высокая, стройная фигура одета в зимнюю форму — которую я вижу впервые за долгое время — и её знакомый фартук."
+  },
+  {
+    "_message": "She’s my sister, but even I have to admit she paints a pretty picture, standing there in the kitchen.",
+    "message": "Она моя сестра, но даже я должен признать, что она очень смотрится там, на кухне."
+  },
+  {
+    "_message": "I feel the same thing every morning. I might be the doting brother after all.",
+    "message": "Я чувствую то же самое каждое утро. Всё же, может быть, я безумно люблю свою сестру."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“?”",
+    "message": "?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I was just thinking I hadn’t seen your winter uniform for a while, Sakuno.”",
+    "message": "Я просто подумал, что давненько не видел твоей зимней формы, Сакуно."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“It’s been four months. I was thinking the same about you.”",
+    "message": "Прошло четыре месяца. Я могу сказать то же самое о тебе."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Nothing to see here. But it really suits you, Sakuno.”",
+    "message": "Ничего примечательного. Но на тебе оно очень смотрится, Сакуно."
+  },
+  {
+    "_message": "I give a chuckle.",
+    "message": "Я смеюсь."
+  },
+  {
+    "_message": "I make a point of saying things like that as soon as I think of them.",
+    "message": "Я стараюсь говорить подобные вещи, как только они всплывают."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...The miso soup this morning has seaweed and fermented beans.”",
+    "message": "...Суп мисо сегодня утром имеет морские водоросли и ферментированные бобы."
+  },
+  {
+    "_message": "Sakuno smoothly changes the topic. She’s a mistress of redirection.",
+    "message": "Сакуно плавно меняет тему. Она в этом мастерица."
+  },
+  {
+    "_message": "I decide not to press the point.",
+    "message": "Я решаю не давить на эту тему."
+  },
+  {
+    "_message": "I know that when Sakuno turns her eyes away like that it’s not a welcome subject.",
+    "message": "Я знаю, что когда Сакуно так отводит глаза, это не хороший знак."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Okay. I’ll get out the bowls.”",
+    "message": "Хорошо. Я достану миски."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Mm.”",
+    "message": "Мм."
+  },
+  {
+    "_message": "There’s no expression on her face.",
+    "message": "На её лице нет выражения."
+  },
+  {
+    "_message": "The Uryu household is currently operating without either parent in residence.",
+    "message": "Дом Урю в данный момент действует без родителей."
+  },
+  {
+    "_message": "They have both always been very busy people.",
+    "message": "Они всегда были очень занятыми."
+  },
+  {
+    "_message": "Heading out early in the morning and coming back late at night. Being gone entirely for long periods each year.",
+    "message": "Уходя рано утром и приходя поздно ночью. Находясь снаружи долгое время каждый год."
+  },
+  {
+    "_message": "The two of us have gotten completely accustomed to making our way without parental supervision.",
+    "message": "Мы вдвоём полностью привыкли жить без родителей."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“That was great! Thanks.”",
+    "message": "Очень вкусно! Спасибо."
+  },
+  {
+    "_message": "My breakfast dishes are so clean, they might have just been washed.",
+    "message": "Моя посуда для завтрака такая чистая, наверное, она только что была вымыта."
+  },
+  {
+    "_message": "While our parents are away, Sakuno handles most of the housework.",
+    "message": "В то время как наши родители отсутствуют, Сакуно справляется с большей частью работы по дому."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“You don’t need anything more?”",
+    "message": "Тебе больше ничего не нужно?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“That’s right.”",
+    "message": "Ага."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“No need to hold back.”",
+    "message": "Не нужно сдерживаться."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Honestly, I’m stuffed full.”",
+    "message": "Честно, я наелся."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Good. I’m glad.”",
+    "message": "Хорошо. Я рада."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I’ll make some tea.”",
+    "message": "Я сделаю чай."
+  },
+  {
+    "_message": "Sakuno also finishes eating and then stands up to go make some tea.",
+    "message": "Сакуно также поела, а потому встаёт, чтобы сделать чай."
+  },
+  {
+    "_message": "She’s not only a good cook but also very attentive to the needs of others. I couldn’t ask for more.",
+    "message": "Она не только хорошо готовит, но и очень внимательна к потребностям других. Я не могу просить большего."
+  },
+  {
+    "_message": "It seems she thinks it’s only natural for her to be the one doing all this.",
+    "message": "Кажется, она думает, что для неё естественно, что она делает всё это."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Sorry for all the trouble, all the time.”",
+    "message": "Прости за всё."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“No trouble.”",
+    "message": "Нет проблем."
+  },
+  {
+    "_message": "The classic reply would be “we agreed you never have to say that.”",
+    "message": "Классическим ответом было бы “Мы согласились, что ты никогда больше не будешь говорить этого.”"
+  },
+  {
+    "_message": "But Sakuno never plays the classics.",
+    "message": "Но Сакуно никогда не говорит классику."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“She takes my casual jokes head-on, every time.”",
+    "message": "Каждый раз она воспринимает мои шутки всерьёз."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“We agreed you never have to say that.”",
+    "message": "Мы согласились, что ты никогда больше не будешь говорить этого."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Now you use it?!”",
+    "message": "Теперь ты это сказала?!"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Here’s your tea.”",
+    "message": "Вот твой чай."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hey, looks good. Thanks.”",
+    "message": "О, выглядит отлично. Спасибо."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I should be thanking you, anyway, for saving me yesterday.”",
+    "message": "Я должна поблагодарить тебя за то, что вчера спас меня."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“We agreed you never have to say that.”",
+    "message": "Мы согласились, что ты никогда больше не будешь говорить этого."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "For a mere moment there was a smile on her face. She’s not completely without humor.",
+    "message": "На мгновение на её лице была улыбка. Она не совсем лишена чувства юмора."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Anyway. Once I’ve finished this tea, I’ll wash the dishes.”",
+    "message": "В любом случае. Я помою посуду после того, как выпью чай."
+  },
+  {
+    "_message": "I should show my gratitude with my actions. I do my best to help however I can.",
+    "message": "Я должен выразить свою благодарность своими действиями. Я делаю всё возможное, чтобы помочь, как могу."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Oh, no need to bother.”",
+    "message": "Нет необходимости утруждать себя."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“You can give me a reward.”",
+    "message": "Ты можешь меня наградить."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“A reward?”",
+    "message": "Наградить?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“The very best lunchbox you can make, Sakuno.”",
+    "message": "Самым лучшим бенто, который ты можешь сделать, Сакуно."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...Here you go.”",
+    "message": "...Вот."
+  },
+  {
+    "_message": "Sakuno picks up on my “we’re in this together” vibe, and quickly comes back with my wrapped-up lunchbox.",
+    "message": "Сакуно понимает мою мысль и быстро возвращается с моим обёрнутым бенто."
+  },
+  {
+    "_message": "I take it and pat her on the head with a smile.",
+    "message": "Я беру бенто и с улыбкой глажу её по голове."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "Sakuno looks up at me, expressionless, and then gives a small nod.",
+    "message": "Сакуно смотрит на меня, без выражения, а затем слабо кивает."
+  },
+  {
+    "_message": "She went all the way to Mirror Mall to shop for this, after all.",
+    "message": "В конце концов, она пошла в Mirror Mall, чтобы купить всё для этого."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“What about that girl from yesterday?”",
+    "message": "Что насчёт той девушки вчера?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I have her number and e-mail address. I already had a text from her by the time we got home.”",
+    "message": "У меня есть её номер и адрес электронной почты. Я уже получила от неё сообщение, когда мы вернулись домой."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“That’s cool. You’ve made a new friend.”",
+    "message": "Круто. У тебя появилась новая подруга."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Getting lost pays off.”",
+    "message": "Потеряться оказалось выгодно."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“You came to find me, too.”",
+    "message": "Ты так же пришёл, чтобы найти меня."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“That’s right.”",
+    "message": "Это верно."
+  },
+  {
+    "_message": "We’ve always got along, just like this.",
+    "message": "Мы всегда ладили, вот так."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Better brush my teeth.”",
+    "message": "Почищу-ка я зубы."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hey, I’ve got a text from Hayata. It is our first day, so maybe we should have a meet up.”",
+    "message": "О, я получил сообщение от Хаяты. Это наш первый день, так что было бы неплохо с ним встретиться."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Toilet first...”",
+    "message": "Но сначала в туалет..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hey, Sakuno! No coming with me into the can!”",
+    "message": "Эй, Сакуно! Не ходи за мной в туалет!"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“That was close.”",
+    "message": "Было близко, близко."
+  },
+  {
+    "_message": "Getting along is fine, but the way she always follows me around can be risky.",
+    "message": "Ладить с ней хорошо, но то, как она всегда следует за мной, может быть опасным."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I’ll wait here.”",
+    "message": "Я подожду здесь."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I’d rather you didn’t wait in front of the bathroom either...”",
+    "message": "Мне бы хотелось, чтобы ты также не ждала меня перед туалетом..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I’ll cover my ears.”",
+    "message": "Я закрою уши."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“That’s not the issue.”",
+    "message": "Не в этом проблема."
+  },
+  {
+    "_message": "I leave the house with Sakuno.",
+    "message": "Мы вышли с Сакуно из дома."
+  },
+  {
+    "_message": "We’re heading out earlier than normal.",
+    "message": "Мы выходим раньше, чем обычно."
+  },
+  {
+    "_message": "We could get to Kagamidai High in five minutes, but it takes about thirty to reach Yuihime Girls’ Academy.",
+    "message": "Мы могли бы добраться до школы Кагамидай за пять минут, но до академии Юихимэ идти около тридцати минут."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“We’re going to need to get up early every day from now on.”",
+    "message": "Нам нужно будет вставать рано каждый день."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“If you can get up early, I can too.”",
+    "message": "Если ты сможешь вставать рано, то и я смогу."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“All my clattering around wakes you up, huh.”",
+    "message": "Ну весь этот грохот от меня будет тебя будить, хах."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Better than an alarm clock.”",
+    "message": "Всё ещё лучше, чем будильник."
+  },
+  {
+    "_message": "Both schools are in Kagamidai, but there’s a big difference between the high school and Yuihime Girls’.",
+    "message": "Обе школы находятся в Кагамидае, но существует большая разница между бывшей школой и академией Юихимэ."
+  },
+  {
+    "_message": "The difference between this side, the redeveloped new town, and that side, the wealthy old town.",
+    "message": "Разница между этой стороной, перестроенной новым городом, и этой стороной, старой и богатой."
+  },
+  {
+    "_message": "Kagamidai High was built as part of that redevelopment, and was just a regular high school, with little history or status.",
+    "message": "Школа Кагамидай была построена в рамках этой перепланировки и была просто обычной средней школой, с небольшой историей или статусом."
+  },
+  {
+    "_message": "The only points worthy of note would be having new buildings and the cute uniforms for the girls.",
+    "message": "Единственное, что стоит отметить, это новые здания и милая униформа для девушек."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...?”",
+    "message": "...?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Well, okay.”",
+    "message": "Кхм, да."
+  },
+  {
+    "_message": "The uniform is cute, that’s true.",
+    "message": "Форма милая, это правда."
+  },
+  {
+    "_message": "Maybe spending so much on that design was where the financial issues came from.",
+    "message": "Возможно, именно этот дизайн и есть источник финансовых проблем."
+  },
+  {
+    "_message": "Putting that aside, Yuihime Girls’ Academy is a famous, long-standing, and respected institution.",
+    "message": "С другой стороны, академия для девушек Юихимэ — это известное, давнее и уважаемое учреждение."
+  },
+  {
+    "_message": "It stands in the wealthy part of the town, where all the rich folks send their daughters.",
+    "message": "Академия стоит в богатой части города, куда все богатые люди отправляют своих дочерей."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“In other words—a paradise of hot, rich young girls!”",
+    "message": "Другими словами - рай горячих, богатых молодых девушек!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“A paradise we’re about to trample.”",
+    "message": "Рай, который мы собираемся растоптать."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“That’s a dirty way of putting it. Now I’m getting excited for a bit of trampling!”",
+    "message": "О, как ты грязно выразился. Теперь я взволнован немного потоптаться там!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“You sound way dirtier, Hayata.”",
+    "message": "Ты звучишь куда грязнее, Хаята."
+  },
+  {
+    "_message": "Immediately after showing up, too.",
+    "message": "Он возник перед нами внезапно."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ah, I’m sorry, Sakuno. I forgot to let you know that Hayata got in touch to meet up.”",
+    "message": "А, прости, Сакуно. Я забыл тебе сказать, что Хаята предложил встретиться."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“You didn’t need to tell me that.”",
+    "message": "Тебе не нужно было мне этого говорить."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Of course. You were right there when I got the text. Well, Hayata will be with us from here on in.”",
+    "message": "Конечно. Ты видела от него сообщение у меня. Ну, с этого момента Хаята будет с нами."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“Morning. Nice to see you, Sakuno.”",
+    "message": "Утро. Приятно тебя видеть, Сакуно."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Mm-hm.”",
+    "message": "Мхм."
+  },
+  {
+    "_message": "This guy, joining us in the vicinity of the station, is my friend Hayata Mukunashi.",
+    "message": "Этот парень, присоединившийся к нам в окрестностях станции, — мой друг Хаята Мукунаши."
+  },
+  {
+    "_message": "Of course, Hayata is also one of those selected for the test class. Indeed, he’s basically our leader.",
+    "message": "Естественно, Хаята также является одним из тех, кто выбран для тестового класса. Действительно, он же по сути наш лидер."
+  },
+  {
+    "_message": "He’s got jokes, as you can tell, but he’s also the current Kagamidai student president.",
+    "message": "Он много шутит, как вы можете слышать, но он также является нынешним студенческим президентом Кагамидай."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“You handle business, Hayata.”",
+    "message": "У тебя много дел, Хаята."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“I mean, hey. I am student president. Even if the school is going to vanish next year.”",
+    "message": "Эй. Я же студенческий президент. Даже если школа исчезнет в следующем году."
+  },
+  {
+    "_message": "Hayata responds to me and then twists his lips.",
+    "message": "Хаята отвечает мне, а затем кривит губы."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“But you’ve been put on the temp council too, Shingo, so I’m hoping that will let me take it easy.”",
+    "message": "Но вас тоже включили в временный совет, Синго, так что, я надеюсь, это позволит мне успокоиться."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“What does that have to do with anything?”",
+    "message": "Причём тут он?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“You’re just going to say your piece and leave me to make it happen, Hayata, huh.”",
+    "message": "Ты просто скажешь свою часть и оставишь меня, чтобы это произошло, Хаята, хах."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“That’s right. All the posh girls at Yuihime will end up exactly like you now, Sakuno.”",
+    "message": "Ага. Кстати, все шикарные девушки в Юихимэ будут в конечном итоге как ты сейчас, Сакуно."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "Sakuno finds herself caught up in the conversation. She blinks a few times, and then nods in acceptance.",
+    "message": "Сакуно оказывается в разговоре. Она моргает несколько раз, а затем кивает в ответ."
+  },
+  {
+    "_message": "That’s what Hayata does best. It makes us a potent team.",
+    "message": "Вот что делает Хаята лучше всего. Это делает нас мощной командой."
+  },
+  {
+    "_message": "The one who makes the plans, and the one who executes them. The pitcher and the catcher—in a purely sports-metaphor way.",
+    "message": "Тот, кто строит планы, и тот, кто их исполняет. Питчер и кетчер."
+  },
+  {
+    "_message": "That has to be why we get along so well, even though our personalities are completely different.",
+    "message": "Именно поэтому мы так хорошо ладим, хотя наши личности совершенно разные."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“All the Yuihime girls are going to be kneeling at your feet.”",
+    "message": "Все девушки Юихимэ будут стоять на коленях у ваших ног."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Sakuno, that’s the dirtiest comment yet!”",
+    "message": "Сакуно, это самый грязный комментарий!"
+  },
+  {
+    "name": "Hayata",
+    "_message": "“A shame you’re a year below us, Sakuno. You won’t get to see all the fun.”",
+    "message": "Как жаль, что ты на год ниже нас, Сакуно. Ты не увидишь всё веселье."
+  },
+  {
+    "_message": "We chat as we walk along, crossing the tracks and returning to the old town.",
+    "message": "Мы болтаем, пока мы идём, пересекая дорожки и возвращаясь в Старый город."
+  },
+  {
+    "_message": "The atmosphere along the road quickly turns to what can only be called “elegant,” speaking to the wealth that has pooled here since long ago.",
+    "message": "Атмосфера вдоль дороги быстро превращается в то, что можно назвать только «элегантным», говоря про богатство, которое здесь давно основалось."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“This place is totally different once you cross the tracks. I haven’t been on this side for a while.”",
+    "message": "Это место совершенно другое, когда мы пересекли рельсы. Я давно не был на этой стороне."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Residents of the new city don’t really have much business on the old side.”",
+    "message": "Жителям новой стороны на самом деле нет дела до старой стороны."
+  },
+  {
+    "_message": "With all the redevelopment, the new side has more stores and places to have fun. We can get what we need without coming this far.",
+    "message": "При всей перепланировке у новой стороны есть больше магазинов и мест, где можно повеселиться. Всё, что нам нужно, находится не так далеко."
+  },
+  {
+    "_message": "The only exception would perhaps be Sakuno’s destination from the day before, Mirror Mall.",
+    "message": "Единственным исключением, возможно, будет Mirror Mall, куда Сакуно ходила вчера."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Shingo, we just carry on straight to Yuihime?”",
+    "message": "Братец, нам просто прямо идти до Юихимэ?"
+  },
+  {
+    "_message": "Having got lost just the day before, Sakuno is carefully asking me directions every step of the way.",
+    "message": "Потерявшись вчера, Сакуно тщательно спрашивает меня на каждом этапе пути."
+  },
+  {
+    "_message": "As you might have guessed, she tends to call me “Shingo” in front of other people.",
+    "message": "Как вы уже могли догадаться, она называет меня “братцем” перед другими людьми."
+  },
+  {
+    "_message": "Shingy is probably starting to feel a little childish for her.",
+    "message": "“Братик”, наверное, звучит для неё немного по-детски."
+  },
+  {
+    "_message": "Although she used it when we were with Sena yesterday.",
+    "message": "Хотя она использовала его, когда мы были вчера с Сэной."
+  },
+  {
+    "_message": "I guess that’s a sign of how much trust she already put in Sena.",
+    "message": "Я думаю, это признак того, как много доверия Сэна заслужила у неё."
+  },
+  {
+    "_message": "...Hold on, that question was for me.",
+    "message": "...Стоп, этот вопрос был ко мне."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Yeah, that’s right. About ten minutes from here.”",
+    "message": "Да, верно. Около десяти минут отсюда."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“It’s a long way...”",
+    "message": "Долго..."
+  },
+  {
+    "_message": "Sakuno’s face clouds over (to the extent that it ever does). She’s not a confident person, physically.",
+    "message": "Лицо Сакуно мрачнеет (насколько это для неё возможно). Она физически не уверенный человек."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“All these humps though, it would be a pain on a bicycle.”",
+    "message": "Посмотрите на эти бугорки, было бы больно кататься тут на велосипеде ."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“This sucks.”",
+    "message": "Отстой."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“You can’t ride a bicycle anyway.”",
+    "message": "Ты всё равно не смогла бы кататься на велосипеде."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...I’m at a complete loss.”",
+    "message": "...Я полностью растеряна."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“No comment from me.”",
+    "message": "Без комментариев."
+  },
+  {
+    "_message": "We’ll have to walk to and from school together until she gets used to this.",
+    "message": "Нам придётся ходить в школу и из неё, пока она не привыкнет к этому."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“We’re getting closer. Paradise awaits.”",
+    "message": "Мы уже близко... Рай впереди!"
+  },
+  {
+    "_message": "Hayata brings this up again as we approach the park.",
+    "message": "Хаята снова поднимает эту тему, когда мы приближаемся к парку."
+  },
+  {
+    "_message": "Once we finish climbing these steps, we really will be at Yuihime.",
+    "message": "Как только мы закончим подниматься на эти ступеньки, мы действительно будем в Юихимэ."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“It’s pretty thrilling, as a guy, to get to attend a school like this.”",
+    "message": "Парням довольно захватывающе посещать такую школу!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I’m not disputing that. I bet the girls are excited too.”",
+    "message": "Не спорю. Бьюсь об заклад, девушки тоже взволнованы."
+  },
+  {
+    "_message": "I agree with Hayata while giving Sakuno a way into the conversation.",
+    "message": "Я согласился с Хаятой, давая Сакуно вступить в разговор."
+  },
+  {
+    "_message": "I’m just like him, of course—feeling pretty good about this.",
+    "message": "Конечно, я такой же, как он, — и довольно хорошо себя чувствую."
+  },
+  {
+    "_message": "But I don’t want to be too blatant about it, even if we’re just with Sakuno.",
+    "message": "Но я не хочу быть слишком вульгарным в этом, даже если это просто мы с Сакуно."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“True. I guess the girls are happy to be attending a posh school for little ladies. Am I right, Sakuno?”",
+    "message": "И то верно. Думаю, девушки рады посещать шикарную школу для маленьких леди. Я прав, Сакуно?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Yes, I guess you are.”",
+    "message": "Да, я думаю это так."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“See, I knew it! Oh, what’s it going to be like? I bet the girls are thirsty, thirsty, thirsty!”",
+    "message": "Видишь, я знал это! О, что же там будет? Держу пари, девушки жаждут, жаждут, жаждут!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...I think you’re the thirsty one.”",
+    "message": "...Я думаю, ты тут единственный, кто жаждет."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“Oh man, Sakuno. What are we going to do?”",
+    "message": "О боже, Сакуно. Что мы будем делать?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Don’t ask me.”",
+    "message": "Не спрашивай меня."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hold up, Hayata. You’ve got a fiancée. Even if the little ladies are thirsty, that’s meaningless for you.”",
+    "message": "Подожди, Хаята. У тебя же уже есть невеста. Даже если маленькие леди жаждут, это бессмысленно для тебя."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“Okay, sure. But I’m a still a man over here. Certain things need to be said.”",
+    "message": "Да, конечно. Но я все еще парень. Эти вещи должны быть сказаны."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“You’re all talk anyway, Hayata.”",
+    "message": "Всё равно много болтаешь, Хаята."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“Oof! You wound me, Sakuno!”",
+    "message": "Ох! Ты ранила меня, Сакуно!"
+  },
+  {
+    "_message": "Sakuno can act like this around him because she knows he’s never going to get the wrong idea or do anything.",
+    "message": "Сакуно может вести себя так по отношению к нему, потому что знает, что он никогда не поймет неправильно или сделает что-либо."
+  },
+  {
+    "_message": "He’s a handsome guy—some might say—but his fiancée has a tight grip on his reins. He’s well known for never actually making a move on a woman.",
+    "message": "Он красавчик — кто-то может так сказать — но его невеста жестко держит его в узде. Он хорошо известен тем, что никогда не шёл против женщин."
+  },
+  {
+    "_message": "Although the girl he is going to marry—an arrangement set up by their families—isn’t really a good match for him. Like, not at all.",
+    "message": "Хотя девушка, на которой он собирается выйти замуж — договорённость их семей — не совсем ему подходит. То есть, совсем нет."
+  },
+  {
+    "_message": "When I saw a photo of her, I almost passed out.",
+    "message": "Когда я увидел её фотографию, я чуть не потерял сознание."
+  },
+  {
+    "_message": "But that’s Hayata for you. Even if they aren’t a match, and even if it’s all his parents’ doing, he’s accepted her and stands by the arrangement.",
+    "message": "Но это же Хаята. Даже если она ему не подходит и даже если это не его выбор, он принял это и поддерживает договоренность."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“For all this chatter... I really have no idea what Yuihime is going to be like.”",
+    "message": "Кстати... Я действительно понятия не имею, какой будет Юихимэ."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“A famous private school for girls.”",
+    "message": "Известной частной школой для девушек."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Yeah...”",
+    "message": "Да..."
+  },
+  {
+    "_message": "We’re about to see it for ourselves, and yet I can’t help but think about it. That’s my burden as a man.",
+    "message": "Мы собираемся увидеть академию своими глазами, и всё же я не могу не думать об этом. Это моё бремя как парня."
+  },
+  {
+    "_message": "—A paradise of wealthy young women.",
+    "message": "—Рай богатых молодых девушек."
+  },
+  {
+    "_message": "A school on a whole different level from Kagamidai High. A place of tradition and dignity.",
+    "message": "Школа на совершенно ином уровне, чем школа Кагамидай. Место традиций и достоинства."
+  },
+  {
+    "_message": "It’s going to be incredible. Even the buildings are elegant, refined.",
+    "message": "Это будет невероятно. Даже здания элегантные, утончённые."
+  },
+  {
+    "_message": "The air probably smells like—peaches.",
+    "message": "Воздух, наверное, пахнет персиками."
+  },
+  {
+    "name": "Stunned Silence",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "A shockwave hits the three of us upon arrival at Yuihime.",
+    "message": "Шоковая волна поразила нас троих по прибытии в Юихимэ."
+  },
+  {
+    "_message": "Even just the gates of the Yuihime campus do indeed look historic and dignified—maybe even solemn.",
+    "message": "Даже только ворота кампуса Юихимэ действительно выглядят историческими и достойными — возможно, даже торжественными."
+  },
+  {
+    "_message": "But that’s not what’s surprising us.",
+    "message": "Но не это нас шокировало."
+  },
+  {
+    "_message": "There’s a girl here dressed as a maid.",
+    "message": "Здесь есть девушка, одетая как горничная."
+  },
+  {
+    "name": "Maid?",
+    "_message": "“Welcome back! ♪”",
+    "message": "Добро пожаловать! ♪"
+  },
+  {
+    "_message": "And she’s welcoming us back, with a smile like a brilliant blooming flower.",
+    "message": "И она приветствует нас, с улыбкой, похожей на блестящий цветок."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“Huh? Hah? Yah?”",
+    "message": "Хм? Ха? Йаа?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Hmmm...”",
+    "message": "Хммм..."
+  },
+  {
+    "_message": "This stunning sight at the school gate has rendered Hayata unable to speak, and Sakuno too.",
+    "message": "Это потрясающее зрелище у школьных ворот отняло у Хаяты и Сакуно дар речи."
+  },
+  {
+    "_message": "Of course it has. We didn’t expect a maid at the gates, even at a famous school attended by rich girls.",
+    "message": "Конечно это нас шокировало. Мы не ожидали служанки у ворот, даже в известной школе, в которой учатся богатые девушки."
+  },
+  {
+    "_message": "She’s carrying a broom. Maybe she’s cleaning the gate?",
+    "message": "У неё метла. Может быть, она убирается у ворот?"
+  },
+  {
+    "_message": "Does that mean she’s an employee of Yuihime? But why would she say, “welcome back?”",
+    "message": "Значит ли это, что она работница Юихимэ? Но зачем ей говорить “добро пожаловать”?"
+  },
+  {
+    "name": "Maid",
+    "_message": "“Is something the matter?”",
+    "message": "Что-то не так?"
+  },
+  {
+    "_message": "She’s talking to me! I have to say something!",
+    "message": "Она говорит со мной! Я должен что-то сказать!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Oh boy...”",
+    "message": "О боже..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I’m—back?”",
+    "message": "Я... вернулся?"
+  },
+  {
+    "name": "Maid",
+    "_message": "“Uwah?!”",
+    "message": "Ува?!"
+  },
+  {
+    "_message": "The maid stiffens in surprise at my reply.",
+    "message": "Служанка удивилась от моего ответа."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Huh?”",
+    "message": "Хм?"
+  },
+  {
+    "name": "Maid",
+    "_message": "“This is the first time I’ve ever had a response!”",
+    "message": "Это первый раз, когда мне ответили!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ah. Okay.”",
+    "message": "А. Вот как."
+  },
+  {
+    "name": "Maid",
+    "_message": "“You have something special about you! I’m surprised! My name is Ange. Just who are you? Please explain!”",
+    "message": "В тебе есть что-то особенное! Анжи удивлена! Как вас зовут? Пожалуйста, скажите!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Well, you know.”",
+    "message": "Ну, знаешь..."
+  },
+  {
+    "_message": "“Just who are you” is surely my line, but the maid is already off on a bender.",
+    "message": "“Как вас зовут” — это, безусловно, моя реплика, но служанка уже опередила меня."
+  },
+  {
+    "_message": "She’s overwhelming all three of us, and we’re left only able to listen to her ranting.",
+    "message": "Она ошеломляет всех нас троих, и мы остаёмся в состоянии только слушать её разглагольствования."
+  },
+  {
+    "_message": "It seems her name is Ange. That’s a start.",
+    "message": "Кажется, её зовут Анжи."
+  },
+  {
+    "_message": "Her face doesn’t look entirely Japanese, and from that name as well, I’m guessing she’s from overseas. Her appearance is pretty overwhelming as well.",
+    "message": "Её лицо не выглядит полностью японским, и судя по имени, я думаю, она иностранка. Её внешность тоже довольно ошеломляющая."
+  },
+  {
+    "name": "Ange",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "—As all of this runs through my head, Ange stops.",
+    "message": "—Когда всё это пронеслось в моей голове, Анжи замолкает."
+  },
+  {
+    "_message": "She looks at me intently.",
+    "message": "Она пристально смотрит на меня."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Is something the matter?”",
+    "message": "...Что-то не так?"
+  },
+  {
+    "name": "Ange",
+    "_message": "“No...”",
+    "message": "Нет..."
+  },
+  {
+    "name": "Ange",
+    "_message": "“I was just thinking, it’s been a while since anyone let me prattle on like this!”",
+    "message": "Я просто думала, что прошло много времени с тех пор, как кто-то позволял мне болтать как сейчас!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "And I don’t think I’ve ever met such a perplexing and... unique individual.",
+    "message": "И я не думал, что когда-либо встречусь с такой озадачивающей и... уникальной девушкой."
+  },
+  {
+    "name": "Ange",
+    "_message": "“Ah, what a gentleman you are! I’m feeling all tingly in my maid bits.”",
+    "message": "Ах, какой вы джентльмен! Я так взволнована."
+  },
+  {
+    "_message": "It seems my reply has sparked something inside her, because Ange’s big eyes are twinkling like stars right now.",
+    "message": "Кажется, мой ответ её особо впечатлил, потому что большие глаза Анжи сейчас мерцают, как звёзды."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“...Is this how Yuihime does things? Welcoming people with a maid at the gate?”",
+    "message": "..Вот как в Юихимэ обстоят дела? Приветствуют людей со служанкой у ворот?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I think this would be likely to drive people away...”",
+    "message": "Я думаю, что это, скорее всего, отпугнёт людей..."
+  },
+  {
+    "_message": "Hayata and Sakuno have both also recovered the power of speech and offer their own takes on the situation.",
+    "message": "Хаята и Сакуно восстановили дар речи и теперь предлагают свои собственные взгляды на ситуацию."
+  },
+  {
+    "name": "Ange",
+    "_message": "“Ah, no need to worry about that! I’ll show you the ropes.”",
+    "message": "Ах, не нужно беспокоиться об этом! Я сейчас всё объясню."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“So you are a Yuihime maid, Ange? You work for the school?”",
+    "message": "Значит, ты работаешь в Юихимэ служанкой, Анжи?"
+  },
+  {
+    "_message": "If that’s the case, then maybe I can accept this.",
+    "message": "Если это так, то, возможно, я смогу принять это."
+  },
+  {
+    "_message": "It was a surprise, sure, but having maids around suits a school of this standing. Sure it does.",
+    "message": "Конечно, это было сюрпризом, но иметь служанок подходит этой академии. Конечно."
+  },
+  {
+    "name": "Ange",
+    "_message": "“Ah, no, that’s not quite right. I am here to show new arrivals around, for today—”",
+    "message": "А, нет-нет, не совсем так. Я здесь, чтобы сопроводить новеньких сегодня—"
+  },
+  {
+    "name": "Ange",
+    "_message": "“But I’m actually what, in the biz, we call a ‘masterless maid.’”",
+    "message": "Но на самом деле я та, что мы называем ‘служанкой без хозяина’."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...I’m sorry?”",
+    "message": "...Простите?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“A masterless maid?”",
+    "message": "Служанкой без хозяина?"
+  },
+  {
+    "name": "Ange",
+    "_message": "“Correct. My name is Angelina Nanatsu Seawell, and it is very nice to meet you.”",
+    "message": "Верно. Меня зовут Анжелина Нанацу Сиэвелл, очень приятно познакомиться."
+  },
+  {
+    "_message": "There’s such a thing as a “masterless” maid?",
+    "message": "Существует такая вещь, как служанка “без хозяина”?"
+  },
+  {
+    "name": "Ange",
+    "_message": "“You are all test class students, now aren’t you.”",
+    "message": "Вы все ученики тестового класса, не так ли?"
+  },
+  {
+    "_message": "We’re looking at each other in puzzlement, while Ange has already cutely moved onto the next thing.",
+    "message": "Мы смотрим друг на друга в замешательстве, в то время как она мило перешла к следующему делу."
+  },
+  {
+    "name": "Ange",
+    "_message": "“We’re having you all gather in the auditorium. I’ll lead the way! Follow the maid! ♪”",
+    "message": "Мы все собираемся в аудитории. Я проведу вам путь! Следуйте за служанкой! ♪"
+  },
+  {
+    "_message": "Doing as we are told, the three of us follow Ange onto the campus.",
+    "message": "Делая, как нам говорят, мы втроём следуем за Анжи в кампус."
+  },
+  {
+    "_message": "The corridors are also incredibly nice. I can’t believe we are in a school.",
+    "message": "Коридоры также невероятно хороши. Я не могу поверить, что мы в школе."
+  },
+  {
+    "name": "Ange",
+    "_message": "“—♪”",
+    "message": "— ♪"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ange really does fit in here, don’t you think?”",
+    "message": "Анжи действительно вписывается здесь, да?"
+  },
+  {
+    "name": "Hayata",
+    "_message": "“This talk of being a ‘masterless’ maid must mean she’s affiliated with Yuihime in some capacity, right?”",
+    "message": "То, что она служанка ‘без хозяина’, должно означать, что она как-то связана с Юихимэ, ведь так?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I guess we’ve learned one thing about Yuihime. It’s the kind of place that attracts masterless maids.”",
+    "message": "Думаю, мы узнали одну вещь о Юихимэ. Это место привлекает служанок без хозяинов."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...This place is high class.”",
+    "message": "...Это место высшего класса."
+  },
+  {
+    "_message": "The campus is astounding, and yet the topic of conversation remains focused squarely on the mysterious maid leading us through it.",
+    "message": "Кампус поразителен, и всё же тема разговора по-прежнему сосредоточена прямо на таинственной служанке, которая ведёт нас."
+  },
+  {
+    "_message": "The three of us are still unable to overcome this bombshell, and whisper intently among ourselves as we proceed along.",
+    "message": "Мы втроём всё ещё не можем осмыслить такой сюрприз и пристально шепчемся, пока мы продолжаем идти."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“I think it’s a good tactic. Hitting us with Ange first means nothing else in this place will surprise us.”",
+    "message": "Однако я думаю, что это хорошая тактика. Показав сначала нам Анжи, ничто более в этом месте нас не удивит."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Good point. This incredible campus is barely registering with me.”",
+    "message": "Хорошо подмечено. Этот невероятный кампус едва ли замечается мной."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I bet the auditorium looks like a freaking cathedral. That might still surprise me...”",
+    "message": "Держу пари, аудитория похожа на чёртов собор. Это всё ещё может удивить меня..."
+  },
+  {
+    "_message": "As we trail along, I look at the incredible interior again.",
+    "message": "Идя прямо, я снова смотрю на невероятный интерьер."
+  },
+  {
+    "_message": "The very atmosphere in this place feels resistant to the presence of mere peasants.",
+    "message": "Сама атмосфера в этом месте не располагает к себе присутствие простых крестьян."
+  },
+  {
+    "_message": "If these are the corridors, the auditorium must be like—",
+    "message": "Если эти коридоры такие чудесные, аудитория должна быть похожа на—"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Huh?”",
+    "message": "...Хм?"
+  },
+  {
+    "_message": "I stop.",
+    "message": "Я встал."
+  },
+  {
+    "_message": "A sight glimpsed in the courtyard, through the windows, stops me dead in my tracks.",
+    "message": "Зрелище во дворе из окна останавливает меня как вкопанного."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "What’s that little girl doing here?!",
+    "message": "Что здесь делает эта маленькая девочка?!"
+  },
+  {
+    "_message": "She does seem to be wearing a Yuihime uniform—",
+    "message": "Кажется, она носит форму академии—"
+  },
+  {
+    "_message": "But even from this distance, she’s clearly young and small. I can’t believe she’s a student here.",
+    "message": "Но даже с этого расстояния она явно молода и мала. Я не могу поверить, что она здесь студентка."
+  },
+  {
+    "_message": "That’s also not the issue. It’s strange, sure, but I can accept it.",
+    "message": "Но это не главная проблема. Это странно, конечно, но я могу принять это."
+  },
+  {
+    "_message": "The real issue is—what the hell is that creature she’s playing with?!",
+    "message": "Я имею в виду — что, чёрт возьми, это за существо, с которым она играет?!"
+  },
+  {
+    "_message": "It’s not a cat or a dog. I have no idea if “creature” is even correct! It looks like an alien lifeform!",
+    "message": "Это не кошка и не собака. Я даже не знаю, правильно ли называть его «существом»! Это похоже на инопланетную форму жизни!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“This Yuihime place...”",
+    "message": "Это место..."
+  },
+  {
+    "_message": "After the mysterious masterless maid, now we have the mysterious minute maiden and her perplexing playmate.",
+    "message": "После таинственной служанки без хозяина, теперь у нас есть таинственная маленькая девица и её озадачивающий товарищ по игре."
+  },
+  {
+    "_message": "I can’t take my eyes off the crazy sight.",
+    "message": "Я не могу отвести глаза от этого сумасшедшего зрелища."
+  },
+  {
+    "_message": "Early leaves are falling across the courtyard, the scene dappled by sunlight.",
+    "message": "Ранние листья падают на дворе, сцена окрашена солнечным светом."
+  },
+  {
+    "_message": "The strange creature is bouncing happily around the girl.",
+    "message": "Странное существо радостно подпрыгивает вокруг девушки."
+  },
+  {
+    "_message": "The girl has her hand out, playing with the creature, and with a gentle, soft smile on her face.",
+    "message": "Девушка играет с существом, с мягкой, нежной улыбкой на лице."
+  },
+  {
+    "_message": "A girl and a creature. Just having some fun.",
+    "message": "Девушка и существо. Просто веселятся."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "What is this?",
+    "message": "Что это?"
+  },
+  {
+    "_message": "As I’m watching...",
+    "message": "Пока я на это смотрю..."
+  },
+  {
+    "_message": "Observing this bizarre, inexplicable scene play out...",
+    "message": "Наблюдая за этой странной, необъяснимой сценой..."
+  },
+  {
+    "_message": "It starts to just feel... normal.",
+    "message": "Это начинает выглядить... нормально."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...It’s like something lifted from a picture book.”",
+    "message": "...Как будто сцена из книги с картинками."
+  },
+  {
+    "_message": "The waves of confusion subside, and that’s the impression I’m left with.",
+    "message": "Волны замешательства утихают, и у меня возникло такое впечатление."
+  },
+  {
+    "_message": "I mutter it to myself, slow and quiet, so as not to disturb this charming scene.",
+    "message": "Я пробормотал себе это, медленно и тихо, чтобы не беспокоить эту очаровательную сцену."
+  },
+  {
+    "_message": "That’s what these two playmates make me feel. Like I shouldn’t even be impinging on this with my eyes.",
+    "message": "Вот что заставляют меня чувствовать эти двое. Как будто я даже не должен вмешиваться в это своими глазами."
+  },
+  {
+    "_message": "This place is really, really strange.",
+    "message": "Это место действительно очень странное."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "The girl suddenly looks in my direction. I feel my heart leap in my chest.",
+    "message": "Девушка внезапно посмотрела в моём направлении. Я почувствовал, как моё сердце прыгнуло в груди."
+  },
+  {
+    "_message": "Like making eye contact with a fairy.",
+    "message": "Как будто посмотрел в глаза феи."
+  },
+  {
+    "name": "Ange",
+    "_message": "“Is something the matter? The auditorium is right this way!”",
+    "message": "В чём дело? Аудитория находится прямо здесь!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ah... yeah, sorry...”",
+    "message": "А... да, извините..."
+  },
+  {
+    "_message": "The question snaps me back to myself. I turn away from the window and start walking again.",
+    "message": "Вопрос возвращает меня к реальности. Я отвернулся от окна и снова пошёл в аудиторию."
+  },
+  {
+    "_message": "We reach the auditorium before I realize I didn’t acknowledge the girl at all when she looked at me.",
+    "message": "Мы достигаем аудитории, прежде чем я понял, что я вообще не заметил, когда эта девушка посмотрела на меня."
+  },
+  {
+    "name": "Ange",
+    "_message": "“Here we are! All safe and sound. I’ll head back to the gate.”",
+    "message": "Вот и всё! Все в целости и сохранности. Я вернусь к воротам."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Yeah, okay. Thanks...”",
+    "message": "Да, хорошо. Спасибо..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Okay. What to do now—”",
+    "message": "...Ладно. Что сейчас—"
+  },
+  {
+    "name": "Kagamidai Boy A",
+    "_message": "“Ah! Mukunashi, Uryu!”",
+    "message": "А! Мукунаши, Урю!"
+  },
+  {
+    "name": "Hayata",
+    "_message": "“Wow, you got here quick.”",
+    "message": "О, ты быстро."
+  },
+  {
+    "_message": "Ange, our guide to the auditorium, bids us farewell and heads out, to be replaced by a friend of ours who is already here.",
+    "message": "Анжи, наш гид до аудитории, прощается с нами, чтобы её мог заменить наш друг, который уже тут был."
+  },
+  {
+    "name": "Kagamidai Boy A",
+    "_message": "“This place is crazy! What is this, a mansion?”",
+    "message": "Это место безумное! Это что, особняк?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Yeah... it’s pretty wild.”",
+    "message": "Да... это довольно необычно."
+  },
+  {
+    "_message": "I reply while taking in the high ceiling and glossy floor.",
+    "message": "Я отвечаю, смотря на высокий потолок и глянцевый пол."
+  },
+  {
+    "_message": "I can see why he’s so hyped.",
+    "message": "Я понимаю, почему он так впечатлён."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“They could throw an old-timey ball in this place.”",
+    "message": "Они могли бы устроить тут старинный бал."
+  },
+  {
+    "name": "Kagamidai Boy A",
+    "_message": "“And this school would probably do it! Like they had a maid at the gate!”",
+    "message": "И эта школа, вероятно, сделает это! У них ведь даже служанка была у ворот!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Oh. She’s showing everyone in?”",
+    "message": "О, она всем показывается?"
+  },
+  {
+    "name": "Hayata",
+    "_message": "“Hmmm... I think we’ve got about two thirds of everyone from Kagamidai here?”",
+    "message": "Хммм... Думаю, у нас здесь около двух третей от Кагамидай."
+  },
+  {
+    "_message": "Hayata is doing the presidential thing, tallying up the folks who are here.",
+    "message": "Хаята делает положенные ему вещи, подсчитывая людей, которые здесь находятся."
+  },
+  {
+    "name": "Kagamidai Girl A",
+    "_message": "“Morning, prez. I’m not surprised you’re here so bright and early for our first day at Yuihime.”",
+    "message": "Утро, президент. Я не удивлена, что вы здесь так рано и так энергичны в первый день в Юихимэ."
+  },
+  {
+    "name": "Kagamidai Boy B",
+    "_message": "“I respect anyone who isn’t here yet, to be honest. I’m surprised people weren’t queuing up through the night.”",
+    "message": "Я уважаю любого, кто ещё не здесь, если честно. Я удивлён, что люди не стояли в очереди всю ночь."
+  },
+  {
+    "name": "Kagamidai Girl B",
+    "_message": "“The principal banged on hard enough about our ‘comportment as the face of Kagamidai’ yesterday.”",
+    "message": "Директор упорно твердила нам о ‘соответствующем поведении как лица Кагамидая’ вчера."
+  },
+  {
+    "_message": "When they notice us—well, notice Hayata—they all start to gather around.",
+    "message": "Когда они замечают нас — ну, то есть Хаяту — все начинают собираться вокруг."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Everyone seems nervous.”",
+    "message": "Все, кажется, нервничают."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I mean, we’re the peasants in the palace here.”",
+    "message": "Ну, мы как будто крестьяне во дворце."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Why don’t you go over to your friends, Sakuno? The first years are clumped up over there.”",
+    "message": "Почему бы тебе не пойти к своим друзьям, Сакуно? Первогодки вон там кучкуются."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“No need yet.”",
+    "message": "Пока не нужно."
+  },
+  {
+    "_message": "She’s as expressionless as ever, but I’m sure she’s nervous too.",
+    "message": "Она так же не выражает эмоций, как обычно, но я уверен, что она тоже нервничает."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“Fifteen minutes before this thing kicks off. Are there are teaching staff here yet?”",
+    "message": "Пятнадцать минут до начала. Ээ... Здесь уже есть преподавательский состав?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Look, maybe over there?”",
+    "message": "Посмотри, может быть, там?"
+  },
+  {
+    "_message": "I indicate the corner with my eyes.",
+    "message": "Я указываю на угол своими глазами."
+  },
+  {
+    "_message": "There’s a woman who looks like a teacher and a short girl in a Yuihime uniform standing there.",
+    "message": "Там находятся женщина, которая выглядит как учительница, и девушка низкого роста в форме Юихимэ."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“The notification only said the time to be here.”",
+    "message": "В уведомлении было сказано только время, чтобы тут собраться..."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“Okay! I’m going to go ask that teacher about how this is all going to go down.”",
+    "message": "Хорошо! Я собираюсь спросить учителя о том, как это всё будет."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I’ll tag along.”",
+    "message": "Я с тобой."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“Ah, thanks. You know, I’m pretty nervous too.”",
+    "message": "А, спасибо. Знаешь, я тоже очень нервничаю."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Me too, dude.”",
+    "message": "Я тоже, чувак."
+  },
+  {
+    "_message": "I’m tumbling down a rabbit hole here.",
+    "message": "Я всё глубже спускаюсь в кроличью нору."
+  },
+  {
+    "_message": "I join Hayata in going to talk to the teacher.",
+    "message": "Я присоединяюсь к Хаяте, чтобы поговорить с учителем."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hello. Can we have a word?”",
+    "message": "Здравствуйте. Можем ли мы поговорить?"
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“!”",
+    "message": "!"
+  },
+  {
+    "name": "Girl",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "Both the teacher and the student tense up when I approach them.",
+    "message": "И учительница, и ученица напрягаются, когда я подхожу к ним."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hey... good morning?”",
+    "message": "Ээ... доброе утро?"
+  },
+  {
+    "_message": "A smile seems the best way to start. I don’t want them thinking we’re weirdos.",
+    "message": "Улыбка кажется лучшим способом начать разговор. Я не хочу, чтобы они думали, что мы странные."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“Good morning! We’re the reps from Kagamidai. Can we have a quick word?”",
+    "message": "Доброе утро! Мы представители из Кагамидай. Можем ли мы быстро поговорить?"
+  },
+  {
+    "_message": "Hayata gives a smile too, keeping things light and casual.",
+    "message": "Хаята тоже улыбается, сохраняя ситуацию лёгким и непринужденным."
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "name": "Girl",
+    "_message": "“Hey, Ms. Macchi! Ms. Macchi!”",
+    "message": "Эй, Матти-сенсей! Матти-сенсей!"
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“Ah, hah! I mean! No, I’m sorry, I’m fine, I’m fine.”",
+    "message": "А, а! В смысле! Нет, прости, я в порядке, я в порядке."
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“C-C-C-Can I help you with something?”",
+    "message": "Ч-ч-ч-чем я могу вам помочь?"
+  },
+  {
+    "name": "Hayata",
+    "_message": "“Well, yeah...”",
+    "message": "Ну, эээ..."
+  },
+  {
+    "_message": "Hayata gives me a glance, her uneasy reaction unsettling us both.",
+    "message": "Хаята бросает на меня взгляд. Её необычная реакция тревожит нас обоих."
+  },
+  {
+    "_message": "He’s telling me he’s going to take the lead, and so I should have his back.",
+    "message": "Он говорил мне, что собирается взять на себя инициативу, и поэтому я должен его поддерживать."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“I just wanted to ask what’s going to happen this morning.”",
+    "message": "Я просто хотел спросить, что произойдёт сегодня утром."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“The only thing Kagamidai told us was to be here by 8:30.”",
+    "message": "Единственное, что сказала нам школа Кагамидай, это быть здесь к 8:30."
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“Ooh... I’m sorry, I’m sorry!”",
+    "message": "Ох... Простите, простите!"
+  },
+  {
+    "_message": "She bows her head over and over in abject apology.",
+    "message": "Она кланится снова и снова в ужасных извинениях."
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“The principal will be here when the time comes! I’m so sorry! Please just wait for that to happen!”",
+    "message": "Директор будет здесь, когда придёт время! Мне очень жаль! Пожалуйста, просто подождите, пока она придёт!"
+  },
+  {
+    "_message": "The more she speaks, the less confident and more unsure she seems.",
+    "message": "Чем больше она говорит, тем менее уверенной и более хрупкой она кажется."
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“Ahh... I’m sorry for dragging you into all this, Inui.”",
+    "message": "Ах... Извини, Инуи, что втянула тебя во всё это."
+  },
+  {
+    "name": "Girl",
+    "_message": "“Boy, Ms. Macchi, you really are so unrelia—”",
+    "message": "Боже, Матти-сенсей, вы действительно такая ненадёж—"
+  },
+  {
+    "name": "Girl",
+    "_message": "“Ahem! Anyway. I’m one of the test class from the Yuihime side, here to welcome the Kagamidai contingent.”",
+    "message": "В любом случае! Я одна из учениц в тестовом классе со стороны Юихимэ, здесь, чтобы поприветствовать контингент Кагамидай."
+  },
+  {
+    "name": "Girl",
+    "_message": "“Welcome to Yuihime Girls’ Academy. Please just wait a little longer.”",
+    "message": "Д-добро пожаловать в академию для девушек Юихимэ. Пожалуйста, просто подождите немного, океей?"
+  },
+  {
+    "_message": "The girl sounds a little stiff, but she has a smile on her face.",
+    "message": "Девушка звучит немного жёстко, но она улыбается нам."
+  },
+  {
+    "_message": "Hayata and I look at each other.",
+    "message": "Мы с Хаятой смотрим друг на друга."
+  },
+  {
+    "_message": "These two don’t seem to be in the know either.",
+    "message": "Эти двое, похоже, тоже не в курсе."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Okay. We’ll just... wait and see what happens.”",
+    "message": "Хорошо. Мы просто... подождём и посмотрим, что произойдет."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“Yep. Hey, everyone! We’re going to wait here for the principal of Yuihime to arrive!”",
+    "message": "Ага. Эй, все! Мы будем ждать тут, пока не прибудет директор Юихимэ..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Thank you for the information. We’ll see you later.”",
+    "message": "Спасибо большое. Увидимся позже."
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“Okay. I really am sorry...”",
+    "message": "Хорошо! Я очень извиняюсь..."
+  },
+  {
+    "_message": "But at least they seem like regular people. That’s something.",
+    "message": "Но, по крайней мере, они кажутся обычными людьми. Это что-то."
+  },
+  {
+    "_message": "—That said.",
+    "message": "—К слову."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...8:47.”",
+    "message": "...8:47."
+  },
+  {
+    "_message": "I didn’t think quite this much time was going to pass.",
+    "message": "Я не думал, что пройдёт так много времени."
+  },
+  {
+    "_message": "There’s no sign of the principal, this long after the time we were told to be here. The Kagamidai contingent are starting to get restless.",
+    "message": "Никаких признаков директора в течение долгого времени после того, как нам сказали быть здесь. Контингент Кагамидай начинает беспокоиться."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“Okay. Still nothing?”",
+    "message": "Ээх... Всё еще никого?"
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“I’m sure it won’t be much longer, I’m sorry, just wait a little, wait a little longer...”",
+    "message": "Я-я уверена, что она скоро подойдёт, извините, просто подождите, подождите немного..."
+  },
+  {
+    "_message": "The teacher has been repeating herself for a while now, but the effects of her words are wearing off.",
+    "message": "Учительница некоторое время повторяет одно и то же, но эффект от её слов постепенно теряется."
+  },
+  {
+    "_message": "She looks all hunched over and worried, I’m starting to feel sorry for her. It’s not like we can do anything about this.",
+    "message": "Она выглядит вся сгорбленной и беспокойной, мне становится её жалко. Не то, чтобы мы могли что-то с этим сделать."
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“Haah... honestly, at times like this...”",
+    "message": "Ха... боже, в такие моменты..."
+  },
+  {
+    "name": "Girl",
+    "_message": "“What can we do, Ms. Macchi?”",
+    "message": "Что мы можем сделать, Матти-сенсей?"
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“Ah, yes, I’m sorry, okay then...”",
+    "message": "Э! А, извиняюсь, хорошо, тогда..."
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“I’ll go! I’ll go and find out what the holdup is!”",
+    "message": "Я-я пойду! Я пойду и узнаю причину задержки!"
+  },
+  {
+    "_message": "The teacher clenches her resolve and starts to walk away from us.",
+    "message": "Учительница сжимаёт свою решимость в кулак и начинает уходить от нас."
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“I really am sorry, please, just wait a little longer...”",
+    "message": "Мне очень жаль, пожалуйста, просто подождите немного дольше..."
+  },
+  {
+    "_message": "But then it happens.",
+    "message": "Но затем происходит это."
+  },
+  {
+    "name": "???",
+    "_message": "“Owww, Airi, that hurts! You’ll never get a boyfriend with an attitude like that!”",
+    "message": "Ой, Айри, больно! С таким отношением у тебя не будет парня!"
+  },
+  {
+    "name": "???",
+    "_message": "“Shut it! You’re keeping the Kagamidai kids waiting! Keep moving!”",
+    "message": "Замолчи! Вы заставляете ребят из Кагамидай ждать! Иди дальше!"
+  },
+  {
+    "_message": "The lethargic voice of a woman and angry voice of a girl can be heard from beyond the doors.",
+    "message": "Слышится вялый голос женщины и злой голос девушки из-за дверей."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...That voice!”",
+    "message": "...Этот голос!"
+  },
+  {
+    "_message": "Sakuno reacts with a jump at my side, raising her face like a grazing herbivore.",
+    "message": "Сакуно реагирует с прыжком в мою сторону, поднимая лицо, как у пасущегося травоядного животного."
+  },
+  {
+    "_message": "In that instant—",
+    "message": "В этот момент—"
+  },
+  {
+    "_message": "%205;Bang!",
+    "message": "%205; Бах!"
+  },
+  {
+    "_message": "The doors at the entrance burst open.",
+    "message": "Двери у входа распахиваются."
+  },
+  {
+    "_message": "There’s a woman in a suit, seemingly dragged there by an incredibly angry looking young woman.",
+    "message": "Женщину в костюме, должно быть, волокла разъярённая девушка."
+  },
+  {
+    "name": "Female Student",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "She looks around, as though glaring at each and every Kagamidai student in turn.",
+    "message": "Она оглядывает всё вокруг, вглядываясь в каждого студента Кагамидай."
+  },
+  {
+    "_message": "Her expression really isn’t welcoming. The morning sunlight glows through her hair from behind, with everything in the right place.",
+    "message": "Её выражение лица не особо доброжелательно. Утренний солнечный свет светится через её волосы сзади, всё на своих местах."
+  },
+  {
+    "_message": "Her presence immediately commands the attention of everyone from Kagamidai.",
+    "message": "Её присутствие сразу же привлекло внимание всех от Кагамидай."
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“S-Sena.”",
+    "message": "С-Сэна!"
+  },
+  {
+    "_message": "The teacher dashes over to her in a flurry.",
+    "message": "Учительница бросается к ней в спешке."
+  },
+  {
+    "name": "Female Student",
+    "_message": "“...Here’s the principal. You handle it from here.”",
+    "message": "Вот директор. С остальным вы справитесь сами."
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“Yes, yes. I’m sorry, thank you...”",
+    "message": "Да, да. Извини, спасибо..."
+  },
+  {
+    "name": "Female Student",
+    "_message": "“You too, Ms. Yatsuzuka! Pull yourself together. We didn’t ask for this, but we’re still representing this school.”",
+    "message": "Вы тоже, Яцудзука-сенсей! Ведите себя подобающе. Мы не просили об этом, но мы всё ещё представляем эту школу."
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“I’m sorry, sorry, uhh...”",
+    "message": "И-извини, ээ..."
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“...Ooh, you’re so scary, Sena...”",
+    "message": "...Уу, Сэна, ты такая страшная..."
+  },
+  {
+    "name": "Principal?",
+    "_message": "“Airi, you’re so stiff and angry. No one is going to like you if you act all prickly. Are you on your period?”",
+    "message": "Айри, ты такая жёсткая и злая. Ты никому не понравишься, если будешь всем грубить. У тебя месячные?"
+  },
+  {
+    "name": "Female Student",
+    "_message": "“Do your job, Mother! You’re keeping all these people waiting with your hangover! You’re the one who wanted this merger!”",
+    "message": "Делай свою работу, мама! Ты заставляешь всех этих людей ждать твоего похмелья! Ты та, кто хотела этого слияния!"
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“But you brought the principal here, Sena. You’ve finally accepted the merger?”",
+    "message": "Но ты привела сюда директора, Сэна. Ты наконец приняла это слияние?"
+  },
+  {
+    "name": "Principal?",
+    "_message": "“That’s right! A change of heart on the big day, right Airi? ♪”",
+    "message": "И то верно! Сердце оттеплело в большой день, да, Айри? ♪"
+  },
+  {
+    "name": "Female Student",
+    "_message": "“No, that’s not right! I’m still against all this claptrap.”",
+    "message": "Нет, это не так! Я всё ещё против всей этой чепухи."
+  },
+  {
+    "name": "Female Teacher",
+    "_message": "“Haah... oh...”",
+    "message": "Ха... ха... о..."
+  },
+  {
+    "name": "Female Student",
+    "_message": "“You bet I am. More girls are one thing, but why do we have to bring in the boys too?”",
+    "message": "Верно. Больше девушек — это одно, но почему мы должны также привлекать парней?"
+  },
+  {
+    "_message": "Seeing the attitude of this newcomer, everyone from Kagamidai starts to feel decidedly unwelcome.",
+    "message": "Видя отношение этой особы, все из Кагамидай начинают чувствовать себя явно нежеланными гостями."
+  },
+  {
+    "_message": "Especially the boys.",
+    "message": "Особенно парни."
+  },
+  {
+    "_message": "Sakuno and I look at each other.",
+    "message": "Мы с Сакуно смотрим друг на друга."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Just what I’d expect.”",
+    "message": "То, что я и ожидал."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Me too.”",
+    "message": "Тоже."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Airi.”",
+    "message": "Айри."
+  },
+  {
+    "name": "Female Student",
+    "_message": "“Huh?”",
+    "message": "Хм?"
+  },
+  {
+    "_message": "Airi turns in our direction when Sakuno speaks.",
+    "message": "Айри поворачивается в нашу сторону."
+  },
+  {
+    "_message": "Our eyes meet first.",
+    "message": "Наши глаза встречаются."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hey. Thanks for everything yesterday, Sena.”",
+    "message": "Привет. Спасибо за вчерашнее, Сэна."
+  },
+  {
+    "name": "Female Student",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "name": "Airi",
+    "_message": "%164;“S-Sakuno! Shingo!”",
+    "message": "%164;С-Сакуно! И её брат!"
+  },
+  {
+    "_message": "Sena’s voice rings out.",
+    "message": "Раздался её голос."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Shingo, it’s Airi.”",
+    "message": "Братец, это Айри."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“She’s a student at Yuihime.”",
+    "message": "Она, оказывается, студентка в Юихимэ."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Airi, we meet again.”",
+    "message": "Айри, мы снова встретились."
+  },
+  {
+    "_message": "Sakuno is expressionless but seems happy, hopping up and down to get Sena’s attention.",
+    "message": "Сакуно не выражает эмоций, но кажется счастливой, подпрыгивая вверх и вниз, чтобы привлечь внимание Сэны."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "However—",
+    "message": "Однако—"
+  },
+  {
+    "_message": "Sena’s expression remains hard. She doesn’t look anything like she did yesterday.",
+    "message": "Выражение Сэны остается жёстким. Она не выглядит так же, как вчера."
+  },
+  {
+    "_message": "Her cheeks turn red, and she pulls away.",
+    "message": "Её щёки становятся красными, и она отворачивается."
+  },
+  {
+    "name": "Airi",
+    "_message": "“This is our school!”",
+    "message": "Это наша школа!"
+  },
+  {
+    "_message": "Her shout rings out around the auditorium again.",
+    "message": "Её крик снова звенит по всей аудитории."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Regardless of what the principal wants, we have students who don’t want this merger. I’m certainly not rolling out the welcome wagon.”",
+    "message": "Независимо от того, чего хочет директор, у нас есть студенты, которые не хотят этого слияния. Я, конечно, не приветствую это решение."
+  },
+  {
+    "_message": "Sena gives us a mean look—and me in particular.",
+    "message": "Сэна даёт нам злой взгляд — и, в частности, на меня."
+  },
+  {
+    "name": "Airi",
+    "_message": "“—!”",
+    "message": "—!"
+  },
+  {
+    "name": "Airi",
+    "_message": "%123;“All of you boys, is what I mean! This is a girls’ school!”",
+    "message": "%123;Это касается всех парней тут! Это школа только для девушек!"
+  },
+  {
+    "_message": "With that parting comment, her shoulders shake with rage and then Sena hurries away.",
+    "message": "С этим заявлением её плечи дрожат от ярости, а затем Сэна спешно уходит."
+  },
+  {
+    "_message": "As for us—we don’t know what to say.",
+    "message": "Что касается нас — мы даже не знаем, что сказать."
+  },
+  {
+    "name": "Principal",
+    "_message": "“Hehehe...”",
+    "message": "Хехехе..."
+  },
+  {
+    "_message": "With a grin, the woman who is apparently also the principal of this school lifts herself up.",
+    "message": "С ухмылкой, женщина, которая, по-видимому, также является директором этой школы, поднимается."
+  },
+  {
+    "name": "Principal",
+    "_message": "“...Well, that’s the situation.”",
+    "message": "...Ну, такая вот ситуация."
+  },
+  {
+    "name": "Ranka",
+    "_message": "“I’m Ranka Sena, the principal here. Welcome to our Yuihime Girls’ Academy. I, for one, hope we can all be friends! ♪”",
+    "message": "Я Ранка Сэна, директор здесь. Добро пожаловать в нашу академию для девушек Юихимэ. Я надеюсь, что мы все сможем стать друзьями! ♪"
+  },
+  {
+    "_message": "—Sometimes I still remember, vividly, what it felt like.",
+    "message": "—Иногда я всё ещё ярко представляю, что я тогда чувствовал."
+  },
+  {
+    "_message": "Putting everything I’ve got into trying to breathe, and not being able to.",
+    "message": "Пытаясь вдохнуть со всей силы, не иметь возможности дышать."
+  },
+  {
+    "_message": "That terrible rasping sound, as what little air I manage to suck down scrapes through my narrow windpipe.",
+    "message": "Этот ужасный хрипящий звук, когда то немногое, что мне удаётся втянуть, проходит через узкое горло."
+  },
+  {
+    "_message": "And that terror, at being unable to do something I normally took for granted.",
+    "message": "И этот ужас, когда я не мог делать то, что я обычно принимал как должное."
+  },
+  {
+    "_message": "I had asthma when I was small.",
+    "message": "Когда я был маленьким, у меня была астма."
+  },
+  {
+    "_message": "I would often get attacks and spent a lot of time in bed.",
+    "message": "У меня часто возникали приступы, и я проводил много времени в постели."
+  },
+  {
+    "_message": "...Especially around the time my father got remarried.",
+    "message": "...Особенно в то время, когда мой отец женился второй раз."
+  },
+  {
+    "_message": "Two sets of parent and child, who had lived as pairs until that point, now came together to make a new family under one roof.",
+    "message": "Две пары — родитель и ребёнок — теперь собрались вместе, чтобы создать новую семью под одной крышей."
+  },
+  {
+    "_message": "And I spent most of that difficult time in bed, causing so much trouble for my new mom and new sister.",
+    "message": "И я провёл большую часть этого трудного времени в постели, вызывая столько проблем для моей новой мамы и новой сестры."
+  },
+  {
+    "_message": "I knew they were there, just behind the door. Thinking about me. Worrying about me. Putting themselves second to my needs.",
+    "message": "Я знал, что они были там, за дверью. Думали обо мне. Беспокоились. Ставили мои потребности на первое место."
+  },
+  {
+    "_message": "Such an important time in our lives—and I dominated how it had to be handled.",
+    "message": "Такое важное время в нашей жизни — и от меня зависело, как это происходило."
+  },
+  {
+    "_message": "Made them put me ahead of everything else.",
+    "message": "Заставил их поставить меня впереди всего."
+  },
+  {
+    "_message": "Sakuno doesn’t really seem to remember much from that time—",
+    "message": "Сакуно, кажется, не помнит много с того времени—"
+  },
+  {
+    "_message": "But for me, it was a big turning point in my life. One that I can still remember now, vividly.",
+    "message": "Но для меня это был большой поворотный момент в моей жизни. Тот, который я до сих пор помню сейчас, ярко."
+  },
+  {
+    "_message": "—That is probably why I’ve grown up to be so aware of the very air around me.",
+    "message": "—Именно поэтому я, возможно, так трепетно отношусь к воздуху вокруг меня."
+  },
+  {
+    "_message": "That’s both literally aware, and also an awareness of the mood of a place. The atmosphere.",
+    "message": "В том числе и к общему настроению. Атмосфере."
+  },
+  {
+    "_message": "I don’t have asthma attacks any more, but I’m still super concerned about dust, and I clean and ventilate on a regular basis.",
+    "message": "У меня больше нет астмы, но я всё ещё очень обеспокоен пылью, и я регулярно убираю и проветриваю комнату."
+  },
+  {
+    "_message": "And I also can’t take it when the mood in a place is bad. It’s stifling to me, and I can’t operate at all. Whatever it costs me, I have to improve such a mood.",
+    "message": "И я также не могу допустить плохой атмосферы. Это удушает меня, и я не могу смириться. Чего бы этого ни стоило, я должен улучшить общее настроение."
+  },
+  {
+    "_message": "Of course, that can place some heavy burdens on my shoulders. Spending so long trying to get others to play ball can be exhausting too.",
+    "message": "Конечно, это может быть тяжёлым бременем на моих плечах. Упорно заставлять поддерживать хорошие отношения может быть утомительным."
+  },
+  {
+    "_message": "But that itch just doesn’t go away.",
+    "message": "Но этот зуд просто не уходит."
+  },
+  {
+    "_message": "It’s like some kind of curse, almost.",
+    "message": "Это почти как какое-то проклятие."
+  },
+  {
+    "_message": "I just can’t withstand a compromised atmosphere—",
+    "message": "Я просто не могу находиться в плохой атмосфере—"
+  }
+]
