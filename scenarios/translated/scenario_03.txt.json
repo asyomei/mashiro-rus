@@ -1,0 +1,2752 @@
+[
+  {
+    "_message": "And right now, the atmosphere in this classroom couldn’t be more compromised.",
+    "message": "И сейчас атмосфера в этом классе не может быть более печальной."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Hmmm.”",
+    "message": "...Хм."
+  },
+  {
+    "_message": "The second-year test class, 2-T, comprising the students selected from Kagamidai and Yuihime.",
+    "message": "Тестовый класс второго курса, 2-T, включающий студентов, отобранных из Кагамидай и Юихимэ."
+  },
+  {
+    "_message": "I can’t find any calm in the grand, spacious classroom, and the air is so prickly it hurts.",
+    "message": "Я не могу найти никакого спокойствия в великолепном, просторном классе, и воздух настолько колючий, что ранит."
+  },
+  {
+    "name": "Kagamidai Boy A",
+    "_message": "“Morning—uwah?!”",
+    "message": "Утро—э?!"
+  },
+  {
+    "_message": "One of my friends opens the door and immediately freezes up under multiple unwelcoming looks.",
+    "message": "Один из моих друзей открывает дверь и сразу же замерзает под несколькими нежелательными взглядами."
+  },
+  {
+    "_message": "The Yuihime girls, mistresses of the withering looks, then start to whisper among themselves.",
+    "message": "Девушки Юихимэ, обладательницы этих взглядов, начинают шептаться между собой."
+  },
+  {
+    "_message": "The Kagamidai girls wriggle uncomfortably.",
+    "message": "Девочки Кагамидай неловко дёрнулись."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Oh, man.”",
+    "message": "...О боже."
+  },
+  {
+    "_message": "I give a quiet sigh.",
+    "message": "Я тихо вздохнул."
+  },
+  {
+    "_message": "This is how it’s been the entire time. Every incoming boy is given this frosty welcome.",
+    "message": "Вот как обстоят дела. Каждому входящему парню дают этот холодный приём."
+  },
+  {
+    "_message": "The air feels so heavy, and cold, and oppressive. It just makes me want to open a window.",
+    "message": "Воздух кажется таким тяжёлым, холодным и угнетающим. Это просто заставляет меня хотеть открыть окно."
+  },
+  {
+    "_message": "I find myself looking in that direction.",
+    "message": "Я смотрю в сторону окна."
+  },
+  {
+    "_message": "But I’m not really thinking of a real window. I’m trying to think of a metaphorical window for this situation.",
+    "message": "Но я на самом деле не думаю о реальном окне. Я пытаюсь придумать метафорическое окно для этой ситуации."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "Which would be—her. Airi Sena. From that night in the park.",
+    "message": "И это окно будет она. Айри Сэна. С той ночи в парке."
+  },
+  {
+    "_message": "I’ve learned plenty about her already. She seems to hold a key position among the selected Yuihime students.",
+    "message": "Я уже многое узнал о ней. Кажется, она занимает ключевую позицию среди выбранных студентов Юихимэ."
+  },
+  {
+    "_message": "That said, she isn’t in an actual leadership position. Not like Hayata.",
+    "message": "Тем не менее, она не находится на реальной руководящей должности. Не как Хаята."
+  },
+  {
+    "_message": "But she’s an adept student. Serious, smart, elegant, the embodiment of the image of Yuihime.",
+    "message": "Но она опытная ученица. Серьёзная, умная, элегантная, воплощение идеала Юихимэ."
+  },
+  {
+    "_message": "She’s even the daughter of the principal.",
+    "message": "Она даже дочь директора."
+  },
+  {
+    "_message": "All of the Yuihime girls look to her. I can see that.",
+    "message": "Все девушки Юихимэ смотрят на неё. Я это вижу."
+  },
+  {
+    "_message": "—The events in the auditorium yesterday made it clear to everyone from Kagamidai that she is dead set against the merger.",
+    "message": "—События в аудитории вчера дали понять всем от Кагамидай, что она категорически против слияния."
+  },
+  {
+    "_message": "Not every girl at Yuihime feels the same way, but they also feel they should defer to Sena.",
+    "message": "Не каждая девушка в Юихимэ чувствует то же самое, но они также чувствуют, что должны брать пример с Сэны."
+  },
+  {
+    "_message": "Everyone follows her lead, looking to her. That’s why things are so uncomfortable here this morning.",
+    "message": "Все следуют за её лидерством, глядя на неё. Вот почему сегодня утром здесь так неудобно."
+  },
+  {
+    "_message": "Sena seems a little uncomfortable with this reality herself, but she’s also just sitting quietly in her seat, so it’s hard to say for sure.",
+    "message": "Сэна сама кажется немного не в своей тарелке в этой ситуации, но она также просто тихо сидит на своём месте, поэтому трудно сказать наверняка."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "I’m unable to put up with this any longer. I stand up and proceed over to Sena.",
+    "message": "Я больше не могу мириться с этим. Я встаю и подхожу к Сэне."
+  },
+  {
+    "_message": "I know the entire class is watching.",
+    "message": "Я знаю, что весь класс теперь смотрит."
+  },
+  {
+    "_message": "The tension in the air mounts. But I walk all the way over to her and speak.",
+    "message": "Напряжение в воздухе усиливается. Но я иду к ней и говорю."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Good morning, Sena...”",
+    "message": "Доброе утро, Сэна..."
+  },
+  {
+    "_message": "Sena’s eyebrows knit a little. She looks up at me like that for a few seconds.",
+    "message": "Сэна немного хмурится. Она смотрит на меня так на несколько секунд."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...Good morning, Uryu.”",
+    "message": "...Доброе утро, Урю."
+  },
+  {
+    "_message": "It’s like I hear a collective sigh of relief from around the classroom.",
+    "message": "Я слышу как будто бы коллективный вздох облегчения со всего класса."
+  },
+  {
+    "_message": "Sena then looks away, seemingly choosing to ignore me.",
+    "message": "Затем Сэна отворачивается, казалось бы, решив игнорировать меня."
+  },
+  {
+    "_message": "—Uryu, huh.",
+    "message": "—Урю, хах."
+  },
+  {
+    "_message": "That seems to be the best she can do right now.",
+    "message": "Кажется, это лучшее, что она может сделать прямо сейчас."
+  },
+  {
+    "_message": "While thinking about stubborn windows that can’t be opened, I leave it at the greeting and return to my seat.",
+    "message": "Размышляя о упрямых окнах, которые нельзя открыть, я оставляю это приветствие и возвращаюсь на своё место."
+  },
+  {
+    "_message": "The atmosphere has loosened up a little. It feels more “normal” than before.",
+    "message": "Атмосфера немного смягчилась. Это кажется более “нормальным”, чем раньше."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Phew...”",
+    "message": "Фух..."
+  },
+  {
+    "_message": "I stop.",
+    "message": "Я остановился."
+  },
+  {
+    "name": "Ange",
+    "_message": "“I mean, we saw this coming, but the going looks tough ahead, Shingo.”",
+    "message": "Ну, мы видели всё это, но впереди трудный путь, Синго."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Uwah! Are you trying to give me a heart attack?!”",
+    "message": "Ува! Ты пытаешься довести меня до сердечного приступа?!"
+  },
+  {
+    "_message": "It’s not just her suddenly talking to me—she’s dressed as a maid, which compounds the surprise.",
+    "message": "Не только потому, что она внезапно заговорила со мной — она ещё и одета как служанка, что усугубляет замешательство."
+  },
+  {
+    "name": "Ange",
+    "_message": "“Airi is so stubborn. Once she gets like that, it’s going to be hard to talk her down.”",
+    "message": "Айри такая упрямая. Как только она станет такой, будет трудно отговорить её."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Hey, Ange.”",
+    "message": "...Эй, Анжи."
+  },
+  {
+    "name": "Ange",
+    "_message": "“Good morning. Another fine day ahead.”",
+    "message": "Доброе утро. Ещё один прекрасный день впереди."
+  },
+  {
+    "_message": "Ange gives me a charming greeting.",
+    "message": "Анжи даёт мне очаровательное приветствие."
+  },
+  {
+    "_message": "The atmosphere in the classroom just rolls off her—it’s like she has her own climate.",
+    "message": "Атмосфера в классе берёт пример с неё — как будто у неё свой собственный климат."
+  },
+  {
+    "_message": "I mean, look how she’s dressed.",
+    "message": "Ну то есть, посмотрите, как она одета."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Still rocking the maid outfit today.”",
+    "message": "...До сих пор носишь свой костюм для горничной."
+  },
+  {
+    "name": "Ange",
+    "_message": "“Yes. I wear my maid getup every day. Because I am a maid!”",
+    "message": "Да. Я ношу наряды для горничной каждый день. Потому что я горничная!"
+  },
+  {
+    "_message": "That explains that.",
+    "message": "Это всё объясняет."
+  },
+  {
+    "_message": "She is a student (and one selected for the test class), but the principal has given her special dispensation to dress as a maid. Because, after all—she is a maid.",
+    "message": "Она студентка (и также избранна для тестового класса), но директор дала ей разрешение одеться как горничная. В конце концов, она же служанка."
+  },
+  {
+    "name": "Ange",
+    "_message": "“I am a maid, like Mumsie before me.”",
+    "message": "Я служанка, как моя мама."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Your mother? Is she from—Europe, I’m guessing?”",
+    "message": "Твоя мама? Она из... Европы, я полагаю?"
+  },
+  {
+    "name": "Ange",
+    "_message": "“Yes. From England. That makes me half English.”",
+    "message": "Да. Из Англии. Это делает меня наполовину англичанкой."
+  },
+  {
+    "name": "Ange",
+    "_message": "“Although I’m very Japanese! Ahaha. My favorite food is tokoroten, you should try it sometime.”",
+    "message": "Хотя я очень даже японка! Ахаха. Моя любимая еда — токоротен, ты должен попробовать как-нибудь."
+  },
+  {
+    "_message": "I’m not sure what to do with all of this, coming from such a picture of a maid.",
+    "message": "Я не уверен, что делать со всем этим, исходя из такого образа служанки."
+  },
+  {
+    "name": "Ange",
+    "_message": "“But I have to say, Shingo, the students don’t seem very relaxed right now.”",
+    "message": "Но я должен сказать, Синго, что студенты сейчас не кажутся очень расслабленными."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Yeah. We aren’t there yet.”",
+    "message": "Ага. Мы ещё не привыкли к этому."
+  },
+  {
+    "name": "Ange",
+    "_message": "“That’s where I come in!”",
+    "message": "Вот тут и выходит на сцену Анжи!"
+  },
+  {
+    "_message": "With that, Ange dashes out into the corridor, and then comes back with a cart.",
+    "message": "С этой фразой она выходит в коридор, а затем возвращается с тележкой."
+  },
+  {
+    "_message": "She begins to serve tea to everyone at an astounding rate.",
+    "message": "Она начинает подавать чай всем с поразительной скоростью."
+  },
+  {
+    "name": "Ange",
+    "_message": "“I’ve made some tea! You want some, correct? I’ve got tea here, tea for everyone!”",
+    "message": "Я сделала чай! Вы хотите немного, верно? У меня здесь чай, чай для всех!"
+  },
+  {
+    "_message": "She really is fast!",
+    "message": "Она действительно быстрая!"
+  },
+  {
+    "_message": "She’s served tea to everyone in the class in a flash, without kicking up a mote of dust or ruffing her skirt.",
+    "message": "Она подавала чай всем в классе в мгновение ока, не поднимая пыль и не поднимая свою юбку."
+  },
+  {
+    "name": "Ange",
+    "_message": "“You want some too, Shingo? Please, I insist! Here you go.”",
+    "message": "Ты тоже хочешь, Синго? Пожалуйста, я настаиваю! Вот."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Thanks. You’re really something, Ange.”",
+    "message": "Спасибо. Ты действительно нечто, Анжи."
+  },
+  {
+    "name": "Ange",
+    "_message": "“Hehe, this is what a maid does. I’m serious about my profession.”",
+    "message": "Хе-хе, это то, что делает служанка. Я серьёзно отношусь к своей профессии."
+  },
+  {
+    "name": "Ange",
+    "_message": "“Allow me to take my leave. If you need anything else, please don’t hesitate to speak up!”",
+    "message": "Позвольте мне уйти. Если вам нужно что-то ещё, пожалуйста, не стесняйтесь говорить!"
+  },
+  {
+    "_message": "She gives me a proud smile, her bust heaving, and then leaves.",
+    "message": "Она показывает мне гордую улыбку, её бюст вздымается, а затем она уходит."
+  },
+  {
+    "_message": "She really is a maid. The whole getup isn’t just for show.",
+    "message": "Она действительно служанка. Это не просто слова."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Wow... this tea is really good, too.”",
+    "message": "Вау... этот чай тоже очень хороший."
+  },
+  {
+    "_message": "Okay. In any case—",
+    "message": "Хорошо. В любом случае—"
+  },
+  {
+    "name": "Kagamidai Girl A",
+    "_message": "“Thanks, Ange, for serving tea to everyone, including us.”",
+    "message": "Спасибо, Анжи, за подачу чая всем, включая нам."
+  },
+  {
+    "name": "Kagamidai Girl B",
+    "_message": "“We’re not... in the way here, are we?”",
+    "message": "Мы не... мешаем, ведь так?"
+  },
+  {
+    "name": "Ange",
+    "_message": "“No, of course not. The more the merrier, where I’m concerned.”",
+    "message": "Нет, конечно нет. Чем больше людей, тем лучше."
+  },
+  {
+    "name": "Ange",
+    "_message": "“It simply means more candidates to eventually become my master—or mistress.”",
+    "message": "Это значит больше шансов найти моего хозяина — или хозяйку."
+  },
+  {
+    "name": "Kagamidai Girl A",
+    "_message": "“Right. You’re a masterless maid, aren’t you Ange.”",
+    "message": "Точно. Анжи, ты же служанка без хозяина."
+  },
+  {
+    "name": "Ange",
+    "_message": "“That is correct! Hahaha. A maid without a master, I’m embarrassed to say.”",
+    "message": "Верно! Хахаха. Служанка без хозяина, мне стыдно это говорить."
+  },
+  {
+    "name": "Ange",
+    "_message": "“I’m in the middle of searching for someone to serve, but it isn’t going especially well.”",
+    "message": "Я нахожусь в поисках кого-то для служения, но дела идут не очень хорошо."
+  },
+  {
+    "_message": "—Ange doesn’t seem particularly opposed to the merger.",
+    "message": "—Анжи, кажется, особо не противится слиянию."
+  },
+  {
+    "_message": "She might not be welcoming it with open arms, but she’s at least being pleasant about it from her neutral position.",
+    "message": "Возможно, она не приветствует это с распростёртыми объятиями, но, по крайней мере, она рада этому с её нейтральной позиции."
+  },
+  {
+    "_message": "It’s reassuring to have someone like her around.",
+    "message": "Приятно осознавать, что вокруг есть люди, как она."
+  },
+  {
+    "name": "Ange",
+    "_message": "“Do you like the tea?”",
+    "message": "Вам нравится чай?"
+  },
+  {
+    "name": "Kagamidai Boy B",
+    "_message": "“Yeah, it’s perfect. Sluuuurp...”",
+    "message": "Д-да, он вкусный. Хлюююп..."
+  },
+  {
+    "name": "Yuihime Girl B",
+    "_message": "“How uncouth! This is why I don’t want the merger, provisional or otherwise.”",
+    "message": "Как невоспитанно! Вот почему я не хочу слияния, ни предварительного, ни какого-либо другого."
+  },
+  {
+    "name": "Ange",
+    "_message": "“Hahaha, this isn’t easy for you, is it, Eiko! I’ve never seen such a look on your face.”",
+    "message": "Хахаха, не легко тебе, Эйко! Я никогда не видела на тебе такого взгляда."
+  },
+  {
+    "_message": "Although it could be that she’s just making the most of this uncomfortable atmosphere.",
+    "message": "Хотя может быть и так, что она просто максимально использует эту неудобную атмосферу."
+  },
+  {
+    "_message": "Maybe that quirky personality is why she can’t find someone to hire her?",
+    "message": "Может быть, её странности и есть та причина, почему она не может найти того, кто бы её нанял?"
+  },
+  {
+    "name": "Sana",
+    "_message": "“It’s not easy, but I think just accepting it is the kindest thing to do.”",
+    "message": "Это нелегко, но я думаю, что просто принять это — самое доброе, что мы можем сделать."
+  },
+  {
+    "name": "Ange",
+    "_message": "“Oh, Sanny! You’re so mature. I’m moved to tears over here.”",
+    "message": "О, Саччан! Ты такая взрослая. Я тронута до глубины души."
+  },
+  {
+    "name": "Sana",
+    "_message": "“Thanks. You go ahead. Just relax and enjoy that tea.”",
+    "message": "Спасибо. В общем не беспокойтесь. Просто расслабьтесь и наслаждайтесь этим чаем."
+  },
+  {
+    "name": "Kagamidai Boy B",
+    "_message": "“Thank you, Inui.”",
+    "message": "Спасибо, Инуи."
+  },
+  {
+    "name": "Sana",
+    "_message": "“Don’t mention it.”",
+    "message": "Не стоит благодарности."
+  },
+  {
+    "name": "Macchi",
+    "_message": "“Good morning, everyone. Nice to see you all getting along—both sexes, I mean.”",
+    "message": "Доброе утро всем. Приятно видеть, что вы все ладите друг с другом."
+  },
+  {
+    "_message": "It isn’t just Ange. Some people have been welcoming to us, like the two from the auditorium—Macchi Yatsuzuka (our homeroom teacher, it turns out) and Sana Inui.",
+    "message": "Здесь ведь не только Анжи. Некоторые люди также приветствовали нас, например Матти Яцудзука (как оказалось, наша учительница) и Сана Инуи."
+  },
+  {
+    "_message": "The atmosphere is harsh at the moment, but it doesn’t mean everyone is against the merger.",
+    "message": "Сейчасм атмосфера колючая, но это не значит, что все против слияния."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“That’s right.”",
+    "message": "Верно."
+  },
+  {
+    "_message": "But then—",
+    "message": "Однако—"
+  },
+  {
+    "name": "Macchi",
+    "_message": "“Sena, how are you today? Are you getting along?”",
+    "message": "Сэна, как ты сегодня? Подружилась ли—"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Ms. Yatsuzuka, can you please start the homeroom now?”",
+    "message": "Язудзука-сенсей, не могли бы вы начать урок прямо сейчас?"
+  },
+  {
+    "name": "Macchi",
+    "_message": "“Uh... yes, of course.”",
+    "message": "Ээ... да..."
+  },
+  {
+    "_message": "—The biggest, clearest problem is Sena. She has the greatest control over the climate of this classroom.",
+    "message": "—Самая большая и очевидная проблема — Сэна. Она имеет наибольший контроль над климатом этого класса."
+  },
+  {
+    "name": "Macchi",
+    "_message": "“That’s the end of homeroom for today. Please, everyone, try and be nice to each other. Okay...”",
+    "message": "На сегодня это всё. Пожалуйста, попробуйте все поладить друг с другом, хорошо?.."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "With the end of homeroom, Sena leaves the classroom with her serene mask intact.",
+    "message": "Как только занятия закончились, Сэна покидает классную комнату со своей безмятежной маской."
+  },
+  {
+    "_message": "All the guys in the classroom instantly relax.",
+    "message": "Все парни в классе сразу же расслабляются."
+  },
+  {
+    "_message": "I watch her go, and even I give a sigh.",
+    "message": "Я смотрю, как она уходит, и даже вздыхаю."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“What’s up, Shingo?”",
+    "message": "Что случилось, братец?"
+  },
+  {
+    "_message": "This from Hayata.",
+    "message": "Вот и Хаята."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...You’ve been keeping your mouth shut.”",
+    "message": "...А ты держал свой рот на замке."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“I mean, I’m enjoying all this immensely, is all.”",
+    "message": "Ну, я наслаждаюсь всем этим, вот и всё."
+  },
+  {
+    "_message": "Hayata can handle the ups and downs at his own sweet pace, so he’s not struggling with this at all.",
+    "message": "Хаята может справиться с взлётами и падениями в своем сладком темпе, поэтому он вообще не борется с этим."
+  },
+  {
+    "_message": "Hearing that, and seeing the smile on his face, almost makes me want to agree with him.",
+    "message": "Услышав это и увидев улыбку на его лице, это почти заставляет меня хотеть согласиться с ним."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“But you’ve been holding out on me, Shingo. You know her, right? You and Sakuno. You should talk to her more.”",
+    "message": "Но ты скрывал от меня, братец. Ты знаешь её, так ведь? Ты и Сакуно. Тебе стоит говорить с ней больше."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I mean... we only met her once.”",
+    "message": "Ну, мы встретились только один раз."
+  },
+  {
+    "_message": "That’s even one of the reasons that makes it harder to talk to her, if I’m honest, but I keep that to myself.",
+    "message": "Это даже одна из причин, по которой мне трудно с ней заговорить, если честно, но я держу это при себе."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Having met her just before all this happened actually makes things more complicated.”",
+    "message": "Познакомившись с ней незадолго до того, как всё это произошло, делает вещи более сложными."
+  },
+  {
+    "_message": "She was so friendly and warm when we talked in the park, but I haven’t seen a single flash of that since being reunited here at school.",
+    "message": "Она была настолько дружелюбной и тёплой, когда мы говорили в парке, но я не видел ни одной теплоты с тех пор, как оказался здесь, в школе."
+  },
+  {
+    "_message": "My impression of her from that first meeting is what makes it harder for me to deal with this new version of her.",
+    "message": "Моё впечатление о ней с этой первой встречи — это то, почему мне трудно справиться с этой её новой версией."
+  },
+  {
+    "_message": "—On top of that, all she currently means to me is being a new friend for my sister.",
+    "message": "—В конце концов, всё, что она в настоящее время значит для меня, — это новая подруга для моей сестры."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“Hmmm. Is that so?”",
+    "message": "Хм. Так ли это?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“The only way through this mess is by talking it out.”",
+    "message": "Единственный способ разобраться с этим — поговорить с ней об этом."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“I look forward to seeing how that goes.”",
+    "message": "С нетерпением жду возможности увидеть, как это будет происходить."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...You almost make it sound like you don’t plan on helping out.”",
+    "message": "...Звучит так, будто ты не планируешь мне помогать."
+  },
+  {
+    "name": "Hayata",
+    "_message": "“I’m headed back to Kagamidai partway through today. I wish you the best of luck, my brother!”",
+    "message": "Я возвращаюсь в Кагамидай на полпути сегодня. Удачи, друг!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hold on! You’re not even going to be here? You won’t be seeing anything!”",
+    "message": "Погоди! Ты даже не будешь тут? Ты же ничего не увидишь!"
+  },
+  {
+    "name": "Hayata",
+    "_message": "“You’ll find being class president is more restrictive than it is liberating. Such are the burdens of leadership.”",
+    "message": "Быть президентом класса даёт больше ограничений, чем свободы. Таково бремя лидерства."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“You swine!”",
+    "message": "Ну и хам ты!"
+  },
+  {
+    "_message": "Hayata really did proceed to leave for Kagamidai, and I was left—unable to withstand the atmosphere in the classroom—to head out into the corridor.",
+    "message": "Хаята действительно ушёл в Кагамидай, и я ушёл — не выдержав атмосферы в классе — прямо в коридор."
+  },
+  {
+    "_message": "That calms me down, while the elegance of the setting soothes me...",
+    "message": "Это успокаивает меня, в то время как элегантность интерьера утешает меня..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Maybe I’ll head to the bathroom too.”",
+    "message": "...Пожалуй, пойду в туалет."
+  },
+  {
+    "_message": "Once I’ve left, it’s pathetic, but I simply don’t want to go back inside. That’s how hard the atmosphere in there is on me.",
+    "message": "Уйдя, жалко признаваться, но я просто не хочу возвращаться обратно. Вот какая тяжёлая атмосфера там."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“But you know what...”",
+    "message": "Но знаешь что..."
+  },
+  {
+    "_message": "I think as I walk.",
+    "message": "Я думаю, пока иду."
+  },
+  {
+    "_message": "Sena. A girl I met on the last night of September.",
+    "message": "Сэна. Девушка, которую я встретил в последнюю ночь сентября."
+  },
+  {
+    "_message": "She’s got an attitude at the moment, but she’s not a bad person. I can believe that, based on our meeting that night.",
+    "message": "У неё сейчас своя позиция, но она не плохой человек. Я могу поверить в это, основываясь на нашей встрече той ночью."
+  },
+  {
+    "_message": "There are reasons for how she’s acting now, justified or otherwise...",
+    "message": "Должны быть причины того, как она ведёт себя сейчас, оправданные или нет..."
+  },
+  {
+    "_message": "But even if there’s a gap between us, it’s still an advantage that we met before this. It all comes back to one thing.",
+    "message": "Но даже если между нами пропасть, это всё равно хорошо, что мы встретились тогда. Всё сводится к одному."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...We need to talk. About all sorts of things, we just need to talk.”",
+    "message": "...Нам нужно поговорить. Обо всём этом, нам нужно просто поговорить."
+  },
+  {
+    "_message": "I’m still thinking as I head into the bathroom.",
+    "message": "Я всё ещё думаю, пока направляюсь в туалет."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Huh?”",
+    "message": "Э?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ah.”",
+    "message": "Ой."
+  },
+  {
+    "_message": "Sena is already in there.",
+    "message": "Сэна уже там."
+  },
+  {
+    "_message": "My head hits pause for a moment.",
+    "message": "Мысли на мгновение останавливаются."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hey, okay, Sena, I know how this looks...”",
+    "message": "Ээ, ладно, Сэна, я знаю, как это сейчас выглядит..."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "Sena’s attractive face slowly fills up with red.",
+    "message": "Привлекательное лицо Сэны медленно наполняется красным."
+  },
+  {
+    "name": "Airi",
+    "_message": "%164;“Get out!”",
+    "message": "%164;Вон отсюда!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Uwaaah!”",
+    "message": "Уваааа!"
+  },
+  {
+    "_message": "Of course, I react immediately and leap back out.",
+    "message": "Конечно, я сразу реагирую и выпрыгиваю обратно в коридор."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Oh man, what am I thinking? I’m not thinking, am I!”",
+    "message": "О боже, о чем я только думал? Я ведь не думал вовсе!"
+  },
+  {
+    "_message": "In Kagamidai, that was the location of the boys’ bathroom.",
+    "message": "В Кагамидае это было бы местом для туалета для парней."
+  },
+  {
+    "_message": "But this is Yuihime. There are—essentially—only girls’ bathrooms here.",
+    "message": "Но это Юихимэ. Здесь только ванные комнаты для девушек."
+  },
+  {
+    "_message": "The boys had been told to use the bathroom in a separate building yesterday, but it slipped my mind.",
+    "message": "Парням вчера было сказано использовать ванную в отдельном здании, но я совершенно об этом забыл."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“And I just had to bump into Sena inside there too! Oh boy!”",
+    "message": "И я только что столкнулся с Сэной внутри! О боже!"
+  },
+  {
+    "name": "Ange",
+    "_message": "“You’re a bold one, Shingo, barging in on girl in the bathroom with such a straight face!”",
+    "message": "Вы такой смелый, Синго, врываться к девушке в туалет с таким бесстрастным лицом!"
+  },
+  {
+    "_message": "And Ange saw me too!",
+    "message": "И Анжи меня тоже увидела!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hey, Ange, about all this...”",
+    "message": "Ээ, Анжи, насчёт этого..."
+  },
+  {
+    "name": "Ange",
+    "_message": "“That voice was Airi, correct? Are you okay in there? Chastity intact?”",
+    "message": "Этот голос был Анжи, да? Ты там в порядке? Целомудрие не тронуто?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "I’m really sweating it now.",
+    "message": "С меня катится пот."
+  },
+  {
+    "_message": "Sena emerges, red to her ears, with her eyebrows as furrowed as a ploughed field.",
+    "message": "Сэна появляется, с красными ушами, с бровями, такими же нахмуренными, как вспаханное поле."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Sena. I’m so sorry!”",
+    "message": "Сэна. Мне очень жаль!"
+  },
+  {
+    "_message": "I start with an apology. That seem the best idea. It’s really all I can do.",
+    "message": "Я начинаю с извинений. Это кажется лучшей идеей. Это действительно всё, что я могу сделать."
+  },
+  {
+    "_message": "Thank goodness she wasn’t in the middle of anything, at least—\\k%123;but I’m still in trouble!",
+    "message": "Слава богу она, по крайней мере, была не в худшей ситуации—\\k%123;но у меня всё ещё проблемы!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I’m sorry, I don’t know what I was thinking! I mean, I wasn’t thinking! I’m sorry, Sena, I’m sorry!”",
+    "message": "Прости, я не знаю, о чём я думал! То есть, я и не думал вовсе! Прости, Сэна, прости!"
+  },
+  {
+    "name": "Airi",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "But Sena won’t even look at me.",
+    "message": "Но Сэна даже не посмотрела на меня."
+  },
+  {
+    "name": "Ange",
+    "_message": "“Airi. We should confer with the student council or Ranka about the washrooms issue. We need a location officially designated for the boys to use, for a start.”",
+    "message": "Айри. Мы должны сообщить студенческому совету или Ранке о проблеме с туалетами. Нам нужно место, официально предназначенное для парней."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...Indeed. Who knows what the next thoughtless male might walk in upon.”",
+    "message": "...Действительно. Кто знает, когда может зайти следующий бездумный мужчина."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hey—”",
+    "message": "Эй—"
+  },
+  {
+    "name": "Airi",
+    "_message": "“!”",
+    "message": "!"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Ange, we’re going!”",
+    "message": "Анжи, пошли!"
+  },
+  {
+    "name": "Ange",
+    "_message": "“Yes, right with you! ♪ Shingo, just because we are leaving you alone, that doesn’t mean you can use the girls’ bathroom, okay?”",
+    "message": "Да, уже иду! ♪ Синго, только потому, что мы оставляем тебя одного, это не значит, что ты можешь использовать туалет для девушек, ладно?"
+  },
+  {
+    "_message": "Sena smashes me with a final withering look, and then sets off with Ange in tow.",
+    "message": "Сэна ударяет в меня своим испепеляющим взглядом, а затем уходит с Анжи."
+  },
+  {
+    "_message": "...Oh boy.",
+    "message": "...О боже."
+  },
+  {
+    "_message": "—Honestly.",
+    "message": "—Ну честное слово."
+  },
+  {
+    "_message": "To say we are coming into a girls’ school, they really didn’t think about what adding boys to the mix was going to require.",
+    "message": "Сказав, что мы пойдём в школу для девушек, они действительно не думали о том, что потребуется для добавления парней тут."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“There’s no boys’ changing room either!”",
+    "message": "Здесь нет мужских раздевалок!"
+  },
+  {
+    "_message": "We’re heading back from gym class.",
+    "message": "Мы возвращаемся из спортзала."
+  },
+  {
+    "_message": "The boys had been left to get changed anywhere they could, away from prying eyes, and I’m leading the discourse on the subject.",
+    "message": "Парней просто оставили переодеваться где угодно, подальше от посторонних глаз, и я обсуждаю это."
+  },
+  {
+    "_message": "...If Hayata had been here, this would have been his time to shine, but no dice there.",
+    "message": "...Если бы Хаята был здесь, это было бы его время сиять, но увы."
+  },
+  {
+    "_message": "I need to get all the boys on the same page before we return to the classroom.",
+    "message": "Мне нужно настроить всех парней на одну волну, прежде чем мы вернёмся в класс."
+  },
+  {
+    "name": "Kagamidai Boy A",
+    "_message": "“I know. But everyone other than us are, well—girls.”",
+    "message": "Я знаю. Но все, кроме нас, ну — девушки."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Right. So we need to do our best to blend in, without making waves.”",
+    "message": "Верно. Поэтому нам нужно сделать всё возможное, чтобы не вызывать неприятности."
+  },
+  {
+    "_message": "I clench my fist in a unifying gesture as I open the door.",
+    "message": "Я сжимаю кулак в объединяющем жесте и открываю дверь."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Huh?”",
+    "message": "Ха?"
+  },
+  {
+    "_message": "High-pitched screams assault my ears, and I get a glimpse of—skin?",
+    "message": "Крики доходят до моих ушей, и я мельком увидел—кожу?"
+  },
+  {
+    "_message": "%164;Someone getting changed?!",
+    "message": "%164;Там переодеваются?!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Uwaaah, I’m sorry!”",
+    "message": "Увааа, простите!"
+  },
+  {
+    "_message": "I hurriedly close the door again, and then freeze up.",
+    "message": "Я снова поспешно закрываю дверь, а затем замираю."
+  },
+  {
+    "_message": "I mean, this is how things have always been here, sure.",
+    "message": "Ну в общем, да, вот как всегда обстояли вещи тут."
+  },
+  {
+    "_message": "But I wish they could give us some consideration too!",
+    "message": "Но я бы хотел, чтобы они тоже уделили нам какое-нибудь внимание!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ulp!”",
+    "message": "Улп!"
+  },
+  {
+    "_message": "The door suddenly opens, and something soft hits me in the face—",
+    "message": "Дверь внезапно открывается, и что-то мягкое ударяет меня по лицу."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...Uryu.”",
+    "message": "Урю."
+  },
+  {
+    "_message": "I leap away in panic!",
+    "message": "Я в панике прыгаю прочь!"
+  },
+  {
+    "_message": "There’s Sena (thankfully in her #00ff0000;full uniform#;) with an icy expression (although flushed red) glaring right at me.",
+    "message": "Передо мной Сэна (к счастью, #00ff0000;в полной униформе#;) с ледяным (хотя и с покрасневшим) выражением лица смотрит прямо на меня."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...This one was partly on me, I will admit.”",
+    "message": "...Признаю, отчасти я тоже виновата."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I really am sorry! But please—”",
+    "message": "Мне очень жаль! Но пожалуйста—"
+  },
+  {
+    "name": "Airi",
+    "_message": "“!”",
+    "message": "!"
+  },
+  {
+    "name": "Airi",
+    "_message": "“You could at least knock! I’m starting to see your character, Uryu, but can you not stand right in front of the door?”",
+    "message": "Вы могли бы хотя бы постучать! Я начинаю видеть твоё истинное лицо, Урю, но ты не мог бы стоять прямо перед дверью?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "The guys all proceed to slap me on the back.",
+    "message": "Парни продолжают хлопать меня по спине."
+  },
+  {
+    "name": "Kagamidai Boy A",
+    "_message": "“You won’t get any sympathy out of me, after all the stuff you’ve been seeing today.”",
+    "message": "Ты не получишь от меня никакого сочувствия, после всего, что ты увидел сегодня."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hey, hold on!”",
+    "message": "Эй, погоди!"
+  },
+  {
+    "_message": "During lessons.",
+    "message": "Во время уроков."
+  },
+  {
+    "name": "Yuihime Girl B",
+    "_message": "“I heard Uryu was the one leading the gang of peepers...”",
+    "message": "Я слышала, что Урю был тем, кто возглавлял банду подглядывающих..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "The most important thing I’ve learned today is—always knock.",
+    "message": "Самое важное, что я узнал за сегодня — всегда стучаться."
+  },
+  {
+    "_message": "I mean, I would normally knock... but I’d never have expected a girl to be changing in there.",
+    "message": "Ну то есть, я бы обычно постучался... но я никогда не ожидал, что там переодевалась бы девушка."
+  },
+  {
+    "name": "Shingo",
+    "_message": "%51;“They had to know the guys were coming back... they could show a little more caution.”",
+    "message": "%51;Они должны были знать, что мы возвращаемся... они могли проявить немного больше осторожности."
+  },
+  {
+    "_message": "I almost feel like speaking up, but that’s coming from having attended a school with both sexes.",
+    "message": "Мне почти хочется выговориться, но это потому, что я посещал обычную школу."
+  },
+  {
+    "_message": "I need to get my head together and try not to purchase the wrath of the girls again.",
+    "message": "Мне нужно собраться и попытаться больше не испытывать гнев девушек."
+  },
+  {
+    "name": "Airi",
+    "_message": "“—Which is why I think this sentence has two possible meanings.”",
+    "message": "—Вот почему я думаю, что это предложение имеет два возможных значения."
+  },
+  {
+    "_message": "Sena really is a good student; I’ll give her that.",
+    "message": "Сэна действительно хорошая ученица. Я должен признать это."
+  },
+  {
+    "_message": "The teachers must love her. The refined way she answers their questions, she’s like the ideal student.",
+    "message": "Учителя должны любить её. Утонченный способ, которым она отвечает на их вопросы; она как идеальная ученица."
+  },
+  {
+    "_message": "—Which only makes all this more difficult.",
+    "message": "—Что только делает всё сложнее."
+  },
+  {
+    "_message": "To make things worse, I even bumped right into her before. I need to try and put this right...",
+    "message": "Что ещё хуже, я даже наткнулся прямо на неё раньше. Мне нужно попытаться исправить это..."
+  },
+  {
+    "_message": "Luckily, we are sitting in the same row, and not that far apart. If I can just—",
+    "message": "К счастью, мы сидим в одном и том же ряду, и не так далеко друг от друга. Если я смогу просто—"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Huh?”",
+    "message": "...Хм?"
+  },
+  {
+    "_message": "Then something rolls up to my feet.",
+    "message": "Что-то катится к моим ногам."
+  },
+  {
+    "name": "Kagamidai Boy B",
+    "_message": "%51;“Sorry, Uryu, I dropped my eraser down there...”",
+    "message": "%51;Извини, Урю, я уронил ластик..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "%51;“No problem, give me a sec to limber up.”",
+    "message": "%51;Нет проблем, секунду."
+  },
+  {
+    "_message": "I bend my body down and stick my head under the desk.",
+    "message": "Я согнулся вниз и опустил голову под парту."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "From here, I can see Sena’s smooth legs.",
+    "message": "Отсюда я вижу гладкие ноги Сэны."
+  },
+  {
+    "_message": "...This could be taken the wrong way too.",
+    "message": "...Это тоже можно понять неправильно."
+  },
+  {
+    "_message": "I hurriedly get my face back above sea level.",
+    "message": "Я поспешно возвращаю лицо над партой."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...!”",
+    "message": "...!"
+  },
+  {
+    "_message": "...Sena is looking angrily in my direction, pressing down on her skirt with both hands.",
+    "message": "...Сэна сердито смотрит в мою сторону, прижимаясь к своей юбке обеими руками."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Uryu!”",
+    "message": "Урю."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“An eraser! A classmate dropped his eraser!”",
+    "message": "Ластик! Одноклассник уронил свой ластик!"
+  },
+  {
+    "_message": "—The second lesson of the day.",
+    "message": "—Второй урок за сегодня."
+  },
+  {
+    "_message": "No leaning below desk level in class.",
+    "message": "Не наклоняться ниже уровня парты в классе."
+  },
+  {
+    "_message": "With each and every fresh incident, I can only renew my resolve to take even greater care going forward.",
+    "message": "С каждой такой ситуацией я могу только укрепить свою решимость, чтобы позаботиться о том, чтобы в будущем такого не происходило."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Uryu...”",
+    "message": "Урю..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Please, stay calm, stay calm and just listen to me...”",
+    "message": "Пожалуйста, успокойся, успокойся и просто выслушай меня..."
+  },
+  {
+    "name": "Kagamidai Boy A",
+    "_message": "“Ah, I’m sorry, I’m sorry, Uryu!”",
+    "message": "Уу, прости, прости, Урю!"
+  },
+  {
+    "_message": "But this isn’t something that’s so easily changed, and we continue to cause upsets on the regular.",
+    "message": "Но это не то, чего так легко придерживаться, и мы продолжаем вызывать подобные казусы."
+  },
+  {
+    "_message": "Eventually—",
+    "message": "В конечном счёте—"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Okay, that wasn’t a great showing from me. But can you please take some care too? Is that too much to ask?”",
+    "message": "Ладно, с моей стороны это было не слишком красиво. Но не могли бы вы тоже проявить немного осторожности? Я слишком многого прошу?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“So now you’re shaming me to make a point!”",
+    "message": "Так теперь ты позоришь меня, чтобы доказать свою правоту!"
+  },
+  {
+    "_message": "Sena, the leader of the Yuihime girls, also often ended up as the one embarrassed by our antics.",
+    "message": "Сэна, лидер девушек Юихимэ, также часто оказывалась тем, кто смущалась по нашим выходкам."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...”",
+    "message": "..."
+  },
+  {
+    "_message": "The way she looks at us, it’s gone from “hostile” to a “blistering stare of death!”",
+    "message": "То, как она смотрит на нас, перешло от “враждебного” к “гневному взору смерти”!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Boy...”",
+    "message": "Боже..."
+  },
+  {
+    "_message": "We finally make it lunchtime. I leave the classroom and wander the corridors.",
+    "message": "[TL] Наконец -то мы делаем это обеденное время. Я покидаю классную комнату и брожу по коридорам."
+  },
+  {
+    "_message": "I don’t really have anywhere to go. I still don’t know the campus. But being in the classroom is just wearing me out.",
+    "message": "[TL] Мне действительно некуда идти. Я до сих пор не знаю кампуса. Но пребывание в классе просто носит меня."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“It feels like the atmosphere is just getting worse, not better.”",
+    "message": "[TL] Такое ощущение, что атмосфера становится все хуже, не лучше."
+  },
+  {
+    "_message": "That might be thanks to me, of course, but it still wears me out.",
+    "message": "[TL] Конечно, это может быть благодаря мне, но это все еще изнашивает меня."
+  },
+  {
+    "_message": "This isn’t really working out.",
+    "message": "[TL] Это на самом деле не работает."
+  },
+  {
+    "_message": "I just keep walking around, rather than going back.",
+    "message": "[TL] Я просто продолжаю ходить, вместо того, чтобы возвращаться."
+  },
+  {
+    "_message": "The sound of my footfalls in the cold, detached corridor only makes me feel it more intensely.",
+    "message": "[TL] Звук моих шагов в холодном, отдельном коридоре только заставляет меня чувствовать это более интенсивно."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“How many times did I hear that cold ‘Uryu’ from Sena today?”",
+    "message": "[TL] Сколько раз я слышал эту холодную« уюру »от Сены сегодня?"
+  },
+  {
+    "_message": "—And then I hear another one.",
+    "message": "[TL] - И тогда я слышу еще один."
+  },
+  {
+    "name": "???",
+    "_message": "“Uryu...”",
+    "message": "[TL] Уриу ..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Huh?”",
+    "message": "[TL] ...Хм?"
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu... ryu, uryu...”",
+    "message": "[TL] Рю ... Рю, Урю ..."
+  },
+  {
+    "_message": "I can hear a voice calling me from somewhere.",
+    "message": "[TL] Я слышу голос откуда -то звонит мне."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Who’s there?”",
+    "message": "[TL] ... кто там?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "_message": "In response (?) to my call, the mysterious creature from the courtyard yesterday now reveals itself.",
+    "message": "[TL] В ответ (?) На мой призыв, загадочное существо от двора вчера показывает себя."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Hi.”",
+    "message": "[TL] ...Привет."
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu?”",
+    "message": "[TL] Рю?"
+  },
+  {
+    "_message": "I kneel down and say hello, without thinking.",
+    "message": "[TL] Я встаю на колени и говорю привет, не задумываясь."
+  },
+  {
+    "_message": "I had to stay away from animals when I was younger, due to my asthma, but now I quite like them.",
+    "message": "[TL] Мне пришлось держаться подальше от животных, когда я был моложе, из -за моей астмы, но теперь они мне очень нравятся."
+  },
+  {
+    "_message": "That said... getting a closer, longer look at this thing, it really is totally bizarre.",
+    "message": "[TL] Тем не менее ... сближаясь, дольше посмотрите на эту штуку, это действительно очень странно."
+  },
+  {
+    "name": "???",
+    "_message": "“Uryu...”",
+    "message": "[TL] Уриу ..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Yeah.”",
+    "message": "[TL] ...Ага."
+  },
+  {
+    "_message": "I keep replying to it, though. The sounds it makes really do sound like my surname.",
+    "message": "[TL] Я продолжаю отвечать на это, хотя. Звуки это действительно звучит как моя фамилия."
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu? Ryu...”",
+    "message": "[TL] Рю? Ryu ..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Okay... I’m Uryu. Shingo Uryu.”",
+    "message": "[TL] Хорошо ... Я Урю. Shingo Uryu."
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu?”",
+    "message": "[TL] Рю?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Yes. Uryu.”",
+    "message": "[TL] Да. Урю."
+  },
+  {
+    "name": "???",
+    "_message": "“Uryu!”",
+    "message": "[TL] Урю!"
+  },
+  {
+    "_message": "Hop!",
+    "message": "[TL] Прыгать!"
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu, ryu! ♪”",
+    "message": "[TL] Рю, Рю! ♪"
+  },
+  {
+    "_message": "The mysterious creature hops up onto me, then starts rubbing me with its body. It seems pretty pleased.",
+    "message": "[TL] Таинственное существо запрыгивает на меня, затем начинает тереть меня своим телом. Это кажется довольно довольным."
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu!”",
+    "message": "[TL] Рю!"
+  },
+  {
+    "_message": "...It seems to like me.",
+    "message": "[TL] ... Кажется, я мне нравлюсь."
+  },
+  {
+    "_message": "I decide to continue my stroll, taking the creature with me.",
+    "message": "[TL] Я решаю продолжить прогулку, взяв со мной существо."
+  },
+  {
+    "_message": "Whether it likes me or not, I didn’t want to just leave it there.",
+    "message": "[TL] Я нравлюсь ему, я не хотел, чтобы я не хотел просто оставлять это там."
+  },
+  {
+    "_message": "And it literally sounds like it’s calling my name. That has to mean something.",
+    "message": "[TL] И это буквально звучит так, будто называет мое имя. Это должно что -то означать."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“You really are so fluffy. It’s kinda nice.”",
+    "message": "[TL] Ты действительно такой пушистый. Это довольно хорошо ."
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu, ryu.”",
+    "message": "[TL] Рю, Рю."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Yes, of course. And what about that girl who was with you before? Where’s she today?”",
+    "message": "[TL] Да, конечно. А как насчет той девушки, которая была с тобой раньше? Где она сегодня?"
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu?”",
+    "message": "[TL] Рю?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“You don’t know?”",
+    "message": "[TL] Вы не знаете?"
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu...”",
+    "message": "[TL] Рю ..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I see...”",
+    "message": "[TL] Я понимаю..."
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu!”",
+    "message": "[TL] Рю!"
+  },
+  {
+    "_message": "It kinda feels like we’re communicating, which is also a strange feeling.",
+    "message": "[TL] Мне кажется, что мы общаемся, что также является странным чувством."
+  },
+  {
+    "_message": "But I do wonder where the girl who was playing with this creature can be found.",
+    "message": "[TL] Но мне интересно, где можно найти девушку, которая играла с этим существом."
+  },
+  {
+    "_message": "Even if it isn’t her pet, specifically, she can surely tell me more about it.",
+    "message": "[TL] Даже если это не ее питомец, в частности, она наверняка может рассказать мне больше об этом."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...She looked kinda small, but is she a student here?”",
+    "message": "[TL] ... Она выглядела немного маленькой, но она здесь студентка?"
+  },
+  {
+    "name": "???",
+    "_message": "“Uryu.”",
+    "message": "[TL] Урю."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“You don’t know?”",
+    "message": "[TL] Вы не знаете?"
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu!”",
+    "message": "[TL] Рю!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Uryu is my name, Uryu.”",
+    "message": "[TL] Ури - мое имя, Урю."
+  },
+  {
+    "_message": "I keep hold of the creature and continue my walk.",
+    "message": "[TL] Я держу существо и продолжаю прогулку."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ah, you can get out the back through here.”",
+    "message": "[TL] Ах, ты можешь выйти обратно здесь."
+  },
+  {
+    "name": "???",
+    "_message": "“Panditty!”",
+    "message": "[TL] Пандитти!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Huh?”",
+    "message": "[TL] Хм?"
+  },
+  {
+    "_message": "As I head out behind the school, I hear a voice shouting what sounds like random words.",
+    "message": "[TL] Когда я ухожу за школой, я слышу, как голос кричит, что звучит как случайные слова."
+  },
+  {
+    "name": "???",
+    "_message": "“Panditty, where are you?”",
+    "message": "[TL] Пандитти, где ты?"
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu!”",
+    "message": "[TL] Рю!"
+  },
+  {
+    "_message": "As soon as it hears that call, the creature in my arms starts to react.",
+    "message": "[TL] Как только он слышит этот звонок, существо в моих руках начинает реагировать."
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu! Ryu!”",
+    "message": "[TL] Рю! Рю!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ah, this voice. It must be the girl I’m looking for.”",
+    "message": "[TL] Ах, этот голос. Это должно быть девушка, которую я ищу ."
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu, uryu!”",
+    "message": "[TL] Рю, Урю!"
+  },
+  {
+    "name": "???",
+    "_message": "“Panditty!”",
+    "message": "[TL] Пандитти!"
+  },
+  {
+    "_message": "As I expected, it’s the same small girl who shows up.",
+    "message": "[TL] Как я и ожидал, это та же маленькая девочка, которая появляется."
+  },
+  {
+    "_message": "Her big eyes get even wider when she sees me holding the creature.",
+    "message": "[TL] Ее большие глаза становятся еще шире, когда она видит, как я держит существо."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Hey there...”",
+    "message": "[TL] Привет..."
+  },
+  {
+    "name": "???",
+    "_message": "“Ah, hi, ah... who are you?”",
+    "message": "[TL] Ах, привет, а ... кто ты?"
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu.”",
+    "message": "[TL] Рю."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“No. Uryu, my name is Uryu.”",
+    "message": "[TL] Нет. Урю, меня зовут Урю."
+  },
+  {
+    "name": "???",
+    "_message": "“Huh?”",
+    "message": "[TL] Хм?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ah, you see... I’m called Shingo Uryu.”",
+    "message": "[TL] Ах, ты видишь ... меня зовут Синго Урю."
+  },
+  {
+    "name": "???",
+    "_message": "“Uryu!”",
+    "message": "[TL] Урю!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“That’s right.”",
+    "message": "[TL] Это верно."
+  },
+  {
+    "name": "???",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "name": "???",
+    "_message": "“Hah... aha, hahaha!”",
+    "message": "[TL] Ха ... Ага, хахаха!"
+  },
+  {
+    "_message": "The girl starts laughing her head off.",
+    "message": "[TL] Девушка начинает смеяться над головой."
+  },
+  {
+    "_message": "She has a smooth, round, appealing laugh. That’s what strikes me about her first.",
+    "message": "[TL] У нее гладкий, круглый, привлекательный смех. Вот что мне сначала поражает меня."
+  },
+  {
+    "_message": "After taking the creature from me, she looks up into my face and then gives me a sweet candy laugh.",
+    "message": "[TL] Забрав у меня существо, она смотрит на мое лицо, а затем дает мне сладкий смех."
+  },
+  {
+    "name": "Miu",
+    "_message": "“Thanks, Uryu. I’m Miu Amaha, a third year.”",
+    "message": "[TL] Спасибо, Урю. Я Миу Амаха, третий год ."
+  },
+  {
+    "_message": "A third year?!",
+    "message": "[TL] Третий год?!"
+  },
+  {
+    "_message": "I’m shocked by this information but do my best to keep that off my face.",
+    "message": "[TL] Я шокирован этой информацией, но сделаю все возможное, чтобы не допустить моего лица."
+  },
+  {
+    "_message": "It’s a damn good thing I’m always polite when meeting someone for the first time.",
+    "message": "[TL] Это чертовски хорошо, что я всегда вежливо, когда встречаюсь с кем -то в первый раз."
+  },
+  {
+    "name": "Miu",
+    "_message": "“Yep, I’m older than you. You must be a first or second year, correct?”",
+    "message": "[TL] Да, я старше тебя. Вы должны быть первым или вторым курсом, правильно?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ah, yes, that’s right... I’m a second year. From 2-T.”",
+    "message": "[TL] Ах, да, это верно ... я второй год. От 2-t."
+  },
+  {
+    "name": "Miu",
+    "_message": "“Sorry to gender profile you, but I thought as much. One of the early merger kids from Kagamidai. We third years don’t have a test class.”",
+    "message": "[TL] Извините за гендерный профиль, но я думал так же. Один из ранних детей слияния из Кагамидай. У нас третьи годы нет тестового класса ."
+  },
+  {
+    "_message": "She looks up at me again and smiles.",
+    "message": "[TL] Она снова смотрит на меня и улыбается."
+  },
+  {
+    "_message": "She looks so young; I’m shocked again to hear she is in her third year here.",
+    "message": "[TL] Она выглядит такой молодой; Я снова шокирован, услышав, что она на третьем курсе здесь."
+  },
+  {
+    "_message": "She’s small and cute and all very fluffy, sure, but there’s also definitely a collected, “older sister” vibe to her.",
+    "message": "[TL] Она маленькая и милая и очень пушистая, конечно, но для нее также есть собранная атмосфера «старшая сестра»."
+  },
+  {
+    "_message": "She might be small, but her body is definitely feminine, too.",
+    "message": "[TL] Она может быть маленькой, но ее тело определенно женственное."
+  },
+  {
+    "_message": "Of course, I’m not looking too hard at that. I do try to be a gentleman.",
+    "message": "[TL] Конечно, я не слишком смотрю на это. Я стараюсь быть джентльменом."
+  },
+  {
+    "name": "Miu",
+    "_message": "“Hmmm, I see...”",
+    "message": "[TL] Хммм, я вижу ..."
+  },
+  {
+    "_message": "Amaha, meanwhile, starts to circle around me, her eyes glittering.",
+    "message": "[TL] Амаха, тем временем, начинает кружить вокруг меня, ее глаза блестят."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Is there... something you want?”",
+    "message": "[TL] Есть ... что -то ты хочешь?"
+  },
+  {
+    "name": "Miu",
+    "_message": "“Ah, sorry.”",
+    "message": "[TL] Ах, извини."
+  },
+  {
+    "_message": "She immediately stops and then gives an embarrassed laugh.",
+    "message": "[TL] Она немедленно останавливается, а затем смеется смущенный."
+  },
+  {
+    "name": "Miu",
+    "_message": "“This has always been a girls’ school. It’s something new to talk to a boy.”",
+    "message": "[TL] Это всегда была школа для девочек. Это что -то новое, чтобы поговорить с мальчиком ."
+  },
+  {
+    "_message": "And her reaction is new for me, having always been at a school with all genders.",
+    "message": "[TL] И ее реакция новая для меня, всегда была в школе со всеми полами."
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu, ryu!”",
+    "message": "[TL] Рю, Рю!"
+  },
+  {
+    "name": "Miu",
+    "_message": "“Hehe, Panditty, you’re a girl too. Being held by a cool young man like Uryu must have been something quite different for you!”",
+    "message": "[TL] Хе -хе, Пандитти, ты тоже девушка. Быть держащим в своем классном молодом человеке, как Урю, должно быть, было чем -то совершенно другим для вас!"
+  },
+  {
+    "name": "???",
+    "_message": "“Uryu!”",
+    "message": "[TL] Урю!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“That thing is female?!”",
+    "message": "[TL] Эта вещь женщина?!"
+  },
+  {
+    "_message": "I ignore being called “cool” and look at the mysterious creature resting on Amaha’s head.",
+    "message": "[TL] Я игнорирую, что меня называют «круто» и смотрю на таинственное существо, опираясь на голову Амахи."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I see. I’m sorry. Maybe I should have been gentler.”",
+    "message": "[TL] Я понимаю. Мне жаль. Может быть, я должен был быть мягче."
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu? Uryu! ♪”",
+    "message": "[TL] Рю? Ури! ♪"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“That’s right. I’m Uryu.”",
+    "message": "[TL] Это верно. Я Урю."
+  },
+  {
+    "name": "Miu",
+    "_message": "“Ahaha...”",
+    "message": "[TL] Ахаха ..."
+  },
+  {
+    "_message": "It seems the back-and-forth between me and this creature, revolving around so much “uryu,” is really tickling Amaha.",
+    "message": "[TL] Кажется, что между мной и этим существом, вращающимся вокруг столько «Урю», действительно щекочет Амаха."
+  },
+  {
+    "name": "Miu",
+    "_message": "“Panditty seems to have really taken a liking to you too.”",
+    "message": "[TL] Пандитти, кажется, действительно полюбил тебя."
+  },
+  {
+    "_message": "Amaha takes the mysterious creature down, holds her tight, and then tickles her beneath what, at least on a cat, might be considered her chin.",
+    "message": "[TL] Амаха снимает загадочное существо, крепко держит ее, а затем щекочет ее под то, что, по крайней мере, на кошке, может считаться ее подбородком."
+  },
+  {
+    "_message": "...I really can’t tell, to be honest.",
+    "message": "[TL] ... Я действительно не могу сказать, если честно."
+  },
+  {
+    "name": "???",
+    "_message": "“Ryu... ♪”",
+    "message": "[TL] Рю ... ♪"
+  },
+  {
+    "name": "Miu",
+    "_message": "“Hehe.”",
+    "message": "[TL] Хе -хе."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“She’s called ‘Panditty?’ Is she... a cat?”",
+    "message": "[TL] Ее называют« Пандитти? »Она ... кошка?"
+  },
+  {
+    "_message": "Every cat across the country would probably take offense at my question, but I feel I have to ask.",
+    "message": "[TL] Каждая кошка по всей стране, вероятно, обидется на мой вопрос, но я чувствую, что должен спросить."
+  },
+  {
+    "name": "Miu",
+    "_message": "“She’s not a cat, but a Panditty. She’s like a panda, like a kitty, poof, Panditty.”",
+    "message": "[TL] Она не кошка, а падитти. Она как панда, как котенок, пуф, падитти ."
+  },
+  {
+    "_message": "Amaha makes it sound like this is the most natural thing in the world.",
+    "message": "[TL] Амаха делает это, похоже, это самая естественная вещь в мире."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Okay, but... what kind of animal is that exactly?”",
+    "message": "[TL] ... хорошо, но ... что это за животное?"
+  },
+  {
+    "name": "Miu",
+    "_message": "“I’m not entirely sure—biologically speaking. But she’s super cute! Right, Panditty?”",
+    "message": "[TL] Я не совсем уверен - биологически говоря. Но она супер милая! Верно, Пандитти?"
+  },
+  {
+    "_message": "She’s not a particularly precise person.",
+    "message": "[TL] Она не особенно точный человек."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Okay, well... nice to meet you, Panditty. I hope we can be friends.”",
+    "message": "[TL] Хорошо, хорошо ... приятно познакомиться, Пандитти. Я надеюсь, что мы можем быть друзьями ."
+  },
+  {
+    "name": "Panditty",
+    "_message": "“Ryu, ryu! ♪”",
+    "message": "[TL] Рю, Рю! ♪"
+  },
+  {
+    "_message": "I give her a patting and Panditty wriggles happily.",
+    "message": "[TL] Я даю ей похлопывание, и Пандитти счастливо извиняется."
+  },
+  {
+    "_message": "It seems she really has taken a liking to me.",
+    "message": "[TL] Кажется, она действительно понравилась мне."
+  },
+  {
+    "name": "Miu",
+    "_message": "“You two look like good friends already!”",
+    "message": "[TL] Вы двое уже выглядите как хорошие друзья!"
+  },
+  {
+    "name": "Miu",
+    "_message": "“I hope we can be friends too, Uryu.”",
+    "message": "[TL] Я надеюсь, что мы тоже сможем быть друзьями, Урю."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Huh?”",
+    "message": "[TL] Хм?"
+  },
+  {
+    "_message": "I don’t give the best reaction, caught off guard by this unexpected development.",
+    "message": "[TL] Я не даю лучшей реакции, застигнутой врасплох этим неожиданным развитием."
+  },
+  {
+    "_message": "Amaha gives me a gentle smile.",
+    "message": "[TL] Амаха нежно улыбнулась."
+  },
+  {
+    "name": "Miu",
+    "_message": "“It might be tough until you get accustomed to things, but this is a good school. I’m sure you’ll learn to love it here.”",
+    "message": "[TL] Это может быть сложно, пока вы не привык к вещам, но это хорошая школа. Я уверен, что вы научитесь любить это здесь ."
+  },
+  {
+    "name": "Miu",
+    "_message": "“I’m happy to have you here, Uryu. Let’s be friends.”",
+    "message": "[TL] Я счастлив, что ты здесь, Урю. Давайте будем друзьями ."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Amaha...”",
+    "message": "[TL] Амаха ..."
+  },
+  {
+    "_message": "Her smile warms my heart, in a way I can’t describe.",
+    "message": "[TL] Ее улыбка согревает мое сердце, так что я не могу описать."
+  },
+  {
+    "name": "Miu",
+    "_message": "“I’m jealous of the girls in the first and second years. All those new friends.”",
+    "message": "[TL] Я завидую девушкам в первый и второй год. Все эти новые друзья ."
+  },
+  {
+    "name": "Panditty",
+    "_message": "“Ryu.”",
+    "message": "[TL] Рю."
+  },
+  {
+    "_message": "Amaha seems very welcoming to our presence here.",
+    "message": "[TL] Амаха кажется очень гостеприимной для нашего присутствия здесь."
+  },
+  {
+    "_message": "Unlike Sena and most of the girls in our class, she’s accepting of the Kagamidai contingent—including the boys.",
+    "message": "[TL] В отличие от Сены и большинства девочек в нашем классе, она принимает контингент кагамидай, включая мальчиков."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Thank you!”",
+    "message": "[TL] Спасибо!"
+  },
+  {
+    "_message": "I give her a deep bow.",
+    "message": "[TL] Я даю ей глубокий поклон."
+  },
+  {
+    "_message": "After how hard the morning has been, the attitude displayed by Amaha is exactly what I needed.",
+    "message": "[TL] После того, как тяжело было утро, отношение, демонстрируемое Амахой, - это именно то, что мне было нужно."
+  },
+  {
+    "name": "Miu",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "_message": "She also seems to have sensed something.",
+    "message": "[TL] Похоже, она что -то почувствовала."
+  },
+  {
+    "_message": "Amaha stands up on her toes and gently pats me on the head.",
+    "message": "[TL] Амаха встает на пальцах пальцев и осторожно поглаживает меня по голове."
+  },
+  {
+    "name": "Miu",
+    "_message": "“Good boy, good boy.”",
+    "message": "[TL] Хороший мальчик, хороший мальчик."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "_message": "It’s actually strangely soothing.",
+    "message": "[TL] Это на самом деле странно успокаивает."
+  },
+  {
+    "_message": "A warm and happy feeling spreads inside my chest.",
+    "message": "[TL] Теплое и счастливое чувство распространяется в моей груди."
+  },
+  {
+    "_message": "—Her hand slowly moves away.",
+    "message": "[TL] - ее рука медленно уходит."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Amaha.”",
+    "message": "[TL] ... Амаха."
+  },
+  {
+    "name": "Miu",
+    "_message": "“Hehehe.”",
+    "message": "[TL] Хе -хе."
+  },
+  {
+    "name": "Miu",
+    "_message": "“...You’d better get back to class or you’ll miss your lunch.”",
+    "message": "[TL] ... Тебе лучше вернуться в класс, иначе ты пропустишь свой обед."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ah... yeah, thanks.”",
+    "message": "[TL] Ах ... да, спасибо."
+  },
+  {
+    "_message": "A feeling hits me like I’ve just been rudely woken up. I hurriedly collect myself.",
+    "message": "[TL] Чувство поражает меня, как будто меня только что грубо разбудили. Я поспешно собираю себя."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...I’d better get going.”",
+    "message": "[TL] ... Мне лучше начать."
+  },
+  {
+    "name": "Miu",
+    "_message": "“Okay. See you soon, Uryu. Panditty, say goodbye too!”",
+    "message": "[TL] Хорошо. Увидимся скоро, Урю. Пандитти, попрощайтесь!"
+  },
+  {
+    "name": "Panditty",
+    "_message": "“Uryu! ♪”",
+    "message": "[TL] Ури! ♪"
+  },
+  {
+    "_message": "Amaha sees me off with a smile and a wave.",
+    "message": "[TL] Амаха видит меня с улыбкой и волной."
+  },
+  {
+    "_message": "Wow. The ups and downs in this place are giving me whiplash.",
+    "message": "[TL] Ух ты. Взрэты и падения в этом месте дают мне кнут."
+  },
+  {
+    "name": "Kagamidai Boy A",
+    "_message": "“Hey, where have you been. Uryu?”",
+    "message": "[TL] Эй, где ты был. Урю?"
+  },
+  {
+    "_message": "I return to the classroom, fired up to get back into things, and the boys all cluster around me.",
+    "message": "[TL] Я возвращаюсь в класс, выстрелил, чтобы вернуться к вещам, и все мальчики объединяются вокруг меня."
+  },
+  {
+    "name": "Kagamidai Boy A",
+    "_message": "“Mukunashi isn’t here today. We need you around to pad our numbers, dude!”",
+    "message": "[TL] Мукунаши здесь сегодня нет. Нам нужно, чтобы вы вокруг, чтобы подумать о наших номерах, чувак!"
+  },
+  {
+    "name": "Kagamidai Boy B",
+    "_message": "“What can we do? What? These little ladies are all so hostile. They seriously want us gone!”",
+    "message": "[TL] Что мы можем сделать? Что? Эти маленькие дамы все такие враждебные. Они серьезно хотят, чтобы мы ушли!"
+  },
+  {
+    "_message": "The boys have taken some serious damage from feeling like fish out of water all morning.",
+    "message": "[TL] Мальчики нанесли серьезный ущерб от ощущения рыбы из воды все утро."
+  },
+  {
+    "_message": "I was in the same state before lunch, but now the soothing power of Amaha and Panditty has put me back in the game.",
+    "message": "[TL] Я был в том же штате перед обедом, но теперь успокаивающая сила Амахи и Пандитти вернула меня в игру."
+  },
+  {
+    "_message": "If Hayata was here, it would have been his place to say this—but he’s not.",
+    "message": "[TL] Если бы Хаята была здесь, это было бы его место, чтобы сказать это, но он не так."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“We’ve got this, guys. We can tough it out.”",
+    "message": "[TL] У нас есть это, ребята. Мы можем вырвать это ."
+  },
+  {
+    "_message": "I look around them all, and firmly state my resolve.",
+    "message": "[TL] Я оглядываюсь вокруг всех и твердо заявляю о своей решимости."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“We aren’t going to improve things like this. If we’re patient, mind our Ps and Qs, they’ll come around eventually.”",
+    "message": "[TL] Мы не собираемся улучшать такие вещи. Если мы терпеливы, помните о нашем PS и QS, они в конце концов придут ."
+  },
+  {
+    "name": "Kagamidai Boy B",
+    "_message": "“Do you... really think so?”",
+    "message": "[TL] Ты ... действительно так думаешь?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I really do.”",
+    "message": "[TL] Я действительно делаю."
+  },
+  {
+    "_message": "I do. Now I know that Yuihime has people like Amaha!",
+    "message": "[TL] Я делаю. Теперь я знаю, что у Yuihime есть такие люди, как Амаха!"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Enough!”",
+    "message": "[TL] Достаточно!"
+  },
+  {
+    "_message": "—But hold on. At the moment, there’s exactly one person like Amaha—that being Amaha herself.",
+    "message": "[TL] - но держись. На данный момент есть ровно один человек, как Амаха - это сама Амаха."
+  },
+  {
+    "_message": "We get into the afternoon, and it’s another parade of pissing off the Yuihime ladies.",
+    "message": "[TL] Мы добираемся до дня, и это еще один парад разозливания дам Юихиме."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Uryu!”",
+    "message": "[TL] Урю!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“What? Me?!”",
+    "message": "[TL] Что? Мне?!"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Who else would I be shouting at?!”",
+    "message": "[TL] На кого еще я буду кричать?!"
+  },
+  {
+    "name": "Yuihime Girl A",
+    "_message": "“You’re clearly the leader of the boys, Uryu.”",
+    "message": "[TL] Вы явно являетесь лидером мальчиков, Uryu."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Uh...”",
+    "message": "[TL] Эм-м-м..."
+  },
+  {
+    "_message": "It also seems like, as I’m the one always trying to buck the guys up...",
+    "message": "[TL] Также кажется, что я всегда пытаюсь поднять ребят ..."
+  },
+  {
+    "_message": "The Yuihime girls are starting to see anything distasteful from the boys as coming from me.",
+    "message": "[TL] Девочки Юихиме начинают видеть что -то неприятно от мальчиков как от меня."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Really, why?! Tell me why someone like you is Sakuno’s brother!”",
+    "message": "[TL] Действительно, почему?! Скажи мне, почему кто -то вроде тебя - брат Сакуно!"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "_message": "There’s a lot I’d like to fight back on about that point.",
+    "message": "[TL] Есть многое, что я хотел бы дать ответ по этому поводу."
+  },
+  {
+    "_message": "But I can’t risk speaking up.",
+    "message": "[TL] Но я не могу рисковать говорить."
+  },
+  {
+    "name": "Macchi",
+    "_message": "“Please, Sena. At times like this, I think we need to start from a place of discussion.”",
+    "message": "[TL] Пожалуйста, Сена. В такие времена, я думаю, мы должны начать с места обсуждения ."
+  },
+  {
+    "name": "Airi",
+    "_message": "“But that’s what’s so hard to do! How do we talk to these insensitive lumps?!”",
+    "message": "[TL] Но это то, что так сложно сделать! Как мы поговорим с этими нечувствительными комочками?!"
+  },
+  {
+    "name": "Macchi",
+    "_message": "“Oh, I knew you wouldn’t listen to me! Aah, what hope do I have?”",
+    "message": "[TL] О, я знал, что ты меня не слушаешь! Ааа, какая у меня надежда?"
+  },
+  {
+    "name": "Kagamidai Boy A",
+    "_message": "“Uryu, I’m so sorry! This one is all on me!”",
+    "message": "[TL] Ури, мне очень жаль! Это все на мне!"
+  },
+  {
+    "name": "Kagamidai Boy B",
+    "_message": "“Can you girls from Kagamidai back us up here please? You know we aren’t doing this on purpose!”",
+    "message": "[TL] Не могли бы вы, девочки из Кагамидай, поддержать нас здесь, пожалуйста? Вы знаете, что мы не делаем этого специально!"
+  },
+  {
+    "name": "Kagamidai Girl B",
+    "_message": "“It’s more like... we’re finally seeing your true colors since we arrived at Yuihime.”",
+    "message": "[TL] Это больше похоже на ... мы наконец -то видим ваши настоящие цвета с тех пор, как приехали в Юихиме."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "_message": "It’s starting to feel like we just have to accept whatever they say about us.",
+    "message": "[TL] Это начинает чувствовать, что мы просто должны принять все, что они говорят о нас."
+  },
+  {
+    "_message": "As I feared, there are far more downs in this place than ups.",
+    "message": "[TL] Как я боялся, в этом месте гораздо больше падений, чем UPS."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“—and that’s what Sena said.”",
+    "message": "[TL] - И это то, что Сена сказала."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "_message": "Over dinner, Sakuno has urged me to discuss the day at school.",
+    "message": "[TL] За ужином Сакуно призвал меня обсудить день в школе."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“It’s a tough one. Bringing together a group of such different people.”",
+    "message": "[TL] Это сложный. Собрать группу таких разных людей ."
+  },
+  {
+    "_message": "I eat some more of the potatoes, adding that somber comment.",
+    "message": "[TL] Я ем еще немного картофеля, добавляя этот мрачный комментарий."
+  },
+  {
+    "_message": "I don’t really want to upset her.",
+    "message": "[TL] Я действительно не хочу ее расстраивать."
+  },
+  {
+    "_message": "And we’re primarily talking about Sena, who is Sakuno’s newest friend.",
+    "message": "[TL] И мы в первую очередь говорим о Сене, которая является новым другом Сакуно."
+  },
+  {
+    "_message": "I don’t want her to start holding anything against Sena.",
+    "message": "[TL] Я не хочу, чтобы она начала что -то держаться против Сены."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Mm.”",
+    "message": "[TL] ММ."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“What?”",
+    "message": "[TL] Что?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“These potatoes.”",
+    "message": "[TL] Этот картофель."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“The potatoes are delicious.”",
+    "message": "[TL] Картофель вкусен."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“How’s your class, Sakuno? Are things difficult?”",
+    "message": "[TL] Как твой класс, Сакуно? Все сложно?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“1-T is pretty peaceful.”",
+    "message": "[TL] 1-T довольно мирно."
+  },
+  {
+    "_message": "Sakuno replies with her usual easygoing tone, eating the same potatoes as me.",
+    "message": "[TL] Сакуно отвечает своим обычным легким тоном, едет тот же картофель, что и я."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Scoff, scoff... these are good. And I cooked them.”",
+    "message": "[TL] Смешивается, смешиваюсь ... это хорошо. И я их приготовил ."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Yeah, delicious. You cook root veggies well, Sakuno.”",
+    "message": "[TL] Да, вкусно. Вы хорошо готовите корневые овощи, Сакуно ."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Oh, it’s nothing.”",
+    "message": "[TL] О, это ничего."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“The Yuihime girls seem pretty welcoming. Maybe because I’m a girl.”",
+    "message": "[TL] Девушки Юихиме кажутся довольно гостеприимными. Может, потому что я девушка."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“That might be a small part of it.”",
+    "message": "[TL] Это может быть небольшой частью этого."
+  },
+  {
+    "_message": "Surely one part of it—but also, there’s no Sena in 1-T.",
+    "message": "[TL] Конечно, одна часть этого, но также в 1-T нет сены."
+  },
+  {
+    "_message": "But no. I push away from thinking like that, even if I’m not sharing it.",
+    "message": "[TL] Но нет. Я отталкиваюсь от того, чтобы так думать, даже если я не делюсь этим."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“The boys might have it harder.”",
+    "message": "[TL] Мальчикам может быть сложнее."
+  },
+  {
+    "_message": "Sakuno looks at me intently.",
+    "message": "[TL] Сакуно пристально смотрит на меня."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“But you’ll be fine.”",
+    "message": "[TL] Но все будет в порядке."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“You can handle women, Shingy.”",
+    "message": "[TL] Вы можете справиться с женщинами, жесткими."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“No, no, no, hold on!”",
+    "message": "[TL] Нет, нет, нет, держись!"
+  },
+  {
+    "_message": "I wave my hand in front of my face.",
+    "message": "[TL] Я махаю рукой перед лицом."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I’m not the playboy type.”",
+    "message": "[TL] Я не тип Playboy."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“That’s not what I mean.”",
+    "message": "[TL] Это не то, что я имею в виду."
+  },
+  {
+    "_message": "Sakuno’s tone is as measured as a metronome.",
+    "message": "[TL] Тон Сакуно измеряется как метроном."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“You live with me, Shingy.”",
+    "message": "[TL] Ты живешь со мной, жених."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Ah. Yes, well, maybe that makes sense.”",
+    "message": "[TL] Ах. Да, ну, может быть, это имеет смысл ."
+  },
+  {
+    "_message": "Realizing what Sakuno is trying to say, I relax a little and nod.",
+    "message": "[TL] Понимая, что Сакуно пытается сказать, я немного расслабляюсь и киваю."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Yeah, that’s true. You’re my sister, but you are a girl, Sakuno.”",
+    "message": "[TL] Да, это правда. Ты моя сестра, но ты девушка, Сакуно."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I’d be your brother if I was a boy.”",
+    "message": "[TL] Я был бы твоим братом, если бы я был мальчиком."
+  },
+  {
+    "_message": "Sakuno gives a nod too. She still sounds like a metronome.",
+    "message": "[TL] Сакуно тоже кивает. Она все еще звучит как метроном."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“What you mean is—I should interact with the Yuihime girls like I interact with you.”",
+    "message": "[TL] Вы имеете в виду, что я должен взаимодействовать с девочками Yuihime, как я общаюсь с вами."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Just be yourself, Shingy.”",
+    "message": "[TL] Просто будь собой, жених."
+  },
+  {
+    "_message": "She makes a good point. Sakuno is a girl. Just act like I act with her.",
+    "message": "[TL] Она делает хороший момент. Сакуно - девушка. Просто ведь себя так, как будто я действую с ней."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...I’ll help wash up.”",
+    "message": "[TL] ... Я помогу мыть."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Thanks.”",
+    "message": "[TL] Спасибо."
+  },
+  {
+    "_message": "Sakuno gives a small laugh.",
+    "message": "[TL] Сакуно немного смеется."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“You’re good at helping out, Shingy.”",
+    "message": "[TL] Вы умеете помогать, жених."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“All thanks to you—and you just got me to say all sorts of things, huh.”",
+    "message": "[TL] Все спасибо тебе - и ты просто заставил меня сказать всевозможные вещи, да."
+  },
+  {
+    "_message": "But still...",
+    "message": "[TL] Но все же ..."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“Huh?”",
+    "message": "[TL] Хм?"
+  },
+  {
+    "_message": "After my evening meal, I’m relaxing in my room.",
+    "message": "[TL] После ужина я отдыхаю в своей комнате."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "_message": "Sakuno comes casually in, picks a spot to sit down, opens a book, and starts reading.",
+    "message": "[TL] Сакуно небрежно приходит, выбирает место, чтобы сесть, открывает книгу и начинает читать."
+  },
+  {
+    "_message": "It all looks so smooth and natural because she does this a lot.",
+    "message": "[TL] Все выглядит так гладко и естественно, потому что она много делает."
+  },
+  {
+    "_message": "She prefers my room to her own, apparently. Even if she doesn’t need me for anything, she often comes into my room like this.",
+    "message": "[TL] По -видимому, она предпочитает мою комнату. Даже если она ей не нужна ни для чего, она часто входит в мою комнату."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“...Hmmm.”",
+    "message": "[TL] ...Хм."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“?”",
+    "message": "[TL] ?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“I was thinking, the way you invite yourself inside like this, you aren’t really like other girls.”",
+    "message": "[TL] Я думал, как вы приглашаете себя внутри, как это, вы не похожи на других девушек."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "_message": "Sakuno looks up at me.",
+    "message": "[TL] Сакуно смотрит на меня."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I’m not like Airi?”",
+    "message": "[TL] Я не похож на Айри?"
+  },
+  {
+    "name": "Shingo",
+    "_message": "“That’s a given.”",
+    "message": "[TL] Это дано."
+  },
+  {
+    "_message": "Sakuno feels natural when she looks at me. Unassuming. Sena is colder, and harsher. It’s like she’s shooting a freeze ray from her eyes.",
+    "message": "[TL] Сакуно чувствует себя естественным, когда смотрит на меня. Скромный. Сена холоднее и более жесткая. Как будто она стреляет из луча замораживания с глаз."
+  },
+  {
+    "name": "Shingo",
+    "_message": "“But I don’t think it’s just her. You’re different from most girls, Sakuno.”",
+    "message": "[TL] Но я не думаю, что это только она. Вы отличаетесь от большинства девушек, Сакуно ."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "_message": "Sakuno lowers her head and thinks for a moment.",
+    "message": "[TL] Сакуно понижает голову и думает на мгновение."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...Yeah.”",
+    "message": "[TL] ...Ага."
+  },
+  {
+    "_message": "She gives a slow nod and then starts reading again.",
+    "message": "[TL] Она медленно кивает, а затем снова начинает читать."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Oh...”",
+    "message": "[TL] Ой..."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Hello. This is Sena.”",
+    "message": "[TL] Привет. Это Сена ."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“It’s me.”",
+    "message": "[TL] Это я."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Hey, Sakuno...”",
+    "message": "[TL] Эй, Сакуно ..."
+  },
+  {
+    "_message": "The call I hurried to pick up was from my new friend, Sakuno.",
+    "message": "[TL] Звонок, который я поспешил забрать, был от моего нового друга Сакуно."
+  },
+  {
+    "_message": "I’m happy she decided to call but also nervous about what she might say.",
+    "message": "[TL] Я рада, что она решила позвонить, но также нервничала из -за того, что она может сказать."
+  },
+  {
+    "_message": "I’ve got images of her brother in the back of my mind.",
+    "message": "[TL] У меня есть изображения ее брата в глубине души."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Sorry, I called you again.”",
+    "message": "[TL] Извините, я снова позвонил тебе."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Are you out?”",
+    "message": "[TL] Вы вышли?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Yep. Same as yesterday.”",
+    "message": "[TL] Ага. Так же, как вчера ."
+  },
+  {
+    "_message": "Sakuno has the same light tone I’ve always heard her use.",
+    "message": "[TL] У Сакуно есть тот же легкий тон, который я всегда слышал ее."
+  },
+  {
+    "_message": "Hearing that really puts me at ease. It seems like everything that happened today hasn’t soured our relationship.",
+    "message": "[TL] Слыша, что это действительно облегчает меня. Кажется, что все, что произошло сегодня, не испортило наши отношения."
+  },
+  {
+    "_message": "—But then I wonder. Why would that put me at ease?",
+    "message": "[TL] - но тогда мне интересно. Зачем мне это успокаивать?"
+  },
+  {
+    "_message": "Am I feeling guilty about what went down?",
+    "message": "[TL] Я чувствую себя виноватым в том, что произошло?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Just be careful about your phone bill. You might start regretting all these calls when you see it.”",
+    "message": "[TL] Просто будьте осторожны с счетом на телефон. Вы можете начать сожалеть о всех этих вызовах, когда видите это ."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“If it’s money spent talking to you, Airi, I don’t think I could regret that.”",
+    "message": "[TL] Если это деньги, потраченные на разговор с тобой, Айри, я не думаю, что могу пожалеть об этом."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...You know just what to say.”",
+    "message": "[TL] ... ты знаешь, что сказать."
+  },
+  {
+    "_message": "She’s cute, I have to give her that.",
+    "message": "[TL] Она милая, я должен дать ей это."
+  },
+  {
+    "_message": "She doesn’t say much, but when she does speak I find her words often make a deep impression.",
+    "message": "[TL] Она мало говорит, но когда она говорит, я обнаруживаю, что ее слова часто производят глубокое впечатление."
+  },
+  {
+    "_message": "That’s one of the reasons we’ve become so close so quickly.",
+    "message": "[TL] Это одна из причин, по которой мы так быстро стали так близко."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Well, seeing as you’ve been kind enough to call, you can keep me company until I get home again.”",
+    "message": "[TL] Ну, если бы вы были достаточно любезны, чтобы позвонить, вы можете держать меня в компании, пока я снова не вернусь домой."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“I’m here for the ride.”",
+    "message": "[TL] Я здесь для поездки."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Hey, I did just see a little outfit that I think would look great on you, Sakuno. You know that place—”",
+    "message": "[TL] Эй, я только что увидел маленький наряд, который, я думаю, будет отлично выглядеть на тебе, Сакуно. Вы знаете это место -"
+  },
+  {
+    "_message": "I walk through the evening, chatting to Sakuno on the phone.",
+    "message": "[TL] Я хожу через вечер, болтая с Сакуно по телефону."
+  },
+  {
+    "name": "Airi",
+    "_message": "“—and it would really suit your frame, you are so slender. What do you think?”",
+    "message": "[TL] - И это действительно подойдет вашей раме, вы такие стройные. Что вы думаете?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Yeah. That sounds nice.”",
+    "message": "[TL] Ага. Это звучит красиво ."
+  },
+  {
+    "_message": "Even Sakuno’s filler comments feel good.",
+    "message": "[TL] Даже комментарии наполнителя Сакуно чувствуют себя хорошо."
+  },
+  {
+    "_message": "She doesn’t use them often, and they remain simple, but she picks her timing perfectly and really hits the mark.",
+    "message": "[TL] Она не использует их часто, и они остаются простыми, но она идеально выбирает свое время и действительно поражает."
+  },
+  {
+    "_message": "The conversation just bubbles along when chatting to Sakuno.",
+    "message": "[TL] Разговор просто пузырится, когда болтает с Сакуно."
+  },
+  {
+    "_message": "...So long as I keep other things out of my head.",
+    "message": "[TL] ... пока я держу другие вещи из головы."
+  },
+  {
+    "_message": "“Like how it was exactly the same when chatting with Uryu—before everything else happened.”",
+    "message": "[TL] «Например, как это было точно так же, когда болтала с Уриу - до того, как все остальное произошло»."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Airi, are you lost in thought?”",
+    "message": "[TL] Айри, ты проиграл в мыслях?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Huh?! Ah, well, you know...”",
+    "message": "[TL] Хм?! Ах, хорошо, вы знаете ..."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...Just thinking about how... conversation with you bubbles along so nicely...”",
+    "message": "[TL] ... просто подумай о том, как ... разговор с тобой так хорошо пузырится ..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“You have a silver tongue yourself.”",
+    "message": "[TL] У тебя есть серебряный язык самостоятельно."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Hey, quit it! That’s kinda embarrassing.”",
+    "message": "[TL] Эй, брось! Это немного смущает ."
+  },
+  {
+    "name": "Airi",
+    "_message": "“I’m not normally one to compliment people like that, okay? It’s you’re the one dragging it out of me!”",
+    "message": "[TL] Обычно я не дополняю таких людей, хорошо? Это ты тот, кто вытаскивал его из меня!"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Hehehe.”",
+    "message": "[TL] Хе -хе."
+  },
+  {
+    "_message": "Just chatting about nothing like this is so much fun. I can’t put my finger on it, but I feel so comfortable around her.",
+    "message": "[TL] Просто болтать о чем -то подобном, это так весело. Я не могу положить на это пальцем, но я чувствую себя так комфортно вокруг нее."
+  },
+  {
+    "_message": "Whatever the reason, the conversation bubbles. That’s the word for it.",
+    "message": "[TL] Какой бы ни была причина, разговор пузырится. Это слово для этого."
+  },
+  {
+    "_message": "But then bubbles—are also going to pop, eventually.",
+    "message": "[TL] Но затем пузыри - также собираются появиться, в конце концов."
+  },
+  {
+    "_message": "Keeping it going means you need more bubbles to bubble up from below.",
+    "message": "[TL] Сохранение этого означает, что вам нужно больше пузырьков, чтобы пузыриться снизу."
+  },
+  {
+    "_message": "Some new topic. Something we haven’t talked about yet. It seems inevitable.",
+    "message": "[TL] Некоторая новая тема. То, о чем мы еще не говорили. Это кажется неизбежным."
+  },
+  {
+    "name": "Airi",
+    "_message": "“How is... Yuihime? I know you’ve only had two days, but are you settling in?”",
+    "message": "[TL] Как ... Юихиме? Я знаю, что у вас было всего два дня, но вы поселились?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“It’s a shame you’re a student there, but we aren’t in the same year. I wish we were the same age!”",
+    "message": "[TL] Жаль, что ты там студент, но мы не в том же году. Я бы хотел, чтобы мы были того же возраста!"
+  },
+  {
+    "_message": "And the next thing to bubble up is school life. I knew it was coming, although I’ve been avoiding it.",
+    "message": "[TL] И следующая вещь, чтобы пузыриться, это школьная жизнь. Я знал, что это произойдет, хотя я избегал этого."
+  },
+  {
+    "_message": "—Why? Why would I avoid this?",
+    "message": "[TL] -Почему? Зачем мне это избегать?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“I know. I wanted to be your classmate too, Sakuno.”",
+    "message": "[TL] Я знаю. I wanted to be your classmate too, Sakuno."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Sounds like things are harder in the second year.”",
+    "message": "[TL] Sounds like things are harder in the second year."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Shingo has talking.”",
+    "message": "[TL] Shingo has talking."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...Yeah, I guess things are hard.”",
+    "message": "[TL] ...Yeah, I guess things are hard."
+  },
+  {
+    "_message": "And so we start talking about him.",
+    "message": "[TL] And so we start talking about him."
+  },
+  {
+    "_message": "—That’s why I was avoiding this.",
+    "message": "[TL] —That’s why I was avoiding this."
+  },
+  {
+    "_message": "And yet I’m the one who started this topic.",
+    "message": "[TL] And yet I’m the one who started this topic."
+  },
+  {
+    "_message": "She’s my friend, and I want to get some stuff off my chest. That’s where this is all coming from.",
+    "message": "[TL] She’s my friend, and I want to get some stuff off my chest. That’s where this is all coming from."
+  },
+  {
+    "_message": "I don’t have the easiest personality. I’ll happily admit that.",
+    "message": "[TL] I don’t have the easiest personality. I’ll happily admit that."
+  },
+  {
+    "_message": "Not that I would ever seek to change it. I don’t want to lose my footing.",
+    "message": "[TL] Not that I would ever seek to change it. I don’t want to lose my footing."
+  },
+  {
+    "_message": "I need to remain stable.",
+    "message": "[TL] I need to remain stable."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...Let me apologize again for surprising you like that on the first day.”",
+    "message": "[TL] ...Let me apologize again for surprising you like that on the first day."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“And you’re still against the merger?”",
+    "message": "[TL] And you’re still against the merger?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Pretty much. I’m sorry, Sakuno, but I just don’t want boys around.”",
+    "message": "[TL] Pretty much. I’m sorry, Sakuno, but I just don’t want boys around."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“Even Shingo?”",
+    "message": "[TL] Even Shingo?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“Yes, even Shin—even Uryu.”",
+    "message": "[TL] Yes, even Shin—even Uryu."
+  },
+  {
+    "_message": "For a moment I almost say “Shingy” myself.",
+    "message": "[TL] For a moment I almost say “Shingy” myself."
+  },
+  {
+    "_message": "A clear indication of the convoluted feelings I have towards him.",
+    "message": "[TL] A clear indication of the convoluted feelings I have towards him."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...No, that’s not true. It’s not ‘even Uryu’—it’s primarily him. I’m not sure how to put it...”",
+    "message": "[TL] ...No, that’s not true. It’s not ‘even Uryu’—it’s primarily him. I’m not sure how to put it..."
+  },
+  {
+    "name": "Airi",
+    "_message": "“I can’t keep my cool around him.”",
+    "message": "[TL] I can’t keep my cool around him."
+  },
+  {
+    "_message": "That’s it.",
+    "message": "[TL] Вот и все."
+  },
+  {
+    "_message": "I can’t keep my cool.",
+    "message": "[TL] I can’t keep my cool."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Because I met you two before the provisional merger.”",
+    "message": "[TL] Because I met you two before the provisional merger."
+  },
+  {
+    "_message": "And because he’s Sakuno’s brother.",
+    "message": "[TL] And because he’s Sakuno’s brother."
+  },
+  {
+    "_message": "In some sense, I feel like I have a connection with him, but we barely know each other directly at all.",
+    "message": "[TL] In some sense, I feel like I have a connection with him, but we barely know each other directly at all."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...That’s why having someone like him so close, on my home turf, is unsettling me.”",
+    "message": "[TL] ...That’s why having someone like him so close, on my home turf, is unsettling me."
+  },
+  {
+    "_message": "That’s why I’m pushing back so hard.",
+    "message": "[TL] That’s why I’m pushing back so hard."
+  },
+  {
+    "_message": "Pushing back against this situation.",
+    "message": "[TL] Pushing back against this situation."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...What about me?”",
+    "message": "[TL] ...А что я?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“It’s different for you, Sakuno. We’re both girls.”",
+    "message": "[TL] It’s different for you, Sakuno. We’re both girls."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...”",
+    "message": "[TL] ..."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...Yeah.”",
+    "message": "[TL] ...Ага."
+  },
+  {
+    "_message": "I give a sigh.",
+    "message": "[TL] I give a sigh."
+  },
+  {
+    "_message": "I know that “both girls” part is difficult too. I know it too well.",
+    "message": "[TL] I know that “both girls” part is difficult too. I know it too well."
+  },
+  {
+    "_message": "But that just makes it even harder, having boys around. That part definitely isn’t limited to just Uryu.",
+    "message": "[TL] But that just makes it even harder, having boys around. That part definitely isn’t limited to just Uryu."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...Hey, Sakuno.”",
+    "message": "[TL] ...Hey, Sakuno."
+  },
+  {
+    "name": "Airi",
+    "_message": "“Why do you think boys even exist?”",
+    "message": "[TL] Why do you think boys even exist?"
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“...Because there are girls?”",
+    "message": "[TL] ...Because there are girls?"
+  },
+  {
+    "_message": "I give another sigh. There’s no doubting her logic there.",
+    "message": "[TL] I give another sigh. There’s no doubting her logic there."
+  },
+  {
+    "_message": "...Men, and women.",
+    "message": "[TL] ...Men, and women."
+  },
+  {
+    "_message": "No matter how I try to resist, I’m a woman, which keeps me aware of the existence of men.",
+    "message": "[TL] No matter how I try to resist, I’m a woman, which keeps me aware of the existence of men."
+  },
+  {
+    "name": "Airi",
+    "_message": "“...I wish gender didn’t exist.”",
+    "message": "[TL] ...I wish gender didn’t exist."
+  },
+  {
+    "name": "Sakuno",
+    "_message": "“You want us to all be mewomen?”",
+    "message": "[TL] You want us to all be mewomen?"
+  },
+  {
+    "name": "Airi",
+    "_message": "“...Too hard to say. That’s probably why they split us up.”",
+    "message": "[TL] ...Too hard to say. That’s probably why they split us up."
+  }
+]
