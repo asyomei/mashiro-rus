@@ -6,7 +6,7 @@
 [[VNDB] Mashiroiro Symphony HD -Sana Edition-](https://vndb.org/v37651)
 
 ## Статус перевода
-Не начат (возможен автоперевод)
+Начат 25.02.2025
 
 ## Перевод
 1. Вытащить файлы сценарии (см. KirikiriTools > KirikiriUnencryptedArchive)
