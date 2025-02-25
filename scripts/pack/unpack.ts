@@ -1,14 +1,14 @@
 import { mkdir } from "node:fs/promises"
-import { join } from "node:path"
+import { basename, dirname, join } from "node:path"
 import spawn from "nano-spawn"
 
-const scnDir = process.argv[2]
-if (!scnDir) {
-  console.error("Required: path/to/scenarios")
+const scnFile = process.argv[2]
+if (!scnFile) {
+  console.error("Required: path/to/file.txt.scn")
   process.exit(1)
 }
 
 await mkdir("scenarios/unpacked", { recursive: true })
-const jsonDir = join(scnDir, "unpacked")
+const jsonFile = join(dirname(scnFile), "unpacked", basename(scnFile).replace(".scn", ".json"))
 
-await spawn("./external/VNTextPatch/VNTextPatch.exe", ["extractlocal", scnDir, jsonDir], { stdio: "inherit" })
+await spawn("./external/VNTextPatch/VNTextPatch.exe", ["extractlocal", scnFile, jsonFile], { stdio: "inherit" })
